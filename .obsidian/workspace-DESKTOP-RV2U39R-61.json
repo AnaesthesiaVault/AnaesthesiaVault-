@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "d9104663796de12b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d3e8073295228b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33eb32467c479329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Anaesthesia 2nd brain/Paper case structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00e304886c932a65",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e6bf38549035370",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e36fa17b7f96e328",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c3f0225f231bc69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b3b5ccbb2a45a40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5452008e13e2a7e5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5110321044922
+  },
+  "right": {
+    "id": "1979b41a22d2702e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdfb7ceafcf397ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67a15bee6878de69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "04b3fa86c34da9f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/Anaesthesia 2nd brain/Paper case structure.md"
+              }
+            }
+          },
+          {
+            "id": "0aab8336838ee4b9",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ab2e0f9ab000f6e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ea0f990d1873e8f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9834a53c5441aab2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Anaesthesia 2nd brain/Paper case structure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "008c8147a019dedc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/Anaesthesia 2nd brain/Paper case structure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "788323a3bf5e7c72",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 537.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-omnivore:Omnivore": false
+    }
+  },
+  "active": "33eb32467c479329",
+  "lastOpenFiles": [
+    "Projects/Anaesthesia 2nd brain/Planning.md",
+    "Areas/Anaesthesia Brain.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 3_Obstetrics/Hypertension in pregnancy.md",
+    "Projects/Anaesthesia 2nd brain/Paper case structure.md",
+    "Archive/Images/Pasted image 20240919141355.png",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Sedation.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Essential diagrams and classifications.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Anaesthesia Formulas.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 5_Neurosurgery/Neurosurgical implants.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 5_Neurosurgery/Transplants and organ donation.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia brain/Domain 05 Neuro and spinal surgery.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia brain/Domain 07 Paediatric Anaesthesia.md",
+    "Areas/Anaesthesia 2nd brain.canvas",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia brain/Domain 06 Airway, ENT, Ophthalmology, Plastics and dental.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 5_Neurosurgery/Dementia.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric transplants.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric equipment.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ENT.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric general surgery.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric post op complications.md",
+    "Archive/Images/Emergence Delirium copy.docx.pdf",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric emergencies.md",
+    "Archive/Images/7FBBC87B-3E45-4451-8CD7-E496646166C5.jpeg",
+    "Archive/Images/4E1D4A01-1071-4FE1-B8A5-1C7F112741A7.jpeg",
+    "Archive/Images/Resp Tract Inf in Child 1.pdf",
+    "Archive/Images/Tonsillectomy.pdf",
+    "Archive/Images/3AE0B5DF-19F3-483B-A6DD-8B5A8C357137.jpeg",
+    "Archive/Images/Abdominal Wall Defects.docx.pdf",
+    "Archive/Images/APA1-DiffMaskVent-FINAL.pdf",
+    "Archive/Images/E85D51FA-F672-4ED9-9990-09A79C295744.jpeg",
+    "Archive/Images/D698DE43-DFD4-46A0-9672-5308BD83A420.jpeg",
+    "Archive/Images/Paeds Liver Transplant - pre-opassessment.pdf",
+    "Archive/Images/7141DE25-991A-44F9-8C67-E621F1449EFC.jpeg",
+    "Archive/Images/APA3-CICV-FINAL.pdf",
+    "Archive/Images/Neurocognitive impairment and Neurotoxicity.docx.pdf",
+    "Archive/Images/Inhaled foreign bodies in Paeds.docx-2.pdf",
+    "Archive/Images/30804991-ADCC-4AFC-BC8F-7773AA0F3AA4.jpeg",
+    "Archive/Images/B1792FAA-9D45-4F95-B3A1-91274925ADD0.jpeg",
+    "Archive/Images/Paeds emergencies- Laryngospasms, sux apnoea, MH, Anaphylaxis.docx.pdf",
+    "Archive/Images/E81BF574-FB87-457E-B267-3FDE14BE9DA8.jpeg",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Thoracics.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric neuro-anaesthesia.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric neurosurgery.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric craniofacial abnormalities- Anaesthesia for surgery related to Craniosynostosis.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Neonatal Anaesthesia.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric plastic surgery.md",
+    "Index.canvas"
+  ]
+}

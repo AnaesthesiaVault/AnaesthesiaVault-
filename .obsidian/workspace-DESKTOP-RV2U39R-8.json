@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "b03620cd7620229b",
+    "type": "split",
+    "children": [
+      {
+        "id": "994bebd1da118ce2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "971ff29e01047ccf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64a76b8dd413a0a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf220c1c3981febe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5905b0c2e77e213",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7820bc7ab6b6565",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b344b8adde99a05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c22fb47e36ffc4b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "14819b09aaf6f876",
+    "type": "split",
+    "children": [
+      {
+        "id": "28b0c41120d8a157",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "256ad89ce1ed674d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b0517e9dc6335235",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "055fe11e1af364a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86049ca635333614",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "26053c93384d574b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "78f91e5c06236412",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e66be8860bef9ac",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e0812ce7f4ad65e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "971ff29e01047ccf",
+  "lastOpenFiles": [
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Domain 4_ Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Domain 1_Topics and links.md",
+    "Domain 15_ Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 9_ Pain/Domain 9_Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 12_ Ethics/Domain 12_ Topics and Links.md",
+    "Literature notes/Anaesthesia core notes/Domain 8_ ICU/Domain 8_ Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Domain 2_ Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Domain 5_ Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Domain 7_Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Domain 6_ Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Domain 3_ Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Renal Physiology.md",
+    "Images/Unpacking Perioperative POCUS Trends in Cape Town, South Africa through PURE 0.2.docx",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md",
+    "Images/Pasted image 20230905122344.png",
+    "Images/Pasted image 20230905122212.png",
+    "Images/Pasted image 20230905122134.png",
+    "Images/Pasted image 20230905121601.png",
+    "Images/Pasted image 20230905121202.png",
+    "Images/Pasted image 20230905120715.png",
+    "Images/Pasted image 20230905120619.png",
+    "Images/Pasted image 20230905120547.png",
+    "Images/Pasted image 20230905120050.png",
+    "Images/Pasted image 20230904180017.png",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Approach to anaesthesia for paediatric patients.md",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ENT.md",
+    "desktop.ini",
+    "Untitled.md",
+    "Congenital abnormalities.md",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md",
+    "Reference folder/Nair_PAEDIATRICPAIN_.md",
+    "Reference folder/Nair_PAEDIATRICPAIN_2013.md",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric day case.md",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md",
+    "Paediatric clinical conditions (Important).md",
+    "Paediatric Anaesthesia for Prematurity.pptx",
+    "Paediatric Anaesthesia for Prematurity.docx",
+    "Obstetric canvas.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

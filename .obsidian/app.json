@@ -1,0 +1,16 @@
+{
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "Archive/Images",
+  "spellcheckLanguages": null,
+  "useMarkdownLinks": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "4508f5b4982c9782",
+    "type": "split",
+    "children": [
+      {
+        "id": "b69d994d27e35c35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "782e39a69ee529d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caf14267b65accd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Altitude.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "928ff76e5d615c74",
+    "type": "split",
+    "children": [
+      {
+        "id": "e542999b84574c15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e46a30ed91eb67b7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "7dc85357bc73a6a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc96cd9103716aef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#hypercarb",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "161deb08353cf0d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5
+  },
+  "right": {
+    "id": "0e104047f3ed9426",
+    "type": "split",
+    "children": [
+      {
+        "id": "edcb5a0d371ee8e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0ad8ebf57f424d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "afbc830461af3e89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Altitude.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7ddd242bd1ee98d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Altitude.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43b2d34028a5aa07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c9743405a91cabc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Altitude.md"
+              }
+            }
+          },
+          {
+            "id": "417a146575ddb4d9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "f83fa2ea3b148c6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Altitude.md"
+              }
+            }
+          },
+          {
+            "id": "3ff0ea0dd3f257ae",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "caf14267b65accd4",
+  "lastOpenFiles": [
+    "2023.md",
+    "2023.md~RFaab8e80.TMP",
+    "CPR/ACLS.md",
+    "CPR",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Domain 1_Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Anaesthesia emergencies.md",
+    "Images/Pasted image 20240312151202.png",
+    "Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md",
+    "Images/Pasted image 20240312151050.png",
+    "Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md",
+    "Images/Pasted image 20240312150956.png",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Temperature management.md",
+    "Images/Pasted image 20240312150837.png",
+    "Images/Pasted image 20240312150807.png",
+    "Images/Pasted image 20240312150656.png",
+    "Images/Pasted image 20240312150558.png",
+    "Images/Pasted image 20240312150536.png",
+    "Images/Pasted image 20240312131944.png",
+    "Images/Pasted image 20240312131841.png",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Hypertension.md",
+    "Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Domain 2_ Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Heart failure.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Transplants and organ donation.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiopulmonary transplant.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Haematology.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Neuromuscular disorders.md",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Post op complications.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/EVAR.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Epilepsy.md",
+    "Literature notes/Anaesthesia core notes/Domain 15_Regional Anaesthesia/Neuraxial.md",
+    "Literature notes/Anaesthesia core notes/Domain 15_Regional Anaesthesia/Domain 15_ Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Pulmonary Hypertension.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Cardiac disease in pregnancy.md",
+    "Literature notes/Anaesthesia core notes/Domain 8_ ICU/Toxicology.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cystic Fibrosis.md",
+    "Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Polytrauma and haemorrhagic shock.md",
+    "Tourniquets.md~RF57cc6dc2.TMP",
+    "Tetanus.md~RF57cc6556.TMP",
+    "Stroke.md~RF57cc6045.TMP",
+    "Surgical site infection.md~RF57cc5eed.TMP",
+    "Sepsis.md~RF57cc5558.TMP",
+    "Sedation.md~RF57cc5086.TMP",
+    "Pulmonary edema.md~RF57cc4385.TMP",
+    "Premedication.md~RF57cc3bb5.TMP"
+  ]
+}

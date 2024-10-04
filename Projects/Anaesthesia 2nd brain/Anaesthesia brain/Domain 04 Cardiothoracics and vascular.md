@@ -1,0 +1,92 @@
+---
+Date modified: Friday, October 4th 2024, 2:18:53 pm
+---
+# Cardiac Surgery
+## Approach and General Considerations
+- [[Cardiac surgery]]
+- [[Anaesthetic management of specific cardiac conditions]]
+- [[Cardiac for non-cardiac surgery]]
+- [[Anticoagulation]]
+- [[Advanced cardiac life support (ACLS)]]
+- [[Transoesophageal ultrasound (TOE)]]
+## Physiology and Pharmacology
+- [[Cardiac physiology]]
+- [[Aortic cross clamp]]
+- [[Cardiac protection]]
+- [[Inotropes]]
+- [[Anti-arrhythmic drugs]]
+- [[Anti-Hypertensive agents]]
+## Pathology
+- [[Pulmonary Hypertension]]
+- [[Pericardial disease]]
+- [[Valvular heart disease]]
+- [[Infective endocarditis]]
+- [[Rheumatic heart disease]]
+- [[Paediatric congenital heart disease]]
+- [[Autonomic neuropathy]]
+- [[Atrial fibrillation]]
+- [[Ischaemic heart disease]]
+- [[Heart failure]]
+- [[Cardiomyopathy]]
+- [[Arrythmias]]
+- [[Post op MI]]
+- [[Acute coronary syndrome (ACS)]]
+- [[Hypertension]]
+## Procedural and Surgical Cardiac Topics
+- [[Bypass]]
+- [[Off Pump CABG]]
+- [[Coronary artery bypass surgery (CABG)]]
+- [[Assist devices]]
+- [[Pacemakers]]
+- [[Cath lab anaesthesia]]
+- [[Intra- Aortic Balloon Pump (IABP)]]
+- [[Extracorporeal membrane oxygenation (ECMO)]]
+- [[Transcatheter Aortic Valve Replacement (TAVR)]]
+- [[Transplants and organ donation]]
+# Thoracic Surgery
+## Approach and General Considerations
+- [[Exercise testing and optimization]]
+- [[Thoracic pre-op assessment]]
+- [[Post op pulmonary complications]]
+- [[Thoracic surgery analgesia]]
+## Physiology
+- [[Open chest]]
+- [[Hypoxia Pulmonary Vasoconstriction (HPV)]]
+- [[Respiratory physiology and Thoracic anaesthesia]]
+## Pathology
+- [[Bronchopleural-fistula]]
+- [[Mediastinal masses]]
+- [[Aspiration]]
+- [[Pulmonary embolism]]
+- [[Asthma and Chronic Obstructive Pulmonary Disease (COPD)]]
+- [[Restrictive lung diseases]]
+- [[Tuberculosis (TB)]]
+- [[Bronchiectasis]]
+- [[Pulmonary edema]]
+- [[Cystic Fibrosis]]
+- [[Smoking]]
+- [[Obstructive sleep apnea]]
+## Procedural and Surgical Cardiac Topics
+- [[Awake tracheostomy and intubation]]
+- [[Whole lung lavage]]
+- [[One lung Ventilation and VATS]]
+- [[Double lumen and Bronchial blocker]]
+- [[Thoracic emergencies]]
+- [[Oesophagectomy]]
+- [[Lung resection]]
+- [[Long volume reduction surgery]]
+- [[Tracheal surgery]]
+- [[Transplants and organ donation]]
+# Vascular Surgery
+## Physiology
+- [[Vascular physiology]]
+- [[Aortic cross clamp]]
+## Pathology
+- [[Vasculitis]]
+## Procedural and Surgical Cardiac Topics
+- [[Aortic surgery]]
+- [[Peripheral Vascular Disease (PVD) and Risk Stratification]]
+- [[Vascular surgery]]
+- [[Upper and lower limb vascular surgery]]
+- [[Carotid Endarterectomy (CEA)]]
+- [[Endovascular Abdominal Aortic Aneurysm Repair (EVAR)]]

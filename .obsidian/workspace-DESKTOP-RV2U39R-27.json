@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "4508f5b4982c9782",
+    "type": "split",
+    "children": [
+      {
+        "id": "3848bbc1c08fabea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02fbaf5109a6783a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Domain 3_ Topics and links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "928ff76e5d615c74",
+    "type": "split",
+    "children": [
+      {
+        "id": "e542999b84574c15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e46a30ed91eb67b7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "7dc85357bc73a6a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc96cd9103716aef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "161deb08353cf0d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e104047f3ed9426",
+    "type": "split",
+    "children": [
+      {
+        "id": "edcb5a0d371ee8e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0ad8ebf57f424d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "afbc830461af3e89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Domain 3_ Topics and links.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7ddd242bd1ee98d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Domain 3_ Topics and links.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43b2d34028a5aa07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c9743405a91cabc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Domain 3_ Topics and links.md"
+              }
+            }
+          },
+          {
+            "id": "252f08091768fa76",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          },
+          {
+            "id": "417a146575ddb4d9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "f8aa654ac25134c8",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0491373237318aea",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "02fbaf5109a6783a",
+  "lastOpenFiles": [
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Hypertensive disease in pregnancy.md",
+    "Summaries/Anaesthesia summaries/Hypertensive disorders in pregnancy_Sum.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Domain 3_ Topics and links.md",
+    "TCI/TIVA.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Labour analgesia.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Domain 5_ Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Spine surgery.md",
+    "Reference folder/Swann.etal_Postoperativecomplications_2016.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Spinal cord surgery.md",
+    "Zotero Images/image-2-x98-y142.png.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Neuromonitoring.md",
+    "Reference folder/_Spinalsurgery_.md",
+    "Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Pheochromocytoma.md",
+    "Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/Domain 14_ Topics and Links.md",
+    "Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/BIS.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Domain 1_Topics and links.md",
+    "TCI",
+    "Reference folder/Chang.Raker_BispectralIndex_2019.md",
+    "Images/Pasted image 20231030133735.png",
+    "Airway equipment and techniques.md",
+    "Zotero Images/image-6-x47-y258.png.md",
+    "Images/Pasted image 20231030125549.png",
+    "Zotero Images/image-7-x40-y433.png",
+    "Zotero Images/image-6-x122-y85.png",
+    "Zotero Images/image-5-x57-y595.png",
+    "Zotero Images/image-4-x111-y94.png",
+    "Zotero Images/image-3-x170-y547.png",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Awake craniotomy.md",
+    "snippets/Checkboxes.css.md",
+    "snippets",
+    "Images/Pasted image 20231026183223.png",
+    "Images/Pasted image 20231026183125.png",
+    "Images/Pasted image 20231026180858.png",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric neurosurgery.md",
+    "Reference folder/loboAnaesthesiaAwakeCraniotomy2018.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac for non-cardiac surgery.md",
+    "Literature notes/Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/POVL.md",
+    "Literature notes/Anaesthesia core notes/Domain 8_ ICU/ARDS.md",
+    "Images/Never events.pdf",
+    "Images/Death on table.pdf",
+    "Coagulation"
+  ]
+}

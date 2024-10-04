@@ -1,0 +1,88 @@
+/* Adjust line spacing for paragraphs in preview mode */
+.markdown-preview-view p {
+    line-height: 1.4; /* Keeps spacing within paragraphs at 1.4 */
+    margin-top: 0;  /* Removes margin above paragraphs */
+    margin-bottom: 1.4em; /* Adds proper spacing after paragraphs */
+}
+
+/* Adjust line spacing for paragraphs in editing mode */
+.cm-content .CodeMirror-line {
+    line-height: 1.4; /* Keeps spacing within paragraphs at 1.4 */
+    margin-top: 0;  /* Removes margin above paragraphs in editing mode */
+    margin-bottom: 1.4em; /* Adds proper spacing after paragraphs in editing mode */
+}
+
+/* Remove spacing before and after headings and tables in preview mode */
+.markdown-preview-view h1, 
+.markdown-preview-view h2, 
+.markdown-preview-view h3, 
+.markdown-preview-view h4, 
+.markdown-preview-view h5, 
+.markdown-preview-view h6,
+.markdown-preview-view table {
+    margin-top: 0;  /* Removes space before headings and tables */
+    margin-bottom: 0; /* Removes space after headings and tables */
+}
+
+/* Remove spacing before and after headings and tables in editing mode */
+.cm-header-1, 
+.cm-header-2, 
+.cm-header-3, 
+.cm-header-4, 
+.cm-header-5, 
+.cm-header-6,
+.cm-table {
+    margin-top: 0;  /* Removes space before headings and tables in edit mode */
+    margin-bottom: 0; /* Removes space after headings and tables in edit mode */
+}
+
+/* Remove spacing between headings and paragraphs */
+.markdown-preview-view h1 + p,
+.markdown-preview-view h2 + p,
+.markdown-preview-view h3 + p,
+.markdown-preview-view h4 + p,
+.markdown-preview-view h5 + p,
+.markdown-preview-view h6 + p,
+.cm-header-1 + .CodeMirror-line,
+.cm-header-2 + .CodeMirror-line,
+.cm-header-3 + .CodeMirror-line,
+.cm-header-4 + .CodeMirror-line,
+.cm-header-5 + .CodeMirror-line,
+.cm-header-6 + .CodeMirror-line {
+    margin-top: 0; /* Removes space between a heading and the following paragraph */
+}
+
+/* Remove spacing between tables and paragraphs */
+.markdown-preview-view table + p,
+.cm-table + .CodeMirror-line {
+    margin-top: 0; /* Removes space between a table and the following paragraph */
+}
+
+/* Ensure no spacing between heading, table, and paragraph combinations */
+.markdown-preview-view h1 + table, 
+.markdown-preview-view h2 + table, 
+.markdown-preview-view h3 + table, 
+.markdown-preview-view h4 + table, 
+.markdown-preview-view h5 + table, 
+.markdown-preview-view h6 + table,
+.markdown-preview-view table + h1, 
+.markdown-preview-view table + h2, 
+.markdown-preview-view table + h3, 
+.markdown-preview-view table + h4, 
+.markdown-preview-view table + h5, 
+.markdown-preview-view table + h6,
+.cm-header-1 + .cm-table,
+.cm-header-2 + .cm-table,
+.cm-header-3 + .cm-table,
+.cm-header-4 + .cm-table,
+.cm-header-5 + .cm-table,
+.cm-header-6 + .cm-table,
+.cm-table + .cm-header-1,
+.cm-table + .cm-header-2,
+.cm-table + .cm-header-3,
+.cm-table + .cm-header-4,
+.cm-table + .cm-header-5,
+.cm-table + .cm-header-6 {
+    margin-top: 0; /* Removes space between headings and tables */
+    margin-bottom: 0; /* Removes space between tables and headings */
+}

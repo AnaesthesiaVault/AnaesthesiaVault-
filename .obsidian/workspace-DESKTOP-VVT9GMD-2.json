@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "688828f44655f278",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d37a23323b6a761",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6be4e39024a57a56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Endocrine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "521032460a558d81",
+    "type": "split",
+    "children": [
+      {
+        "id": "8496cc7534b8591c",
+        "type": "tabs",
+        "dimension": 33.333333333333336,
+        "children": [
+          {
+            "id": "737b3877171cefda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "CKD line:()",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e82b470fc1642614",
+        "type": "tabs",
+        "dimension": 41.88351920693927,
+        "children": [
+          {
+            "id": "698dbbec5fc9a379",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "75607e01bc03e050",
+        "type": "tabs",
+        "dimension": 24.78314745972739,
+        "children": [
+          {
+            "id": "cbdaf24f5e7f1377",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Endocrine.md"
+              }
+            }
+          },
+          {
+            "id": "c7c4591aa202264b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7599ea4c437e8c00",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "right": {
+    "id": "9826e1c015c15045",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b4f8f43a6657208",
+        "type": "tabs",
+        "dimension": 50.433705080545224,
+        "children": [
+          {
+            "id": "7480f4cc39733750",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f5da5dcee5cf595",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          },
+          {
+            "id": "14d6ed1b0c841b73",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7beafa2cc23ab915",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "d53966fa7c9ffcb3",
+        "type": "tabs",
+        "dimension": 49.56629491945477,
+        "children": [
+          {
+            "id": "40bf724d534ecb69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Endocrine.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4c31ce11f67a8d7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Endocrine.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32c9bd0bcfdd4818",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "6be4e39024a57a56",
+  "lastOpenFiles": [
+    "Reference folder/Butterworth.etal_MorganMikhail_2022a.md",
+    "Reference folder/buggyCurrentPracticePerioperative2023.md",
+    "Endocrine.md",
+    "Zotero Images/image-5-x68-y393.png",
+    "Zotero Images/image-4-x66-y518.png",
+    "Zotero Images/image-3-x61-y42.png",
+    "Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Domain 2_ Topics and links.md",
+    "Interesting research ideas.md",
+    "Personal notes/Financial information.md",
+    "Images/Pasted image 20230430222305.png",
+    "Images/Pasted image 20230430222159.png",
+    "Images/Pasted image 20230430222114.png",
+    "Images/Pasted image 20230430221706.png",
+    "Anaesthesia and renal disease.md",
+    "Reference folder/butterworthMorganMikhailClinical2022.md",
+    "Urology.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Positioning.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Domain 1_Topics and links.md",
+    "Zotero Images/image-1097-x39-y427.png",
+    "Zotero Images/image-1096-x40-y278.png",
+    "Zotero Images/image-1095-x41-y340.png",
+    "Renal Physiology.md",
+    "Reference folder/allmanOxfordHandbookAnaesthesia2016.md",
+    "Reference folder/Allman.etal_OxfordHandbook_2016.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Labour analgesia.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Fetus and Placenta.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Maternal airway and GA.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Maternal collapse and CPR.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Maternal conditions.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Non obstetric surgery.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Obstetric haemorrhage.md",
+    "Labour analgesia.md",
+    "Obstetric haemorrhage.md",
+    "JHhsagd.md",
+    "Summaries/Anaesthesia summaries/Laprascopic surgery_Sum.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Laparoscopic surgery.md",
+    "Obstetric physiology.md~RFeb33af6.TMP",
+    "Personal notes",
+    "Zotero notes",
+    "Summaries/Anaesthesia summaries",
+    "Summaries",
+    "Literature notes",
+    "Obsidian learning",
+    "Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia",
+    "Literature notes/Anaesthesia core notes/Domain 15_Regional Anaesthesia",
+    "Domain 16_Ultrasound in Anaesthesia",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

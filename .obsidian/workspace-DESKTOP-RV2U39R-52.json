@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "4508f5b4982c9782",
+    "type": "split",
+    "children": [
+      {
+        "id": "558528df85eb8d02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f596cc4ab25b430e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Hypertension in pregnancy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "928ff76e5d615c74",
+    "type": "split",
+    "children": [
+      {
+        "id": "e542999b84574c15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e46a30ed91eb67b7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "7dc85357bc73a6a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc96cd9103716aef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "161deb08353cf0d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0e104047f3ed9426",
+    "type": "split",
+    "children": [
+      {
+        "id": "edcb5a0d371ee8e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43b2d34028a5aa07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5435b47659d9ccc7",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chat-gpt",
+              "state": {}
+            }
+          },
+          {
+            "id": "e00dffd4814a4e28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Hypertension in pregnancy.md"
+              }
+            }
+          },
+          {
+            "id": "00d177bf3534c89d",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "cbf070aebfec0b51",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdefa5f71d2d66ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Hypertension in pregnancy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3584cdf81354aa68",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "fef5b0661a93b535",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 432.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "f596cc4ab25b430e",
+  "lastOpenFiles": [
+    "Literature notes/Index/Domain 03.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Hypertension in pregnancy.md",
+    "Reference folder/_Spinalsurgery_.md",
+    "Reference folder/_Pregnanttrauma_.md",
+    "Reference folder/_Neuromusculardisorders_.md",
+    "Reference folder/_Mediastinalmass_.md",
+    "Reference folder/_fracturedneck_.md",
+    "Reference folder/_EmbolicPhenomena_.md",
+    "Reference folder/_CPBpdf_.md",
+    "Reference folder/_Cardiacs_Madeeasy_.md",
+    "Reference folder/_Breastfeedingmaternal_.md",
+    "Reference folder/williamsRhabdomyolysis2014.md",
+    "Reference folder/Vittinghoff.etal_Postoperativepain_2018.md",
+    "Reference folder/Szczygielska.etal_Rheumaticfever_2018.md",
+    "Reference folder/Szabo.etal_ThoracoscopyEvolusion_2022_2022.md",
+    "Reference folder/Swann.etal_Postoperativecomplications_2016.md",
+    "Reference folder/soffinERAS_Joint2016.md",
+    "Reference folder/Smilowitz.Berger_PerioperativeCardiovascular_2020.md",
+    "Reference folder/Sharma.Chalmers_Athlete_Anaestheticimplications_2016.md",
+    "Reference folder/shaikhPVD.md",
+    "Reference folder/SeverelyInjuredPatient.md",
+    "Reference folder/Schlesinger.etal_PONV_2023_2023.md",
+    "Reference folder/Rodgers.Craven_Localanaesthesia_2014.md",
+    "Reference folder/Robinson.Davidson_Aspirationanaesthesia_2014.md",
+    "Reference folder/rajDataInterpretationAnesthesia2017.md",
+    "Reference folder/Raghavan.etal_TBI_paeds_.md",
+    "Reference folder",
+    "Reference notes",
+    "smart-chats",
+    "Templates",
+    "Images/Pasted image 20240715164946.png",
+    "Images/Pasted image 20240712123331.png",
+    "Images/Pasted image 20240712110642.png",
+    "Images/Pasted image 20240712105129.png",
+    "Images/Pasted image 20240711193850.png",
+    "Images/Pasted image 20240711192121.png",
+    "Images/Pasted image 20240711153452.png",
+    "Images/Pasted image 20240711151607.png",
+    "Images/Pasted image 20240711151042.png",
+    "Images/Pasted image 20240711150340.png",
+    "Literature notes/Index",
+    "Audio files",
+    "New folder",
+    "Chats",
+    "Images/Death on table.pdf",
+    "Connective tissue and autoimmune disease.pdf"
+  ]
+}

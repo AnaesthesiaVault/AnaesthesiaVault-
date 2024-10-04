@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "b03620cd7620229b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e15a3d5e60312611",
+        "type": "tabs",
+        "dimension": 45.656370656370655,
+        "children": [
+          {
+            "id": "f12ef0595e1fed3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference folder/Macfarlane_PAEDIATRICANATOMY_.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "945d531e031c4cc3",
+        "type": "tabs",
+        "dimension": 54.34362934362934,
+        "children": [
+          {
+            "id": "6eb8d54f8b0dc366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercises.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7becb7a2ac762abb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paediatric anatomy and physiology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64a76b8dd413a0a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf220c1c3981febe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5905b0c2e77e213",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7820bc7ab6b6565",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b344b8adde99a05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c22fb47e36ffc4b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "14819b09aaf6f876",
+    "type": "split",
+    "children": [
+      {
+        "id": "28b0c41120d8a157",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "256ad89ce1ed674d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b0517e9dc6335235",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Exercises.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "055fe11e1af364a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Exercises.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86049ca635333614",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "26053c93384d574b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Exercises.md"
+              }
+            }
+          },
+          {
+            "id": "78f91e5c06236412",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e66be8860bef9ac",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6927654ad6d0ffce",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "6eb8d54f8b0dc366",
+  "lastOpenFiles": [
+    "Paediatric anatomy and physiology.md",
+    "Exercises.md",
+    "Reference folder/Macfarlane_PAEDIATRICANATOMY_.md",
+    "Paediatric quick reference guide and tips.md",
+    "Zotero Images/image-3-x102-y202.png",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Domain 7_Topics and links.md",
+    "Reference folder/Purcell-JonesJ_Quickreference_.md",
+    "Images/Pasted image 20230629134424.png",
+    "Images/Pasted image 20230629123033.png",
+    "Images/Pasted image 20230629121450.png",
+    "Zotero Images/image-9-x43-y11.png",
+    "Zotero Images/image-8-x38-y17.png",
+    "Zotero Images/image-8-x38-y375.png",
+    "Zotero Images/image-7-x39-y24.png",
+    "Zotero Images/image-7-x33-y336.png",
+    "Zotero Images/image-6-x22-y461.png",
+    "Case report.md",
+    "Reference folder/Wolf_ExtraperitonealApproach_.md",
+    "Reference folder/Wallace.Leigh_Pneumomediastinumpneumothorax_2023.md",
+    "Reference folder/Saggar.etal_FactorsInfluencing_2008.md",
+    "Reference folder/Ott_SubcutaneousEmphysema_2014.md",
+    "Reference folder/Klopfenstein.etal_Laparoscopicextraperitoneal_1995.md",
+    "Reference folder/Critchley.Ho_SurgicalEmphysema_2010.md",
+    "Reference folder/Aldakhil.etal_Subcutaneousemphysema_2020.md",
+    "Reference folder/Abhishek.etal_MassiveSubcutaneous_2020.md",
+    "Reference folder/menonAnaesthesiaPituitaryDisease2011.md",
+    "Reference folder/luomaAcuteManagementAneurysmal2013.md",
+    "Zotero notes/Klopfenstein.etal_Laparoscopicextraperitoneal_1995.md",
+    "Zotero notes/Abhishek.etal_MassiveSubcutaneous_2020.md",
+    "Zotero notes/ForthePerioperativeQualityInitiativePOQIIWorkgroup.etal_AmericanSociety_2017a.md",
+    "Zotero notes/Critchley.Ho_SurgicalEmphysema_2010.md",
+    "Zotero notes/Aldakhil.etal_Subcutaneousemphysema_2020.md",
+    "Zotero notes/Wallace.Leigh_Pneumomediastinumpneumothorax_2023.md",
+    "Cardiac diseases.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac physiology.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Domain 4_ Topics and links.md"
+  ]
+}

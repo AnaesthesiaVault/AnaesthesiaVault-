@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "688828f44655f278",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d42a1a335c610be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a59789ae19f715e1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "521032460a558d81",
+    "type": "split",
+    "children": [
+      {
+        "id": "8496cc7534b8591c",
+        "type": "tabs",
+        "dimension": 33.333333333333336,
+        "children": [
+          {
+            "id": "737b3877171cefda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "urology",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e82b470fc1642614",
+        "type": "tabs",
+        "dimension": 41.88351920693927,
+        "children": [
+          {
+            "id": "698dbbec5fc9a379",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "75607e01bc03e050",
+        "type": "tabs",
+        "dimension": 24.78314745972739,
+        "children": [
+          {
+            "id": "cbdaf24f5e7f1377",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7c4591aa202264b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7599ea4c437e8c00",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "right": {
+    "id": "9826e1c015c15045",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b4f8f43a6657208",
+        "type": "tabs",
+        "dimension": 50.433705080545224,
+        "children": [
+          {
+            "id": "7480f4cc39733750",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f5da5dcee5cf595",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          },
+          {
+            "id": "14d6ed1b0c841b73",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ec9f8319e0bc11e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "d53966fa7c9ffcb3",
+        "type": "tabs",
+        "dimension": 49.56629491945477,
+        "children": [
+          {
+            "id": "40bf724d534ecb69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4c31ce11f67a8d7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32c9bd0bcfdd4818",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3ec9f8319e0bc11e",
+  "lastOpenFiles": [
+    "Reference folder/butterworthMorganMikhailClinical2022.md",
+    "Labour analgesia.md",
+    "Obstetric haemorrhage.md",
+    "JHhsagd.md",
+    "Summaries/Anaesthesia summaries/Laprascopic surgery_Sum.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Laparoscopic surgery.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Domain 1_Topics and links.md",
+    "Reference folder/AnesthesiaConsiderations_PHT.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Domain 3_ Topics and links.md",
+    "Maternal conditions.md",
+    "Non obstetric surgery.md",
+    "Maternal collapse and CPR.md",
+    "Maternal airway and GA.md",
+    "Reference folder/Butterworth.etal_MorganMikhail_2022a.md",
+    "Fetus and Placenta.md",
+    "Images/Pasted image 20230426223555.png",
+    "Images/Pasted image 20230426223527.png",
+    "Images/Pasted image 20230426223504.png",
+    "Images/Pasted image 20230426223345.png",
+    "Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/Lung function testing.md",
+    "Zotero Images/image-1410-x34-y53.png",
+    "Zotero Images/image-1391-x39-y115.png",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Obstetric physiology.md",
+    "Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Domain 2_ Topics and links.md",
+    "Anaesthesia questions.md",
+    "Zotero Images/image-1379-x20-y521.png",
+    "Zotero Images/image-1375-x81-y81.png",
+    "Obstetric physiology_Sum.md",
+    "Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md",
+    "Reference folder/Fleisher.etal_Miller's Anaesthesia_9th Edition.md",
+    "Zotero Images/image-2369-x308-y276.png",
+    "Obstetric physiology.md~RFeb33af6.TMP",
+    "Reference notes/Dunkman.Manning_EnhancedRecovery_2018 - Annotations (17042023, 092543).md",
+    "Zotero Images/image-1357-x40-y161.png",
+    "Reference notes/@andersonRegistrybasedTrialsPotential2020.md",
+    "Reference notes/@antonsenDanishAnaesthesiaDatabase2016.md",
+    "Morgan and Makhail practise.md",
+    "Personal notes",
+    "Zotero notes",
+    "Summaries/Anaesthesia summaries",
+    "Summaries",
+    "Literature notes",
+    "Obsidian learning",
+    "Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia",
+    "Literature notes/Anaesthesia core notes/Domain 15_Regional Anaesthesia",
+    "Domain 16_Ultrasound in Anaesthesia",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

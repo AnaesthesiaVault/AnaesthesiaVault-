@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "4508f5b4982c9782",
+    "type": "split",
+    "children": [
+      {
+        "id": "88e3fc9f6e7b3a45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d622807182c55eb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 8_ ICU/CVS support and shock.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "928ff76e5d615c74",
+    "type": "split",
+    "children": [
+      {
+        "id": "e542999b84574c15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e46a30ed91eb67b7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "7dc85357bc73a6a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc96cd9103716aef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Death on table",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "161deb08353cf0d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5
+  },
+  "right": {
+    "id": "0e104047f3ed9426",
+    "type": "split",
+    "children": [
+      {
+        "id": "edcb5a0d371ee8e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0ad8ebf57f424d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "afbc830461af3e89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 8_ ICU/CVS support and shock.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7ddd242bd1ee98d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 8_ ICU/CVS support and shock.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43b2d34028a5aa07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c9743405a91cabc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 8_ ICU/CVS support and shock.md"
+              }
+            }
+          },
+          {
+            "id": "417a146575ddb4d9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "f83fa2ea3b148c6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 8_ ICU/CVS support and shock.md"
+              }
+            }
+          },
+          {
+            "id": "3ff0ea0dd3f257ae",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "d622807182c55eb0",
+  "lastOpenFiles": [
+    "Literature notes/Anaesthesia core notes/Domain 8_ ICU/Domain 8_ Topics and links.md",
+    "Literature notes/Planning.md",
+    "Literature notes/Anaesthesia core notes/Domain 8_ ICU/CVS support and shock.md",
+    "Sepsis.md",
+    "Images/Pasted image 20240128034505.png",
+    "Images/Pasted image 20240128034434.png",
+    "Images/Pasted image 20240128034412.png",
+    "Images/Pasted image 20240128033638.png",
+    "Images/Pasted image 20240128021156.png",
+    "Images/Pasted image 20240128020258.png",
+    "Images/Pasted image 20240128015303.png",
+    "Images/Pasted image 20240128015236.png",
+    "Images/Pasted image 20240128015214.png",
+    "Images/Pasted image 20240128015151.png",
+    "Connective tissue and autoimmune disease.pdf",
+    "Connective tissue and autoimmune disease.pdf~RF4075a311.TMP",
+    "Premedication.md",
+    "Connective tissue and autoimmune disease.md",
+    "Anaesthesia emergencies.md",
+    "Anaesthesia emergencies.md~RF4034d6df.TMP",
+    "Alternative medicine and herbal meds.md",
+    "2023.md",
+    "Airway equipment and techniques.md",
+    "Anaesthesia for the athlete.md",
+    "Altitude.md",
+    "CABG.md",
+    "Rhabdomyolysis.md",
+    "Cement.md",
+    "Tourniquets.md",
+    "Geriatrics.md",
+    "Day case surgery.md",
+    "ECT.md",
+    "Sedation.md",
+    "Pancreatitis.md",
+    "Tetanus.md",
+    "POCD and delirium.md",
+    "WHO checklist.md",
+    "Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Brainstem death.md",
+    "C -_/Users/fuys2/OneDrive - University of Cape Town/Uys Obsidian Vault/Zotero Images",
+    "C -_/Users/fuys2/OneDrive - University of Cape Town/Uys Obsidian Vault",
+    "C -_/Users/fuys2/OneDrive - University of Cape Town",
+    "C -_/Users/fuys2",
+    "C -_/Users",
+    "C -_",
+    "C - /Users/fuys2/OneDrive - University of Cape Town/Uys Obsidian Vault/Zotero Images"
+  ]
+}

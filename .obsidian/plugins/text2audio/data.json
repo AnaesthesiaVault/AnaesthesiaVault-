@@ -1,0 +1,22 @@
+{
+  "keyHide": true,
+  "key": "f7c3c62c3c2c43a3abc3ab63cad36c38",
+  "region": "southafricanorth",
+  "regionCode": "en-GB",
+  "directory": "\"C:\\Users\\fuys2\\OneDrive - University of Cape Town\\Uys Obsidian Vault\\Audio files\"",
+  "interposition": false,
+  "readBeforeOrAfter": "before",
+  "autoStop": false,
+  "autoPause": false,
+  "textFormatting": "",
+  "speed": 1,
+  "intensity": 100,
+  "style": "narration-professional",
+  "role": "OlderAdultMale",
+  "language": "en",
+  "volume": 50,
+  "enableDeveloperMode": false,
+  "languageType": "English (United Kingdom)",
+  "voiceType": "RyanNeural (Male)",
+  "audioFormat": "audio-16khz-64kbitrate-mono-mp3(.mp3)"
+}

@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "4508f5b4982c9782",
+    "type": "split",
+    "children": [
+      {
+        "id": "b279ff54f5b64311",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b422df4d17a2950",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "928ff76e5d615c74",
+    "type": "split",
+    "children": [
+      {
+        "id": "e542999b84574c15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e46a30ed91eb67b7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "7dc85357bc73a6a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc96cd9103716aef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "EVD",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "161deb08353cf0d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e104047f3ed9426",
+    "type": "split",
+    "children": [
+      {
+        "id": "edcb5a0d371ee8e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0ad8ebf57f424d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "afbc830461af3e89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/HCP and VP shunt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7ddd242bd1ee98d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/HCP and VP shunt.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43b2d34028a5aa07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c9743405a91cabc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/HCP and VP shunt.md"
+              }
+            }
+          },
+          {
+            "id": "252f08091768fa76",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          },
+          {
+            "id": "640137243e7574f7",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "829ada7147d4fee9",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "829ada7147d4fee9",
+  "lastOpenFiles": [
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Domain 5_ Topics and links.md",
+    "Ophthalmology.md",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Domain 7_Topics and links.md",
+    "Reference folder/Krovvidi.etal_Perioperativemanagement_2018.md",
+    "Paediatric neurosurgery.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/HCP and VP shunt.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Neuromonitoring.md",
+    "Airway equipment and techniques.md",
+    "Zotero Images/image-2-x98-y142.png.md",
+    "Zotero Images/image-3-x56-y526.png",
+    "Zotero Images/image-2-x75-y77.png",
+    "Eye blocks.md",
+    "Eye blocks-DESKTOP-VVT9GMD.md",
+    "Eye blocks-DESKTOP-RV2U39R.md",
+    "Eye blocks-DESKTOP-VVT9GMD-2.md",
+    "Paediatric emergencies.md",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric post op complications.md",
+    "Reference folder/Raghavan.etal_TBI_paeds_.md",
+    "Zotero Images/image-6-x139-y660.png",
+    "Reference folder/Furay.Howell_Paediatricneuroanaesthesia_2010a.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Posterior fossa surgery.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Neurosurgery and Anaesthesia.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Awake craniotomy.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Anaesthesia Formulas.md",
+    "Reference folder/Furay.Howell_Paediatricneuroanaesthesia_2010.md",
+    "Reference folder/Rodgers.Craven_Localanaesthesia_2014.md",
+    "Literature notes/Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Domain 6_ Topics and links.md",
+    "Zotero Images/image-2-x44-y511.png",
+    "Reference folder/Pritchard_Ophthalmicsurgery_2014.md",
+    "Images/Never events.pdf",
+    "Images/Death on table.pdf",
+    "Coagulation",
+    "Images/Pasted image 20231007145658.png",
+    "Images/Pasted image 20231007150048.png",
+    "Images/Pasted image 20231007145815.png",
+    "Images/Pasted image 20231007145431.png",
+    "Images/Pasted image 20231007145144.png",
+    "Images/Pasted image 20231007144924.png"
+  ]
+}

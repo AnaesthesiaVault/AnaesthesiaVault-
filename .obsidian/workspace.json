@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "d9104663796de12b",
+    "type": "split",
+    "children": [
+      {
+        "id": "92ef7a2c32c34fff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f25b703fdc9f646a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Assist devices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00e304886c932a65",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e6bf38549035370",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e36fa17b7f96e328",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c3f0225f231bc69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b3b5ccbb2a45a40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5452008e13e2a7e5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.50152587890625
+  },
+  "right": {
+    "id": "1979b41a22d2702e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdfb7ceafcf397ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67a15bee6878de69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "04b3fa86c34da9f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Assist devices.md"
+              }
+            }
+          },
+          {
+            "id": "0aab8336838ee4b9",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ab2e0f9ab000f6e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ea0f990d1873e8f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9834a53c5441aab2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Assist devices.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "008c8147a019dedc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Assist devices.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "788323a3bf5e7c72",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 439.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-omnivore:Omnivore": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "f25b703fdc9f646a",
+  "lastOpenFiles": [
+    "publish.css",
+    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Arrythmias.md",
+    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Thoracic emergencies.md",
+    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Thoracic pre-op assessment.md",
+    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Thoracic surgery analgesia.md",
+    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Tracheal surgery.md",
+    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Transcatheter Aortic Valve Replacement (TAVR).md",
+    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Tuberculosis (TB).md",
+    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Upper and lower limb vascular surgery.md",
+    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Valvular heart disease.md",
+    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Vascular physiology.md",
+    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Vascular surgery.md",
+    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Vasculitis.md",
+    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Whole lung lavage.md",
+    "Anaesthesia core notes/Domain 3_Obstetrics/Amniotic fluid embolism and PE.md",
+    "Anaesthesia core notes/Domain 3_Obstetrics/Breastfeeding.md",
+    "Anaesthesia core notes/Domain 3_Obstetrics/Cardiac disease in pregnancy.md",
+    "Anaesthesia core notes/Domain 3_Obstetrics/Fetus and Placenta.md",
+    "Anaesthesia core notes/Domain 3_Obstetrics/Hypertension in pregnancy.md",
+    "Anaesthesia core notes/Domain 3_Obstetrics/Labour analgesia.md",
+    "Anaesthesia core notes/Domain 3_Obstetrics/Maternal airway and GA.md",
+    "Anaesthesia core notes/Domain 3_Obstetrics/Maternal collapse and CPR.md",
+    "Anaesthesia core notes/Domain 3_Obstetrics/Maternal conditions.md",
+    "Anaesthesia core notes/Domain 3_Obstetrics/Maternal morbidity and Mortality.md",
+    "Anaesthesia core notes/Domain 3_Obstetrics/Maternal sepsis.md",
+    "Anaesthesia core notes/Domain 3_Obstetrics/Molar pregnancy.md",
+    "end.py",
+    "move_links.py",
+    "Archive/Images/0EED7C09-022F-4796-92F8-F28289C76863.jpeg",
+    "Archive/Images/1B3A950E-8489-4D3A-BDC7-00B2675A70FA.jpeg",
+    "Archive/Images/2C799977-8031-4397-84D9-997D1ABE6DC8.jpeg",
+    "Areas/Anaesthesia 2nd brain.canvas",
+    "Cardiac surgery.pdf",
+    "Archive/Images/Pasted image 20240918165643.png",
+    "Archive/Images/Pasted image 20240918140545.png",
+    "Archive/Images/Pasted image 20240918135932.png",
+    "Archive/Images/Pasted image 20240918135427.png",
+    "Archive/Images/Pasted image 20240918134614.png",
+    "Research/Omnivore/2024-09-18",
+    "Archive/Images/Pasted image 20240918111757.png",
+    "Archive/Images/Pasted image 20240918110639.png",
+    "Research/Omnivore/2024-09-16",
+    "Research/Omnivore/2024-09-14",
+    "Research/Omnivore/2024-08-27",
+    "Research/Omnivore",
+    "Research/Omnivore/2024-09-14",
+    "Projects/Anaesthesia 2nd brain",
+    "Index.canvas"
+  ]
+}

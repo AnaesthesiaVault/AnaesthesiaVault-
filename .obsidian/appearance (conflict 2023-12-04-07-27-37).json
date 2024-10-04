@@ -1,0 +1,9 @@
+{
+  "enabledCssSnippets": [
+    "Checkboxes"
+  ],
+  "theme": "moonstone",
+  "accentColor": "#f55c5c",
+  "cssTheme": "Obsidian Nord",
+  "baseFontSize": 24
+}

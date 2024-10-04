@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "668ceaf4f92877d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d11dad6af8bc81f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baeec1582cd8d29b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d61dbd233dbff5ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "f75b01aee61b6408",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e390a720e3e3493",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "9efa8d1132e945f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c41b47291b97baca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f77263ced76e205c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "584e268d3bb10e51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d0caadfb126ed237",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c88b4094fae1ab3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68a27809cd59ee92",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fa6b8ae2541fcdc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "821e563ac12b63e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a76f2afe50f3e56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "30d9920f232515c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a83722747141d3f",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac98532d000eb7dc",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "63700f39b42b8797",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "baeec1582cd8d29b",
+  "lastOpenFiles": [
+    "Neuroaxial Ultrasound.md",
+    "Images/Pasted image 20230530120402.png",
+    "Images/Pasted image 20230530120348.png",
+    "Images/Pasted image 20230530120329.png",
+    "Images/Pasted image 20230530120257.png",
+    "Images/Pasted image 20230530120236.png",
+    "Zotero notes/PhisterC_Neuraxialultrasound_2023.md",
+    "Reference folder/luomaAcuteManagementAneurysmal2013.md",
+    "Neuraxial ultrasound.md",
+    "Reference folder/menonAnaesthesiaPituitaryDisease2011.md",
+    "Reference folder/Butterworth.etal_MorganMikhail_2022a.md",
+    "Reference folder/burnandAnaesthesiaAwakeCraniotomy2014.md",
+    "Reference folder/hahnGuidelinesPerformingComprehensive2013.md",
+    "Templates/Academic note.md",
+    "Templates/Zotero reference template 02.md",
+    "Templates/Zotero reference template 1.md",
+    "Templates/Daily note.md",
+    "Pasted image 20230405153242.png.md",
+    "Cardiac diseases.md",
+    "MMED_ Implementation of PURE registry/MMED_Protocol.md",
+    "MMED_ Implementation of PURE registry/MMED_ Implementation of PURE regsitry.md",
+    "POCUS talk.md",
+    "Future to do.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Vascular physiology.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac physiology.md",
+    "Reference folder/Chambers.etal_Basicphysiology_2015.md",
+    "Images/Pasted image 20230525123259.png",
+    "Images/Pasted image 20230525123243.png",
+    "Images/Pasted image 20230525122551.png",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Domain 4_ Topics and links.md",
+    "Images/Pasted image 20230525115118.png",
+    "Images/Pasted image 20230525113633.png",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Domain 1_Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 9_ Pain/Opioid sparing adjuncts.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Laparoscopic surgery.md",
+    "MMED_ Implementation of PURE registry",
+    "Untitled",
+    "Daily Notes/desktop.ini",
+    "desktop.ini"
+  ]
+}

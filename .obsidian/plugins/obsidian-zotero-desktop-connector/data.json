@@ -1,0 +1,35 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Zotero notes",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Vancouver",
+      "format": "formatted-citation",
+      "cslStyle": "vancouver"
+    },
+    {
+      "name": "Pandoc",
+      "format": "pandoc",
+      "cslStyle": "vancouver",
+      "brackets": true
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Import #1",
+      "outputPathTemplate": "Reference folder/{{citekey}}.md",
+      "imageOutputPathTemplate": "Zotero Images/{{citekey}}.md",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Templates/Zotero reference template 02.md",
+      "cslStyle": "vancouver"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "shouldConcat": true,
+  "pdfExportImageOCR": false
+}

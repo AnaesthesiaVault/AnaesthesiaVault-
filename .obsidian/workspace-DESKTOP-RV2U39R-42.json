@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "86f78af3767dd040",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ab750a4f178a38d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b94e229ce7318e5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Pharmacology summaries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bb0e0bdd27c06d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebc46a4fe404a358",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "919c7021bd875fa0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "8005048946f44046",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b88809fa70590f56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#brain",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbd95235901e1dfc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1ca19a79d6377da1",
+    "type": "split",
+    "children": [
+      {
+        "id": "649cd9b6a5f45fc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c9db5e0a2fdb438",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "207e2f3e4ab11a67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Pharmacology summaries.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "537f62fa605b664b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Pharmacology summaries.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb163594221766de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "08fe1c354df3280c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "80505c799d28e582",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Pharmacology summaries.md"
+              }
+            }
+          },
+          {
+            "id": "33290b983b7954ad",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "b94e229ce7318e5c",
+  "lastOpenFiles": [
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Brainstem death.md",
+    "Images/Pasted image 20240225143121.png",
+    "Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/ECG.md",
+    "Images/Pasted image 20240225142955.png",
+    "Images/Pasted image 20240225142928.png",
+    "Images/Pasted image 20240225142850.png",
+    "Images/Pasted image 20240225142815.png",
+    "Images/Pasted image 20240225142656.png",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md",
+    "Images/Pasted image 20240225142537.png",
+    "Images/Pasted image 20240225142433.png",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Pulmonary Hypertension.md",
+    "Images/Pasted image 20240225142328.png",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Domain 4_ Topics and links.md",
+    "Aortic surgery.md",
+    "Images/Pasted image 20240225142148.png",
+    "Hypertension.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Atrial fibrillation.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Ischaemic heart disease.md",
+    "Literature notes/Anaesthesia core notes/Domain 8_ ICU/CVS support and shock.md",
+    "Literature notes/Anaesthesia core notes/Domain 8_ ICU/Domain 8_ Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Domain 2_ Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Valvular heart disease.md",
+    "Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Adult burns.md",
+    "Pulmonary edema.md",
+    "pdc.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/RSI and aspiration.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Anaesthetic management of specific cardiac conditions.md",
+    "Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Pharmacology summaries.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/VATS, OLV.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Anaesthesia emergencies.md",
+    "Literature notes/Anaesthesia core notes/Domain 9_ Pain/Acute pain.md",
+    "Literature notes/Anaesthesia core notes/Domain 9_ Pain/Domain 9_Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Domain 1_Topics and links.md",
+    "Premedication.md~RF1a7abbc6.TMP",
+    "Liver physiology and pathology.md~RF1a7ab732.TMP",
+    "CVP.md~RF1a79baff.TMP",
+    "Connective tissue and autoimmune disease.pdf",
+    "Connective tissue and autoimmune disease.pdf~RF1a79b7f2.TMP",
+    "CABG.md~RF1a79a1bb.TMP",
+    "Altitude.md~RF1a799aa6.TMP",
+    "Alternative medicine and herbal meds.md~RF1a799a68.TMP",
+    "Airway equipment and techniques.md~RF1a79918e.TMP"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "enabledCssSnippets": [
+    "Checkboxes",
+    "Line Spacing",
+    "Line spaing"
+  ],
+  "theme": "system",
+  "accentColor": "#3a6534",
+  "cssTheme": "Simple",
+  "baseFontSize": 11
+}

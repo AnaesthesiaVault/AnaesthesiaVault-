@@ -1,0 +1,24 @@
+---
+Date modified: Friday, October 4th 2024, 2:18:53 pm
+---
+# Obstetrics
+- [[Hypertension in pregnancy]]
+- [[Labour analgesia]]
+- [[Maternal airway and GA]]
+- [[Maternal collapse and CPR]]
+- [[Maternal morbidity and Mortality]]
+- [[Non obstetric surgery]]
+- [[Obstetric haemorrhage]]
+- [[Obstetric physiology]]
+- [[Cardiac disease in pregnancy]]
+- [[Fetus and Placenta]]
+- [[Maternal conditions]]
+- [[Neonatal resus]]
+- [[Obstetric emergencies]]
+- [[Ovarian hyperstimulation]]
+- [[Oxytotics]]
+- [[Maternal sepsis]]
+- [[Amniotic fluid embolism and PE]]
+- [[Breastfeeding]]
+- [[Molar pregnancy]]
+- [[Obstetrics Anticoagulation]]

@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "4508f5b4982c9782",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab3a531db63080a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4be861cea4c542a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Airway guidelines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "928ff76e5d615c74",
+    "type": "split",
+    "children": [
+      {
+        "id": "e542999b84574c15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e46a30ed91eb67b7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "7dc85357bc73a6a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc96cd9103716aef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#Dural punc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "161deb08353cf0d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.5
+  },
+  "right": {
+    "id": "0e104047f3ed9426",
+    "type": "split",
+    "children": [
+      {
+        "id": "edcb5a0d371ee8e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0ad8ebf57f424d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "afbc830461af3e89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Airway guidelines.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7ddd242bd1ee98d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Airway guidelines.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43b2d34028a5aa07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c9743405a91cabc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Airway guidelines.md"
+              }
+            }
+          },
+          {
+            "id": "417a146575ddb4d9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "f83fa2ea3b148c6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Airway guidelines.md"
+              }
+            }
+          },
+          {
+            "id": "3ff0ea0dd3f257ae",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "4be861cea4c542a5",
+  "lastOpenFiles": [
+    "Literature notes/Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Airway equipment and techniques.md",
+    "Literature notes/Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Airway guidelines.md",
+    "Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Domain 2_ Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Free flaps.md",
+    "Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Ortho regionals.md",
+    "Literature notes/Planning.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Obstetrics Anticoagulation.md",
+    "Images/Pasted image 20240410215721.png",
+    "Images/Pasted image 20240410215505.png",
+    "Images/Pasted image 20240410215430.png",
+    "Images/Pasted image 20240410215403.png",
+    "Images/Pasted image 20240410215323.png",
+    "Images/Pasted image 20240410214934.png",
+    "Images/Pasted image 20240410214902.png",
+    "Images/Pasted image 20240410214838.png",
+    "Images/Pasted image 20240410214812.png",
+    "Images/Pasted image 20240410213659.png",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Domain 3_ Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Labour analgesia.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Maternal morbidity and Mortality.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Awake tracheostomy and intubation.md",
+    "Mike paeds Summary.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/CEA.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/NMJ.md",
+    "Literature notes/Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Eye blocks.md",
+    "Jacobus Neuro Summary.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Domain 5_ Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Neuropathies.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Awareness.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Neuroprotection.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Transplants and organ donation.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Venous air embolism.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Brainstem death.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Autonomic hyperreflexia.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Acute spinal cord injury.md",
+    "Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Traumatic brain injury.md",
+    "Untitled",
+    "CPR",
+    "2023.md~RFaab8e80.TMP",
+    "Tourniquets.md~RF57cc6dc2.TMP",
+    "Tetanus.md~RF57cc6556.TMP",
+    "Stroke.md~RF57cc6045.TMP",
+    "Surgical site infection.md~RF57cc5eed.TMP",
+    "Sepsis.md~RF57cc5558.TMP",
+    "Sedation.md~RF57cc5086.TMP",
+    "Pulmonary edema.md~RF57cc4385.TMP"
+  ]
+}

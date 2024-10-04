@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "668ceaf4f92877d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c42958d33eb037f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbda41c53ae3b7cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Urology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "41ed3459db09359e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5b875689578bd24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference folder/Allman.etal_OxfordHandbook_2016.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d61dbd233dbff5ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "f75b01aee61b6408",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e390a720e3e3493",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "9efa8d1132e945f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c41b47291b97baca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f77263ced76e205c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d0caadfb126ed237",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c88b4094fae1ab3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68a27809cd59ee92",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fa6b8ae2541fcdc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Urology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "821e563ac12b63e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Urology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a76f2afe50f3e56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "30d9920f232515c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Urology.md"
+              }
+            }
+          },
+          {
+            "id": "2a83722747141d3f",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba96311af68aee67",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "fbda41c53ae3b7cb",
+  "lastOpenFiles": [
+    "Urology.md",
+    "Reference folder/Allman.etal_OxfordHandbook_2016.md",
+    "Nic.md",
+    "Wines I like.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Cardiac disease in pregnancy.md",
+    "Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md",
+    "Cardiac diseases.md",
+    "Dataview of literature.md",
+    "Templates/Daily note.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Labour analgesia.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Laparoscopic surgery.md",
+    "Summaries/Anaesthesia summaries/Laprascopic surgery_Sum.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Domain 1_Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Domain 2_ Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Fetus and Placenta.md",
+    "Fetus and Placenta_Sum.md",
+    "Personal finance.md",
+    "Personal finance by Francois Uys.md",
+    "Cardiac diseases (conflict 2023-04-17-19-58-38).md",
+    "JHhsagd.md",
+    "Maternal airway and GA-DESKTOP-RV2U39R.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Maternal airway and GA.md"
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "4508f5b4982c9782",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a26b8d4bd42eb44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89d5e79cf43b0114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Domain 1_Topics and links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "928ff76e5d615c74",
+    "type": "split",
+    "children": [
+      {
+        "id": "e542999b84574c15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e46a30ed91eb67b7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "7dc85357bc73a6a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc96cd9103716aef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "161deb08353cf0d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e104047f3ed9426",
+    "type": "split",
+    "children": [
+      {
+        "id": "edcb5a0d371ee8e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0ad8ebf57f424d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "afbc830461af3e89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Domain 1_Topics and links.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7ddd242bd1ee98d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Domain 1_Topics and links.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43b2d34028a5aa07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c9743405a91cabc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Domain 1_Topics and links.md"
+              }
+            }
+          },
+          {
+            "id": "252f08091768fa76",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          },
+          {
+            "id": "3fc19eea22f12ea6",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8cbffd5ee6011e3e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "89d5e79cf43b0114",
+  "lastOpenFiles": [
+    "Images/Pasted image 20231007135407.png~RF234a80e2.TMP",
+    "Untitled.md",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Domain 7_Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Domain 1_Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 10_ NORA/Domain 10_ Topics and Links.md",
+    "Zotero Images/image-2-x98-y142.png.md",
+    "Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/Neuroaxial Ultrasound.md",
+    "Literature notes/Anaesthesia core notes/Domain 15_Regional Anaesthesia/Domain 15_ Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 13_ Quality and safety management/Domain 13_Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 12_ Ethics/Domain 12_ Topics and Links.md",
+    "Literature notes/Anaesthesia core notes/Domain 11_ Education_ self directed learning_ research/Domain 11_ Topics and links.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Oxytotics.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Psychiatry.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Substance abuse.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Pulmonary embolism.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Pacemakers.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/PAC.md",
+    "Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md",
+    "Literature notes/Anaesthesia core notes/Domain 8_ ICU/ICU and renal.md",
+    "Literature notes/Anaesthesia core notes/Domain 8_ ICU/GIT.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Connective tissue disease.md",
+    "Delirium and sedation 1.md",
+    "Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Amniotic fluid embolism and PE.md",
+    "Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/ABG.md",
+    "Literature notes/Anaesthesia core notes/Domain 8_ ICU/Acid base.md",
+    "Images/Pasted image 20231007150048.png",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Domain 4_ Topics and links.md",
+    "Images/Pasted image 20231007145815.png",
+    "Images/Pasted image 20231007145658.png",
+    "Images/Pasted image 20231007145431.png",
+    "Images/Pasted image 20231007145144.png",
+    "Images/Pasted image 20231007144924.png",
+    "Images/Pasted image 20231007144757.png",
+    "Images/Pasted image 20231007144536.png",
+    "Images/Pasted image 20231007144421.png",
+    "Images/Pasted image 20231007144319.png"
+  ]
+}

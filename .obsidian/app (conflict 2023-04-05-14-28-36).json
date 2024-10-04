@@ -1,0 +1,11 @@
+{
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "Images",
+  "spellcheckLanguages": [
+    "en-GB",
+    "af"
+  ]
+}

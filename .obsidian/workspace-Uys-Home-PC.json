@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "d9104663796de12b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1a70e3ee9042001",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "107ab0c6d29729b8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Index.canvas",
+                "viewState": {
+                  "x": -140,
+                  "y": -2720.2688266932646,
+                  "zoom": -1.5531501406400603
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00e304886c932a65",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e6bf38549035370",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e36fa17b7f96e328",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c3f0225f231bc69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b3b5ccbb2a45a40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5452008e13e2a7e5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1979b41a22d2702e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdfb7ceafcf397ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67a15bee6878de69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "04b3fa86c34da9f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.canvas"
+              }
+            }
+          },
+          {
+            "id": "0aab8336838ee4b9",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ab2e0f9ab000f6e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ea0f990d1873e8f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9834a53c5441aab2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "008c8147a019dedc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "788323a3bf5e7c72",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 483.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-omnivore:Omnivore": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "text2audio:Text to Audio": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "107ab0c6d29729b8",
+  "lastOpenFiles": [
+    "Anaesthesia 2nd brain.canvas",
+    "Omnivore/2024-09-03",
+    "Obsidian.md",
+    "Index.canvas",
+    "Dataview.md",
+    "ERAS.md",
+    "Literature notes/Anaesthesia brain/Anaesthesia Brain.md",
+    "Literature notes/Anaesthesia brain/Domain 01 Fundamentals.md",
+    "Literature notes/Anaesthesia brain/Domain 02 Major surgery.md",
+    "Literature notes/Anaesthesia brain/Domain 03 Obstetrics.md",
+    "Literature notes/Anaesthesia brain/Domain 04 Cardiothoracics and vascular.md",
+    "Literature notes/Anaesthesia brain/Domain 06 Airway, ENT, Ophthalmology, Plastics and dental.md",
+    "Literature notes/Anaesthesia brain/Domain 08 Intensive care medicine (ICU).md",
+    "Literature notes/Anaesthesia brain/Domain 09 Pain Medicine.md",
+    "Literature notes/Anaesthesia brain/Domain 10 Non Operating Room Anaesthesia (NORA).md",
+    "Literature notes/Anaesthesia brain/Domain 11 Education and statistics.md",
+    "Literature notes/Anaesthesia brain/Domain 12 Ethics and Consent.md",
+    "Literature notes/Anaesthesia brain/Domain 13 Quality and safety management.md",
+    "Literature notes/Anaesthesia brain/Domain 14 Data interpretation.md",
+    "Literature notes/Anaesthesia brain/Domain 16 Ultrasound.md",
+    "Literature notes/Anaesthesia brain/Domain 15 Regional Anaesthesia.md",
+    "Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Upper GIT Surgery.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Enhanced recovery after surgery (ERAS).md",
+    "Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/Electrocardiogram (ECG).md",
+    "Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/Chest X-ray (CXR).md",
+    "Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/Central venous pressure (CVP).md",
+    "Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/Bispectral Index (BIS).md",
+    "Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/Arterial blood gas (ABG).md",
+    "Images/Pasted image 20240902132503.png",
+    "Images/Pasted image 20240902132432.png",
+    "Omnivore/2024-08-30",
+    "Images/Pasted image 20240827185918.png",
+    "Omnivore/2024-08-27",
+    "Omnivore/2024-08-26",
+    "Building a second brain",
+    "Omnivore",
+    "Images/Pasted image 20240817225642.png",
+    "Images/Pasted image 20240817225612.png",
+    "Images/Pasted image 20240817225543.png",
+    "Images/Pasted image 20240817224036.png",
+    "Images/Pasted image 20240813075150.png",
+    "Images/Pasted image 20240805122616.png",
+    "Images/Pasted image 20240805112707.png",
+    "Jehovah's witness.pdf"
+  ]
+}

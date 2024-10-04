@@ -1,0 +1,885 @@
+
+Airway equipment and techniques.md
+Eye blocks-DESKTOP-RV2U39R.md
+Eye blocks-DESKTOP-RV2U39R.md#Anatomy
+Eye blocks-DESKTOP-RV2U39R.md#Contra-indications
+Eye blocks-DESKTOP-RV2U39R.md#Eye blocks#Local
+Eye blocks-DESKTOP-RV2U39R.md#Eye blocks#Sharp needle blocks#Peribulbar block
+Eye blocks-DESKTOP-RV2U39R.md#Eye blocks#Sharp needle blocks#Retrobulbar
+Eye blocks-DESKTOP-RV2U39R.md#Eye blocks#Topical
+Eye blocks-DESKTOP-VVT9GMD-2.md
+Eye blocks-DESKTOP-VVT9GMD-2.md#Anatomy
+Eye blocks-DESKTOP-VVT9GMD-2.md#Contra-indications
+Eye blocks-DESKTOP-VVT9GMD-2.md#Eye blocks#Local
+Eye blocks-DESKTOP-VVT9GMD-2.md#Eye blocks#Topical
+Eye blocks-DESKTOP-VVT9GMD.md
+Eye blocks-DESKTOP-VVT9GMD.md#Anatomy
+Eye blocks-DESKTOP-VVT9GMD.md#Contra-indications
+Eye blocks-DESKTOP-VVT9GMD.md#Eye blocks#Topical
+Eye blocks.md
+Eye blocks.md#Anatomy
+Eye blocks.md#Contra-indications
+Eye blocks.md#Eye blocks#Blunt cannula block#Sub-Tenon’s
+Eye blocks.md#Eye blocks#Local
+Eye blocks.md#Eye blocks#Sharp needle blocks#Peribulbar block
+Eye blocks.md#Eye blocks#Sharp needle blocks#Retrobulbar
+Eye blocks.md#Eye blocks#Topical
+Literature notes/Anaesthesia core notes/Domain 10_ NORA/Domain 10_ Topics and Links.md
+Literature notes/Anaesthesia core notes/Domain 11_ Education_ self directed learning_ research/Domain 11_ Topics and links.md
+Literature notes/Anaesthesia core notes/Domain 12_ Ethics/Domain 12_ Topics and Links.md
+Literature notes/Anaesthesia core notes/Domain 13_ Quality and safety management/Domain 13_Topics and links.md
+Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/ABG.md
+Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/Domain 14_ Topics and Links.md
+Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/Flow-volume loops.md
+Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/Neuromuscular monitoring.md
+Literature notes/Anaesthesia core notes/Domain 15_Regional Anaesthesia/Domain 15_ Topics and links.md
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/Neuroaxial Ultrasound.md
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/Neuroaxial Ultrasound.md#3 aims#1. Identify the correct level
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/Neuroaxial Ultrasound.md#3 aims#2. Identify the midline
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/Neuroaxial Ultrasound.md#3 aims#3. Identify the intrathecal depth
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/Neuroaxial Ultrasound.md#3 aims#Paramedian sagittal oblique view
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Insertion
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Movement
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Titbits
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Aortic views#Descending Aorta LAX
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Aortic views#Descending Aorta SAX
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Aortic views#Upper oesophagus views#ME Ascending AO SAX
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Aortic views#Upper oesophagus views#Upper Oesophagus AO arch LAX
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Aortic views#Upper oesophagus views#Upper Oesophagus AO arch LAX{1}
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Oesophageal#Mid- oesophagus#ME 2Ch
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Oesophageal#Mid- oesophagus#ME 4ch
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Oesophageal#Mid- oesophagus#ME 5ch
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Oesophageal#Mid- oesophagus#ME AV LAX
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Oesophageal#Mid- oesophagus#ME AV SAX
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Oesophageal#Mid- oesophagus#ME Bicaval
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Oesophageal#Mid- oesophagus#ME LAX
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Oesophageal#Mid- oesophagus#ME LAX#MV assessment
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Oesophageal#Mid- oesophagus#ME RV inflow- outflow
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Oesophageal#Mid- oesophagus#ME Right Pulmonary veins
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Oesophageal#Mid- oesophagus#ME left PV and ME LAA
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Oesophageal#Mid- oesophagus#ME mitral commissural
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Oesophageal#Mid- oesophagus#ME modified Bicaval
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Trans gastric views
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Trans gastric views#Deep trans- gastric#DTG LAX/5ch
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Trans gastric views#Deep trans- gastric#DTG RV basal
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Trans gastric views#Deep trans- gastric#DTG RV inflow and Outflow
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Trans gastric views#ME ccronary sinus (before you enter the stomach)
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Trans gastric views#Trans- gastric views#TG 2 chamber
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Trans gastric views#Trans- gastric views#TG Apical SX
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Trans gastric views#Trans- gastric views#TG LAX
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Trans gastric views#Trans- gastric views#TG Mid pap SX
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Trans gastric views#Trans- gastric views#TG RV inflow
+Literature notes/Anaesthesia core notes/Domain 16_Ultrasound in Anaesthesia/TOE.md#Views#Trans gastric views#Trans- gastric views#TG basal SAX
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Anaesthesia equipment.md
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Connective tissue disease.md
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Domain 1_Topics and links.md
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Infectious diseases.md
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Laparoscopic surgery.md
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Laparoscopic surgery.md#Complications
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Positioning.md
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Positioning.md#Trendelenburg#Complications
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Practical Protocols and recipes.md#Ket/MgSO4/lidocaine loading and infusion:
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Psychiatry.md
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Substance abuse.md
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Substance abuse.md#Alcoholism#Alcohol Withdrawal & Syndromes#Earliest & most common:
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Substance abuse.md#Alcoholism#Alcohol Withdrawal & Syndromes#Earliest & most common:#Delirium tremens:
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Substance abuse.md#Alcoholism#Alcohol Withdrawal & Syndromes#Earliest & most common:#Delirium tremens:#Treatment:
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Substance abuse.md#Alcoholism#Alcohol Withdrawal & Syndromes#Earliest & most common:#Wernicke-Korsakoff syndrome:#Korsakoff's psychosis:
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Substance abuse.md#Alcoholism#Alcohol Withdrawal & Syndromes#Earliest & most common:#Wernicke-Korsakoff syndrome:#Wernicke's encephalopathy:
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Substance abuse.md#Alcoholism#Considerations#Multisystem disease:#CNS:
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Substance abuse.md#Alcoholism#Considerations#Multisystem disease:#Endocrine/metabolic:
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Substance abuse.md#Alcoholism#Considerations#Multisystem disease:#GI:
+Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Temperature management.md
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Anaesthesia and renal disease.md
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Anaesthesia and renal disease.md#Management of AV-fistula
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Anaesthesia and renal disease.md#Management of AV-fistula#Anaesthesia drugs and CKD#Different agents#Induction agents:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Anaesthesia and renal disease.md#Management of AV-fistula#Anaesthesia drugs and CKD#Different agents#Local anaesthetics:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Anaesthesia and renal disease.md#Management of AV-fistula#Anaesthesia drugs and CKD#Drugs that accumulates in renal disease
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Anaesthesia and renal disease.md#Management of AV-fistula#Anaesthesia drugs and CKD#Principles:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Anaesthesia and renal disease.md#Management of AV-fistula#Anaesthesia for AV fistula formation
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Anaesthesia and renal disease.md#Management of AV-fistula#Practical anaesthetic management of renal disease#Intra op:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Anaesthesia and renal disease.md#Management of AV-fistula#Practical anaesthetic management of renal disease#Post op:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Anaesthesia and renal disease.md#Management of AV-fistula#Practical anaesthetic management of renal disease#Pre op:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Anaesthesia and renal disease.md#Renal Disease#AKI
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Anaesthesia and renal disease.md#Renal Disease#Laboratory investigations:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Blood transfusions and conservation strategies.md
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Domain 2_ Topics and links.md
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Acromegaly#Considerations#Difficult airway:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Acromegaly#Considerations#Multisystem disease:#CNS:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Acromegaly#Considerations#Multisystem disease:#Cardiovascular:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Acromegaly#Considerations#Multisystem disease:#Other
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Acromegaly#Considerations#Multisystem disease:#Respiratory:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Acromegaly#Crises
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Acromegaly#Goals and conflicts
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Anorexia Nervosa#Considerations#Multisystem disease#Cardiovascular dysfunction:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Anorexia Nervosa#Considerations#Multisystem disease#Malnutrition:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Anorexia Nervosa#Considerations#Multisystem disease#Metabolic & electrolyte abnormalities:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Anorexia Nervosa#Goals/Optimization
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Carcinoid Syndrome#Management
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Carcinoid Syndrome#Management#During crisis:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Carcinoid Syndrome#Management#Prevention
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Carcinoid Syndrome#Management#Prevention#Triggers include:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Carcinoid Syndrome#Management#Treatment of perioperative bronchospasm:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Diabetes Insipidus (DI)#Considerations#Associated conditions:#Nephrogenic
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Diabetes Insipidus (DI)#Considerations#Associated conditions:#Neurogenic
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Diabetes Insipidus (DI)#Considerations#Hypernatremia:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Diabetes Insipidus (DI)#Diagnosis:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Diabetes Insipidus (DI)#Treatment
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Diabetes Insipidus (DI)#Treatment#Complications of treatment:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Diabetes Insipidus (DI)#Types:#Central DI:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Diabetes Insipidus (DI)#Types:#Nephrogenic DI:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Diabetes Mellitus#Classification of DM#Other#B. Diseases of the exocrine pancreas
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Diabetes Mellitus#Classification of DM#Other#Drug or chemical induced
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Diabetes Mellitus#Classification of DM#Other#F. Genetic syndromes associated with diabetes mellitus
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Diabetes Mellitus#Classification of DM#Type 1 diabetes mellitus
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Diabetes Mellitus#Classification of DM#Type 2 diabetes mellitus
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Diabetes Mellitus#Different management protocols
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Diabetes Mellitus#Management overview
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Diabetes Mellitus#Management overview#Suggested plan#Pre-op:#Other
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Diabetes Mellitus#Management overview#Suggested plan#Pre-op:#Review medication:#Insulin
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Diabetes Mellitus#Management overview#Suggested plan#Pre-op:#Review medication:#Oral
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Multiple endocrine neoplasia
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Panhypopituitarism#Background
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Panhypopituitarism#Causes:#Hypothalamus:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Panhypopituitarism#Causes:#Pituitary gland:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Panhypopituitarism#Considerations
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Porphyria#Considerations
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Porphyria#Considerations#Acute intermittent porphyria (AIP) attacks last days to weeks & are multi-systemic:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Porphyria#Considerations#Chronic effects
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Porphyria#Management
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Porphyria#Management#Acute porphyric crisis:#Symptoms
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Porphyria#Management#Acute porphyric crisis:#Symptoms#Treatment:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Porphyria#Management#Complications
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Porphyria#Management#Porphyria in pregnancy
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Porphyria#Management#Prepare to treat crisis:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Porphyria#Management#Triggers of porphyric crisis#Drugs:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Porphyria#Management#Triggers of porphyric crisis#Physiologic:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Porphyria#Management#Triggers of porphyric crisis#Substance abuse:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Porphyria#Some key drugs to avoid
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#SIADH#Associated conditions:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#SIADH#Considerations
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#SIADH#Goals
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#SIADH#Management
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#SIADH#Management#Acute:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#SIADH#Management#Chronic:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#SIADH#Treatment
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Steriods_Perioperative#Risk Stratification#Definitely non-suppressed HPA axis → no need for supplementation:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Endocrine and Metabolic.md#Steriods_Perioperative#Risk Stratification#Definitely suppressed hypothalamic-pituitary-adrenal (HPA) axis → supplement:
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Pheochromocytoma.md
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Polytrauma and shock.md
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Polytrauma and shock.md#Physiological changes in haemorrhage
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Polytrauma and shock.md#Physiological changes in haemorrhage#3 Stages#Decompensated shock
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Polytrauma and shock.md#Physiological changes in haemorrhage#3 Stages#Early
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Polytrauma and shock.md#Physiological changes in haemorrhage#3 Stages#Immediate
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Polytrauma and shock.md#Physiological changes in haemorrhage#3 Stages#Late
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/TEG.md
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Urology.md
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Urology.md#Cystoscopy procedures
+Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Urology.md#Cystoscopy procedures#Complications
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Amniotic fluid embolism and PE.md
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Amniotic fluid embolism and PE.md#Amniotic fluid embolism#Incidence and mortality
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Amniotic fluid embolism and PE.md#Amniotic fluid embolism#Incidence and mortality#Diagnosis
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Amniotic fluid embolism and PE.md#Amniotic fluid embolism#Incidence and mortality#Pathophysiology
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Amniotic fluid embolism and PE.md#Amniotic fluid embolism#Incidence and mortality#Presentation
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Cardiac disease in pregnancy.md
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Domain 3_ Topics and links.md
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Fetus and Placenta.md#Blood Flow
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Fetus and Placenta.md#CTG monitoring:
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Fetus and Placenta.md#Fetal circulation
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Hypertensive disease in pregnancy.md#Definitions:
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Hypertensive disease in pregnancy.md#Obstetric and anaesthetic Management
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Labour analgesia.md#Analgesia#Epidural Anaesthesia
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Labour analgesia.md#Analgesia#Non pharmacological
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Labour analgesia.md#Analgesia#Pharmacological#Antihistamines
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Labour analgesia.md#Analgesia#Pharmacological#Fentanyl
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Labour analgesia.md#Analgesia#Pharmacological#Ketamine
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Labour analgesia.md#Analgesia#Pharmacological#Midazolam
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Labour analgesia.md#Analgesia#Pharmacological#NSAIDS
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Labour analgesia.md#Analgesia#Pharmacological#Pethidine:
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Labour analgesia.md#Analgesia#Pharmacological#Remifentanil
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Labour analgesia.md#Distribution of pain#First stage
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Labour analgesia.md#Distribution of pain#Second stage
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Maternal airway and GA.md
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Maternal collapse and CPR.md
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Maternal conditions.md
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Maternal conditions.md#Breastfeeding patient#Maintaining Supply of Breast Milk
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Maternal conditions.md#Breastfeeding patient#Transfer of Medications into Breast Milk
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Maternal conditions.md#Indications for C/S#Fetal
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Maternal conditions.md#Indications for C/S#Maternal
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Maternal conditions.md#Indications for C/S#Uterine/Anatomical
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Maternal conditions.md#Preterm labour#Tocolytics
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Obstetric canvas.canvas
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Obstetric haemorrhage.md
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Obstetric haemorrhage.md#Post partum haemorrhage
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Obstetric physiology.md#Return to normal
+Literature notes/Anaesthesia core notes/Domain 3_Obstetrics/Oxytotics.md
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Anaesthetic management of specific cardiac conditions.md
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Assist devices.md
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md#AORTIC STENOSIS#ASSOCIATED FINDINGS
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md#AORTIC STENOSIS#Causes
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md#AORTIC STENOSIS#Clinical
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md#AORTIC STENOSIS#Complications:
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md#AORTIC STENOSIS#Murmur
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md#Aortic regurgitation#ASSOCIATIONS
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md#Aortic regurgitation#CAUSES
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md#Aortic regurgitation#MURMUR
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md#Aortic regurgitation#MURMUR#Austin Flint
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md#Aortic regurgitation#MURMUR#Typical
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md#HOCM#ASSOCIATIONS
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md#HOCM#CAUSES
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md#HOCM#MURMUR
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md#Mitral Stenosis#Associations
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md#Mitral Stenosis#MURMUR
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md#Mitral regurgitation#Associated
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md#Mitral regurgitation#CAUSES
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac diseases.md#Mitral regurgitation#Murmur
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac physiology.md#Coronary circulation
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac physiology.md#Coronary circulation#Cardiac Output
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Domain 4_ Topics and links.md
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/IABP.md
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/PAC.md
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Pacemakers.md
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Pulmonary Hypertension.md
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Pulmonary embolism.md
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Vascular physiology.md#Physiological changes in haemorrhage
+Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Vascular physiology.md#Systemic circulation#Arterial system
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Acute spinal cord injury.md
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Autonomic hyperreflexia.md
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Awake craniotomy.md
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Domain 5_ Topics and links.md
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/HCP and VP shunt.md
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/HCP and VP shunt.md#Classification of hydrocephalus#Communicating
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/HCP and VP shunt.md#Classification of hydrocephalus#Non-communicating
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/HCP and VP shunt.md#General#CSF
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/HCP and VP shunt.md#Management
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/HCP and VP shunt.md#Management#Surgery for patient with CSF shunt
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/HCP and VP shunt.md#What is it and why inserted:
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Neuromonitoring.md
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Neurophysiology.md#Effect of Anaesthetic agents on Cerebral physiology
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Neurophysiology.md#Effect of Anaesthetic agents on Cerebral physiology#IV agents#BZD
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Neurophysiology.md#Effect of Anaesthetic agents on Cerebral physiology#IV agents#Barbiturates
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Neurophysiology.md#Effect of Anaesthetic agents on Cerebral physiology#IV agents#Dexmedetomidine
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Neurophysiology.md#Effect of Anaesthetic agents on Cerebral physiology#IV agents#Etomidate
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Neurophysiology.md#Effect of Anaesthetic agents on Cerebral physiology#IV agents#Ketamine
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Neurophysiology.md#Effect of Anaesthetic agents on Cerebral physiology#IV agents#Lidocaine
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Neurophysiology.md#Effect of Anaesthetic agents on Cerebral physiology#IV agents#Opioids
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Neurophysiology.md#Effect of Anaesthetic agents on Cerebral physiology#IV agents#Propofol
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Neuroprotection.md
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Neurosurgery and Anaesthesia.md
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Parkinsons.md
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Pituitary surgery.md
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Posterior fossa surgery.md
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Spina Bifida.md
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Spinal cord surgery.md
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Traumatic brain injury.md
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Venous air embolism.md
+Literature notes/Anaesthesia core notes/Domain 5_Neurosurgery/Venous air embolism.md#Treatment
+Literature notes/Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Domain 6_ Topics and links-DESKTOP-RV2U39R.md
+Literature notes/Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Domain 6_ Topics and links.md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Approach to anaesthesia for paediatric patients.md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Approach to anaesthesia for paediatric patients.md#Approach to anaesthesia#Induction
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Approach to anaesthesia for paediatric patients.md#Approach to anaesthesia#Intubation
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Approach to anaesthesia for paediatric patients.md#Approach to anaesthesia#Maintenance
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Approach to anaesthesia for paediatric patients.md#Pre- op visit#General
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Approach to anaesthesia for paediatric patients.md#Pre- op visit#History and examination#Examination
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Approach to anaesthesia for paediatric patients.md#Pre- op visit#History and examination#Fasting
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Approach to anaesthesia for paediatric patients.md#Pre- op visit#History and examination#History
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Approach to anaesthesia for paediatric patients.md#Pre- op visit#History and examination#Investigations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Approach to anaesthesia for paediatric patients.md#Pre- op visit#History and examination#Premedication
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Congenital abnormalities.md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Congenital abnormalities.md#Introduction#General considerations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Congenital abnormalities.md#Spina Bifida#Background
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Congenital abnormalities.md#Spina Bifida#Background#Spina bifida cystica:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Congenital abnormalities.md#Spina Bifida#Background#Spina bifida cystica:#Myelomeningocele:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Congenital abnormalities.md#Spina Bifida#Background#Spina bifida cystica:#Myelomeningocele:#Anesthetic Considerations for Postnatal Surgical Repair#Intraoperative & Postoperative Care
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Congenital abnormalities.md#Spina Bifida#Background#Spina bifida cystica:#Myelomeningocele:#Associated abnormalities:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Congenital abnormalities.md#Spina Bifida#Background#Spina bifida cystica:#Occult spinal dysraphism:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Congenital abnormalities.md#Spina Bifida#Background#Spina bifida occulta:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Congenital abnormalities.md#Spina Bifida#Considerations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Congenital abnormalities.md#Spina Bifida#Considerations#Pregnancy#Meningocele & myelomeningocele:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Congenital abnormalities.md#Spina Bifida#Considerations#Pregnancy#Spina bifida occulta:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Domain 7_Topics and links.md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Fetus and Placenta_Sum.md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Neonatal resus.md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Neonatal resus.md#Neonatal resus
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Neonatal resus.md#Neonatal resus#Drugs#Calcium Gluconate
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Neonatal resus.md#Neonatal resus#Drugs#Epinephrine
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Neonatal resus.md#Neonatal resus#Drugs#Sodium Bicarbonate
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Common procedures
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Definitions
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Epidemiology
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Introduction
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Perioperative#Intra op#Analgesia
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Perioperative#Intra op#Fluids
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Perioperative#Intra op#Haemodynamics
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Perioperative#Intra op#Induction
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Perioperative#Intra op#Intubation
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Perioperative#Intra op#Maintenance:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Perioperative#Intra op#Monitoring
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Perioperative#Intra op#Transfusion
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Perioperative#Intra op#Ventilation:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Perioperative#Post op:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Perioperative#Pre-op#History:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Perioperative#Pre-op#Investigations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Perioperative#Pre-op#Risk stratifying:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Physiological and anatomical changes#Airway and Respiratory#Normal:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Physiological and anatomical changes#Airway and Respiratory#Pathologies#Apnoea
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Physiological and anatomical changes#Airway and Respiratory#Pathologies#Bronchopulmonary dysplasia
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Physiological and anatomical changes#Airway and Respiratory#Prematurity
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Physiological and anatomical changes#Airway and Respiratory#Ventilation in NICU
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Physiological and anatomical changes#CVS
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Physiological and anatomical changes#CVS#Pathology#Congenital heart disease more common:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Physiological and anatomical changes#GIT
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Physiological and anatomical changes#GIT#Necrotizing enterocolitis
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Physiological and anatomical changes#Haematology:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Physiological and anatomical changes#Neurological system:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Physiological and anatomical changes#Pharmacology
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Physiological and anatomical changes#Renal system
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Physiological and anatomical changes#Skin and temperature:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Summary of premature infant
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Summary of premature infant#Complications of prematurity
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Anaesthesia for Prematurity.md#Summary of premature infant#Goals
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ENT.md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ENT.md#Tonsillectomy#Conflicts:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ENT.md#Tonsillectomy#Considerations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ENT.md#Tonsillectomy#Criteria for Admission Post-op
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ENT.md#Tonsillectomy#PONV
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ENT.md#Tonsillectomy#Perioperative analgesia
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ENT.md#Tonsillectomy#Post-Tonsillectomy Bleed#Considerations:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric TIVA.md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric TIVA.md#Example
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric TIVA.md#Pharmacology#General:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric TIVA.md#Pharmacology#General:#Adjuncts
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric TIVA.md#Pharmacology#General:#Propofol
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric TIVA.md#Pharmacology#General:#Propofol with remifentanil
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric TIVA.md#Pharmacology#General:#Remifentanil
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric anatomy and physiology.md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric anatomy and physiology.md#Age definitions
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric anatomy and physiology.md#Airway and Respiratory System
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric anatomy and physiology.md#CNS
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric anatomy and physiology.md#Cardiovascular System
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric anatomy and physiology.md#Fetal physiology
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric anatomy and physiology.md#Glucose Metabolism
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric anatomy and physiology.md#Haematology
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric anatomy and physiology.md#Hepatic system
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric anatomy and physiology.md#Psychology
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric anatomy and physiology.md#Renal System
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric anatomy and physiology.md#Temperature Control
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Classification of burns
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Intra operative#Airway control#ETT
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Intra operative#Airway control#Laryngeal mask airway (LMA):
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Intra operative#Airway control#Nasal cannula with a capnograph port:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Intra operative#Alternative techniques
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Intra operative#Anaesthesia
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Intra operative#Anaesthesia#Ketamine
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Intra operative#Anaesthesia#Midazolam
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Intra operative#Anaesthesia#Other
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Intra operative#Fluids
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Intra operative#Indications for GA and dressing changes
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Intra operative#Monitoring
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Intra operative#Muscle relaxants
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Intra operative#Optimize blood loss
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Intra operative#Theatre prep
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Introduction#Diagnosis and features of inhalational injury
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Introduction#Factors impacting survival:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Introduction#Survival depends on:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Introduction#Toxic shock syndrome
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Introduction#Types of burns
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Pain management
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Pain management#Difficulties
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Pain management#Management#Chronic pain
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Pain management#Management#Nonpharmacological strategies
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Pain management#Management#Pharmacotherapy:#Opioids:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Pain management#Management#Pharmacotherapy:#Simple analgesics:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Postoperative management
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Pre operative management
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Pre operative management#Booking the case
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Pre operative management#Examination
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Pre operative management#History
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Pre operative management#Investigations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric burns.md#Pre operative management#Premedication
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Medical#Bronchopulmonary Dysplasia (BPD)#Background
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Medical#Bronchopulmonary Dysplasia (BPD)#Considerations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Medical#Bronchopulmonary Dysplasia (BPD)#Considerations#Former premature infant with possible previous intubation
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Medical#Bronchopulmonary Dysplasia (BPD)#Optimization/ Management
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Medical#Cerebral palsy#Considerations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Medical#Cerebral palsy#Introduction
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Medical#Croup/Laryngotracheobronchitis#Considerations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Medical#Croup/Laryngotracheobronchitis#Treatment
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Medical#Croup/Laryngotracheobronchitis#Treatment#Approach to intubation:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Medical#Down Syndrome#Conflicts
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Medical#Down Syndrome#Considerations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Medical#Down Syndrome#Considerations#Other medical issues:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Medical#Down Syndrome#Goals
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Medical#Duchenne Muscular Dystrophy#Background
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Medical#Duchenne Muscular Dystrophy#Conflicts
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Medical#Duchenne Muscular Dystrophy#Considerations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Medical#Epiglottitis#Considerations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Medical#Epiglottitis#Considerations#Management
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Surgical#Cleft Lip & Palate#Considerations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Surgical#Cleft Lip & Palate#Goals
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Surgical#Congenital Diaphragmatic Hernia#Background
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Surgical#Congenital Diaphragmatic Hernia#Considerations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Surgical#Congenital Diaphragmatic Hernia#Considerations#Resuscitation
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Surgical#Fontan Physiology#Background
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Surgical#Fontan Physiology#Goals#Fluid management:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Surgical#Fontan Physiology#Goals#Hemodynamic goals:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Surgical#Fontan Physiology#Goals#Postoperative concerns:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Surgical#Fontan Physiology#Goals#Ventilatory strategy:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Surgical#Fontan Physiology#Key Considerations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Surgical#Fontan Physiology#Laparoscopy & Fontan
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md#Surgical#Fontan Physiology#Pregnancy Considerations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Aetiology
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Classification of the defect#Functional classification#Lesions causing outflow obstruction:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Classification of the defect#Functional classification#Shunts which can be described as:#Complex
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Classification of the defect#Functional classification#Shunts which can be described as:#Complex#L to R (Acyanotic unless Eisenmenger’s syndrome) + ↑ pulmonary flow.
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Classification of the defect#Functional classification#Shunts which can be described as:#Complex#R to L (Potentially Cyanotic, although not necessarily all the time).#Decreased pulmonary blood flow:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Classification of the defect#Functional classification#Shunts which can be described as:#Complex#R to L (Potentially Cyanotic, although not necessarily all the time).#Increased pulmonary blood flow (implies they are usually less severely cyanotic or only at times):
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Classification of the defect#Functional classification#Shunts which can be described as:#Simple shunts:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Classification of the defect#Incidence:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Cyanosis
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#ASD#Anaesthesia management:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#ASD#Classification:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#ASD#Diagnosis:#CXR:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#ASD#Diagnosis:#ECG:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#ASD#Diagnosis:#Other
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#ASD#Diagnosis:#Signs
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#ASD#Diagnosis:#Symptoms
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#ASD#Pathophysiology
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#ASD#Treatment:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#AVSD
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#AVSD#Characteristics:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#AVSD#Characteristics:#Complete AVSD:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#AVSD#Characteristics:#Partial / incomplete AVSD = Ostium primum atrial septal defect:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#AVSD#Characteristics:#Transitional AVSD:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#AVSD#Diagnosis:#Investigations#CXR:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#AVSD#Diagnosis:#Investigations#Catheter
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#AVSD#Diagnosis:#Investigations#ECG:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#AVSD#Diagnosis:#Signs
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#AVSD#Diagnosis:#Symptoms
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#AVSD#Pathophysiology:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#AVSD#Treatment:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Anomalous Left Coronary Artery
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Anomalous Left Coronary Artery#Pathophysiology:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Anomalous Left Coronary Artery#Treatment:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Coarctation of the aorta
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Coarctation of the aorta#Anaesthesia for Coarctation
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Coarctation of the aorta#Diagnosis
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Coarctation of the aorta#Pathophysiology:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Coarctation of the aorta#Treatment:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Congenital Aortic Stenosis
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Congenital Aortic Stenosis#Diagnosis
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Congenital Aortic Stenosis#Pathophysiology:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#PDA
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#PDA#Diagnosis:#Signs:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#PDA#Diagnosis:#Symptoms:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#PDA#Investigations:#CXR:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#PDA#Investigations:#Cardiac catheterization
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#PDA#Investigations:#Echocardiography:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#PDA#Pathophysiology:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#PDA#Risk factors:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#PDA#Treatment:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Pulmonary stenosis
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Pulmonary stenosis#Diagnosis
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Pulmonary stenosis#Pathophysiology:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Tetralogy of Fallot
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Tetralogy of Fallot#Anaesthesia Principles:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Tetralogy of Fallot#Anaesthesia Principles:#Don’t ↑ R to L shunt:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Tetralogy of Fallot#Anaesthesia Principles:#Intra-op:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Tetralogy of Fallot#Anaesthesia Principles:#Pre-op:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Tetralogy of Fallot#Characteristics:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Tetralogy of Fallot#Complications:#Coagulopathy
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Tetralogy of Fallot#Complications:#Hypercyanotic spell
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Tetralogy of Fallot#Complications:#Polycythaemia:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Tetralogy of Fallot#Diagnosis.#Signs:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Tetralogy of Fallot#Diagnosis.#Special investigations:#CXR
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Tetralogy of Fallot#Diagnosis.#Special investigations:#ECG
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Tetralogy of Fallot#Diagnosis.#Symptoms:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Tetralogy of Fallot#Pathophysiology:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Tetralogy of Fallot#Treatment:#Hypercyanotic spell:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Tetralogy of Fallot#Treatment:#Palliative surgery
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Tetralogy of Fallot#Treatment:#Surgical correction at 6-18 month
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#VSD
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#VSD#Anaesthetic principles:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#VSD#Anaesthetic principles:#If R to L shunt with PHT + RHF (Eisenmenger).
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#VSD#Classification:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#VSD#Diagnosis:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#VSD#Diagnosis:#Murmur
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#VSD#Pathophysiology:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#VSD#Post-op complications:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#VSD#Treatment:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Vascular Rings
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Different types of CHD#Vascular Rings#Classification:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Fetal Cardiac Physiology
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#General Approach to CHD
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#General Approach to CHD#A. You start with a suspicion that a baby / child has CHD
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#General Approach to CHD#A. You start with a suspicion that a baby / child has CHD#The common symptoms and signs with which CHD’s present include:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#General Approach to CHD#B. Need to make an accurate (and sometimes urgent) diagnosis
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#General Approach to CHD#C. Need to understand the anatomy, pathophysiology and problems of the defect
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#General Approach to CHD#E. Make a plan for the entire peri-operative management (cardiac grid)
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#General Approach to CHD#E. Make a plan for the entire peri-operative management (cardiac grid)#The following are recurring themes in CHD and the commonest aspects needing attention
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Summary#Practical approach:#Intra-operative#Induce
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Summary#Practical approach:#Intra-operative#Maintenance
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Summary#Practical approach:#Intra-operative#Preparation:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Summary#Practical approach:#Pre-operative:  ID problem = child with CHD#Answer a number of vital questions:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Summary#Practical approach:#Pre-operative:  ID problem = child with CHD#Attain a good idea of:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Summary#Practical approach:#Pre-operative:  ID problem = child with CHD#Examination
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Summary#Practical approach:#Pre-operative:  ID problem = child with CHD#History
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Summary#Practical approach:#Pre-operative:  ID problem = child with CHD#Premeds
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Summary#Practical approach:#Pre-operative:  ID problem = child with CHD#Review special investigations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Summary#Summary of drugs#Antibiotics
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Summary#Summary of drugs#Inotropes, vasopressors and vasodilators
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Summary#Summary of drugs#Other
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Surgical procedures for CHD#Lesions that may have high
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Surgical procedures for CHD#Lesions with ↑ lung flow (L toR):
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Surgical procedures for CHD#Lesions with ↓ lung flow (R toL):#Dangers of cavo-pulmonary shunts?
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Surgical procedures for CHD#Lesions with ↓ lung flow (R toL):#Need to increase pulmonary flow:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#Syndromes and associations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#What are the generic consequences of the various lesions of CHD?
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#What are the generic consequences of the various lesions of CHD?#For all the lesions:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#What are the generic consequences of the various lesions of CHD?#Obstructive lesions#LVH (AS).
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#What are the generic consequences of the various lesions of CHD?#Obstructive lesions#RVH (e.g. PS);
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#What are the generic consequences of the various lesions of CHD?#Shunt:#↑ Pulmonary flow (especially L to R)
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#What are the generic consequences of the various lesions of CHD?#Shunt:#↑ Pulmonary flow (especially L to R)#Anaesthetic considerations:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#What are the generic consequences of the various lesions of CHD?#Shunt:#↑ Pulmonary flow (especially L to R)#Medical treatment is usually:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#What are the generic consequences of the various lesions of CHD?#Shunt:#↓ Pulmonary flow (especially R to L)
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#What are the generic consequences of the various lesions of CHD?#Shunt:#↓ Pulmonary flow (especially R to L)#Anaesthetic considerations:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#What are the generic consequences of the various lesions of CHD?#Shunt:#↓ Pulmonary flow (especially R to L)#Anaesthetic considerations:#Aims:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#What are the generic consequences of the various lesions of CHD?#Shunt:#↓ Pulmonary flow (especially R to L)#Hypoxaemia / cyanosis results in:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md#What are the generic consequences of the various lesions of CHD?#Shunt:#↓ Pulmonary flow (especially R to L)#Medical treatment includes:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric day case.md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric day case.md#Anaesthesia#Analgesia
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric day case.md#Anaesthesia#Fasting
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric day case.md#Anaesthesia#Induction and maintenance
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric day case.md#Anaesthesia#PONV
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric day case.md#Anaesthesia#PONV#Prophylaxis
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric day case.md#Anaesthesia#PONV#Risk factors include:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric day case.md#Anaesthesia#Pre med
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric day case.md#Anaesthesia#Priorities
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric day case.md#Facility
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric day case.md#Inclusion and exclusions
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric day case.md#Pre op
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric day case.md#Pre op#Vaccination considerations:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ophthalmology.md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ophthalmology.md#Analgesia
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ophthalmology.md#Different surgeries#Intraocular surgery
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ophthalmology.md#Different surgeries#Measurement of intraocular pressure (IOP)
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ophthalmology.md#Different surgeries#Penetrating eye surgery
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ophthalmology.md#Different surgeries#Simple procedures such as examination under anaesthesia (EUA)
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ophthalmology.md#Different surgeries#Squints (Strabismus surgery)
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ophthalmology.md#Different surgeries#Squints (Strabismus surgery)#Approach
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ophthalmology.md#Extubation and emergence
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ophthalmology.md#IOP and anaesthesia
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ophthalmology.md#Maintenance
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ophthalmology.md#Oculocardiac Reflex
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ophthalmology.md#PONV
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric ophthalmology.md#Pre meds
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Development of pain pathways
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Drug doses
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Drug doses#Intra-op and post op analgesia
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Drug doses#PCA
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Introduction
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Paediatric assessment tools#Observational#COMFORT Scale
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Paediatric assessment tools#Observational#Children's Hospital of Eastern Ontario Pain Scale (CHEOPS)
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Paediatric assessment tools#Observational#FLACC Pain Assessment Tool
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Paediatric assessment tools#Observational#Procedure Behavior Checklist
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Paediatric assessment tools#Self reported#Faces Pain Scale-Revised
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Paediatric assessment tools#Self reported#Poker chip tool
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Paediatric assessment tools#Self reported#Visual analogue scale (VAS)
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Paediatric assessment tools#Self reported#Wong-Baker Faces Pain Rating Scale
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Pharmacological therapies#Ketamine
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Pharmacological therapies#Non-steroidal anti-inflammatories (NSAIDs)
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Pharmacological therapies#Non-steroidal anti-inflammatories (NSAIDs)#Diclofenac
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Pharmacological therapies#Non-steroidal anti-inflammatories (NSAIDs)#Ibuprofen
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Pharmacological therapies#Non-steroidal anti-inflammatories (NSAIDs)#Ketorolac
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Pharmacological therapies#Opioids
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Pharmacological therapies#Opioids#Codeine
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Pharmacological therapies#Opioids#Fentanyl
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Pharmacological therapies#Opioids#Morphine
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Pharmacological therapies#Opioids#Morphine#PCA
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Pharmacological therapies#Opioids#Remifentanil
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Pharmacological therapies#Opioids#Tramadol
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md#Pharmacological therapies#Paracetamol
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric post op complications.md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pre op assessment.md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pre op assessment.md#Pre- op visit#General
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pre op assessment.md#Pre- op visit#History and examination#Examination
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pre op assessment.md#Pre- op visit#History and examination#Fasting
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pre op assessment.md#Pre- op visit#History and examination#History
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pre op assessment.md#Pre- op visit#History and examination#Investigations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pre op assessment.md#Pre- op visit#History and examination#Premedication
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Practical advice for Red-Cross#Academics/ Meetings#Academics
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Practical advice for Red-Cross#Academics/ Meetings#Huddle:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Practical advice for Red-Cross#Administrative:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Practical advice for Red-Cross#Administrative:#Adverse event or death procedure
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Practical advice for Red-Cross#Administrative:#Exit interview
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Practical advice for Red-Cross#Administrative:#Recommended textbooks
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Practical advice for Red-Cross#Premeds:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Practical advice for Red-Cross#Premeds:#Important lists to see:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Practical advice for Red-Cross#Theatre allocations
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Practical advice for Red-Cross#Theatre allocations#A7 (day cases)
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Practical advice for Red-Cross#Theatre allocations#Burns theatre
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Practical advice for Red-Cross#Theatre allocations#Cardiac theatre
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Practical advice for Red-Cross#Theatre allocations#Neurosurgery theatre
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Antibiotic prophylaxis
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#CVC sizing
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#ETT sizes
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Emergencies#ANAESTHESIA INDUCED RHABDOMYOLYSIS (AIR)
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Emergencies#Agitation in recovery
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Emergencies#Anaphylaxis
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Emergencies#Bleeding and blood products
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Emergencies#Bleeding and blood products#Massive transfusion protocol#Blood products:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Emergencies#Bleeding and blood products#Massive transfusion protocol#Indications:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Emergencies#Bleeding and blood products#Massive transfusion protocol#Protocol
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Emergencies#Bradycardia
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Emergencies#CARDIOVERSION
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Emergencies#Cardiac arrest:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Emergencies#Glucose control#Hypoglycaemia
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Emergencies#Malignant hyperthermia
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Emergencies#Potassium control#Hyperkalaemia
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Emergencies#Potassium control#Hypokalaemia
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Emergencies#RESUSITATION MEDICATION
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Emergencies#Supraventricular tachycardia
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Emergencies#Ventricular tachycardia
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Fasting guideline
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Fluids
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Infusions:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Intra-op and post op analgesia
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Local anaesthetics#Caudals:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Local anaesthetics#Clysis:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Local anaesthetics#Epidural infusion catheters:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Local anaesthetics#Wound infusion catheters:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#PCA
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#PONV
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Pain scales
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Pre medication
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Quick reference guide#Reversal
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Regional anaesthesia#Caudal#Practical:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Regional anaesthesia#Epidural/wound infusion catheters#Admin
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric quick reference guide and tips.md#Regional anaesthesia#PCA#Admin:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric resus.md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Associated procedures#Scopes#Post procedure:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Associated procedures#Scopes#Pre-op
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Associated procedures#Scopes#Technique
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Associated procedures#Scopes#Technique#IV sedation
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Associated procedures#Scopes#Technique#Intubation#How:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Associated procedures#Scopes#Technique#Intubation#Indications for intubation:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Associated procedures#Scopes#Technique#LMA
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Associated procedures#Scopes#Technique#Native airway technique
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Contra-indications#Absolute
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Contra-indications#Relative
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Drugs#Barbiturates#Propofol
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Drugs#Benzodiazepines#Midazolam
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Drugs#Opioids#Fentanyl#Reversal
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Drugs#Opioids#Morphine
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Drugs#Tranquillizers#Ketamine
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Drugs#Tranquillizers#Nitrous Oxide Nitrous oxide
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Drugs#Tranquillizers#Trimeprazine
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Goals
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Patient preparation
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Sedation definitions#Explained#Deep sedation/analgesia
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Sedation definitions#Explained#Minimal sedation (formerly known as anxiolysis)
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Sedation definitions#Explained#Moderate sedation (formerly known as conscious sedation)
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric sedation.md#Sedation definitions#Summary
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric urology and renal.md
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric urology and renal.md#Acute scrotum
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric urology and renal.md#Circumcision, Preputioplasty, and Meatotomy
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric urology and renal.md#Cystoscopy and Urolithiasis
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric urology and renal.md#Hypospadias
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric urology and renal.md#Introduction
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric urology and renal.md#Introduction#Sensory innervation of GUT and regional blocks
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric urology and renal.md#Introduction#Sensory innervation of GUT and regional blocks#Dorsal Penile Nerve Block
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric urology and renal.md#Introduction#Sensory innervation of GUT and regional blocks#Ilioinguinal block:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric urology and renal.md#Laparoscopic Surgery in Children#Advantages:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric urology and renal.md#Laparoscopic Surgery in Children#Anaesthesia
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric urology and renal.md#Laparoscopic Surgery in Children#Disadvantages:
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric urology and renal.md#Nephrectomy
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric urology and renal.md#Orchidopexy
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric urology and renal.md#Posterior Urethral Valves
+Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric urology and renal.md#Prune Belly (Eagle–Barrett Syndrome)
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/ARDS.md
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/ARDS.md#Aetiology of ARDS:#Explain the “baby lung” in ARDS:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/ARDS.md#Aetiology of ARDS:#What is VILI in ARDS:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/ARDS.md#Definition:#Berlin criteria (2013):
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/ARDS.md#How does Proning help?
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/ARDS.md#PEEP:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/ARDS.md#Pathophysiology:#Result of pathophysiology explained:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/ARDS.md#Trials that have influenced management:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Abdominal compartment syndrome.md
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Acid base.md
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/CVS support and shock.md
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Chest tubes and drains.md
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Delirium and sedation.md
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Domain 8_ Topics and links.md
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/ECMO.md
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md#Potassium#Hyperkalaemia#Aetiology:#Drugs
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md#Potassium#Hyperkalaemia#Aetiology:#Shift:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md#Potassium#Hyperkalaemia#Aetiology:#Total body excess:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md#Potassium#Hyperkalaemia#Drug interactions
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md#Potassium#Hyperkalaemia#ECG changes
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md#Potassium#Hyperkalaemia#Management#Eliminate potassium:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md#Potassium#Hyperkalaemia#Management#Shift potassium intracellularly:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md#Sodium#Hypernatremia#Total body water deficit (Hypernatremia)
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md#Sodium#Hyponatremia#Considerations#Acute vs. chronic hyponatremia
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md#Sodium#Hyponatremia#Considerations#Physiologic manifestations (severe = neurologic symptoms or < 120 mEq/L):
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md#Sodium#Hyponatremia#Etiology:#Euvolemia:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md#Sodium#Hyponatremia#Etiology:#Hypervolemia:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md#Sodium#Hyponatremia#Etiology:#Hypovolemia:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md#Sodium#Hyponatremia#Management
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md#Sodium#Hyponatremia#Management#Acute:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md#Sodium#Hyponatremia#Management#SIADH:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Electrolytes.md#Sodium#Hyponatremia#Management#Sodium deficit (Hyponatremia) calculation
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Fluids and volume status.md#Glycocalyx:#Significance:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/GIT.md
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/General ICU.md#Respiratory#Causes for Hypoxia#Alveolar- Arterial difference:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/General ICU.md#Respiratory#Hypoxia vs Hypoxemia
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/ICU and renal.md
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Antibiotic coverage
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Antibiotics dosing in special circumstances:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Classification of Bacteria:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Common Accronyms:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Common doses in ICU:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Concentration vs time dependant killing#Concentration dependant killing:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Concentration vs time dependant killing#Time dependent killing:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Features of Bacterial cells
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Features of Bacterial cells#Components of bacterial cells
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#How do antibiotics work (Summary):
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Mechanism of action:#Affects permeability of cytoplasmic membrane:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Mechanism of action:#DNA/RNA inhibitions
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Mechanism of action:#Disrupts folic acid synthesis
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Mechanism of action:#Inhibition of cell wall synthesis
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Mechanism of action:#Protein synthesis inhibition:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Mechanisms of resistance:#Alteration of the outer membrane:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Mechanisms of resistance:#Cell wall
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Mechanisms of resistance:#Efflux pumps
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Mechanisms of resistance:#Enzymatic inactivation of the antibiotic
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Mechanisms of resistance:#Enzymes breaking down antibiotics:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Mechanisms of resistance:#Multiple mechanisms:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Mechanisms of resistance:#Overproduction of antibiotic target
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Mechanisms of resistance:#Porin channel
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Mechanisms of resistance:#Ribosomes
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Other important stuff:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Principles of Antibiotic dosing:#Minimum bacteriocidal concentration (MBC):
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics 1.md#Introduction#Principles of Antibiotic dosing:#Minimum inhibitory concentration (MIC)
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics.md
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics.md#Introduction#Features of Bacterial cells
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics.md#Introduction#Mechanism of action:#Affects permeability of cytoplasmic membrane:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics.md#Introduction#Mechanism of action:#DNA/RNA inhibitions
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics.md#Introduction#Mechanism of action:#Disrupts folic acid synthesis
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics.md#Introduction#Mechanism of action:#How do antibiotics work (Summary):
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics.md#Introduction#Mechanism of action:#Inhibition of cell wall synthesis
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics.md#Introduction#Mechanism of action:#Protein synthesis inhibition:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics.md#Principles of Antibiotic dosing:#Concentration vs time dependant killing#Concentration dependant killing:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics.md#Principles of Antibiotic dosing:#Concentration vs time dependant killing#Time dependent killing:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Nutrition.md
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Renal replacement therapy.md
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Renal replacement therapy.md#Complications of RRT#Cardiovascular
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Renal replacement therapy.md#Complications of RRT#Hematological
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Renal replacement therapy.md#Indications for RRT
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Tracheostomy.md#Approach to tracheostomy emergencies:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Tracheostomy.md#Performing a percutaneous Trachi:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#How does a ventilator work:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#How does a ventilator work:#Airway resistance and compliance#Compliance
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#How does a ventilator work:#Airway resistance and compliance#Resistance
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#How does a ventilator work:#Phases of ventilation:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#How does a ventilator work:#Pressure vs volume vs flow vs time cycled ventilators:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#How does a ventilator work:#Ventilator desynchrony:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#How does a ventilator work:#Ventilator desynchrony:#Minor adjustments to aid in minimizing desynchrony:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#How does a ventilator work:#Ventilator modes
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#How does a ventilator work:#Ventilator modes#Advanced mode of ventilation:#Airway pressure release ventilation:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#How does a ventilator work:#Ventilator modes#Advanced mode of ventilation:#High frequency oscillatory ventilation:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#How does a ventilator work:#Ventilator modes#Advanced mode of ventilation:#Pressure regulated volume guaranteed:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#How does a ventilator work:#Ventilator modes#How are the mode of ventilation defined?
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#How does a ventilator work:#Ventilator modes#How are the mode of ventilation defined?#Breath sequences:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#Introduction#Indications to intubate and ventilate:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#Introduction#Negative effects of positive pressure
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#Weaning from the Ventilator#2 phases#Failure to wean deferential:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#Weaning from the Ventilator#2 phases#How to extubate:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#Weaning from the Ventilator#2 phases#Liberation:#Equipment required to safely extubate:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#Weaning from the Ventilator#2 phases#Liberation:#How to perform a SBT:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#Weaning from the Ventilator#2 phases#Liberation:#What is a Spontaneous Breathing Trail?
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#Weaning from the Ventilator#2 phases#Liberation:#When to stop a SBT:
+Literature notes/Anaesthesia core notes/Domain 8_ ICU/Ventilation and Weaning.md#Weaning from the Ventilator#2 phases#The “cuff leak test”
+Literature notes/Anaesthesia core notes/Domain 9_ Pain/Chronic pain.md
+Literature notes/Anaesthesia core notes/Domain 9_ Pain/Domain 9_Topics and links.md
+Ophthalmology.md
+Ophthalmology.md#General#Gases used for retinal temponade
+Ophthalmology.md#General#Induction and maintenance:
+Ophthalmology.md#General#Oculo-cardiac reflex
+Ophthalmology.md#General#Open Eye:
+Ophthalmology.md#General#Open Eye:#Approach:
+Ophthalmology.md#General#Post op
+Ophthalmology.md#General#Pre-op
+Ophthalmology.md#General#Surgical subspecialities approach:#Cataract:
+Ophthalmology.md#General#Surgical subspecialities approach:#Glaucoma:
+Ophthalmology.md#General#Surgical subspecialities approach:#Vitreo-retinal:#Scleral buckle:
+Ophthalmology.md#General#Surgical subspecialities approach:#Vitreo-retinal:#Vitrectomy:
+Paediatric emergencies.md
+Paediatric neurosurgery.md
+Paediatric neurosurgery.md#Anaesthesia for neurosurgery#Anaesthetic technique
+Paediatric neurosurgery.md#Anaesthesia for neurosurgery#Awake craniotomy:
+Paediatric neurosurgery.md#Anaesthesia for neurosurgery#Considerations
+Paediatric neurosurgery.md#Anaesthesia for neurosurgery#Goals
+Paediatric neurosurgery.md#Anaesthesia for neurosurgery#Management of raised ICP
+Paediatric neurosurgery.md#Neurophysiology#Arterial carbon dioxide/oxygen tension (PaCO2/PaO2)
+Paediatric neurosurgery.md#Neurophysiology#CBF
+Paediatric neurosurgery.md#Neurophysiology#CMR
+Paediatric neurosurgery.md#Neurophysiology#ICP
+Paediatric neurosurgery.md#TBI
+Paediatric neurosurgery.md#TBI#Assessment
+Paediatric neurosurgery.md#TBI#Considerations
+Paediatric neurosurgery.md#TBI#Management
+Paediatric neurosurgery.md#TBI#Summary of management
+Paediatric neurosurgery.md#VP shunt
+Paediatric neurosurgery.md#Venous air embolism
+Reference folder/Furay.Howell_Paediatricneuroanaesthesia_2010a.md
+Reference folder/Kirkpatrick.Vashisht_AnesthesiaPediatric_2014.md
+Reference folder/Krovvidi.etal_Perioperativemanagement_2018.md
+Reference folder/Macrae.etal_Anaesthesiapremature_2021.md
+Reference folder/Nair_PAEDIATRICPAIN_.md
+Reference folder/Nair_PAEDIATRICPAIN_2013.md
+Reference folder/Pritchard_Ophthalmicsurgery_2014.md
+Reference folder/Raghavan.etal_TBI_paeds_.md
+Reference folder/Rodgers.Craven_Localanaesthesia_2014.md
+Reference folder/Vittinghoff.etal_Postoperativepain_2018.md
+Reference notes/Dunkman.Manning_EnhancedRecovery_2018 - Annotations (17042023, 092543).md
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#Management#Induction:
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#Management#Monitors:
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#Management#Post Partum period
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#Management#Principles
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#Management#Uterotonics
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#Risk Prediction
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#[[Anaesthetic management of specific cardiac conditions]]#Aortic stenosis#Anaesthetic management
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#[[Anaesthetic management of specific cardiac conditions]]#Aortic stenosis#Physiological effects of pregnancy and delivery
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#[[Anaesthetic management of specific cardiac conditions]]#Aortopathy#Anaesthetic management
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#[[Anaesthetic management of specific cardiac conditions]]#CAD#Anaesthetic management
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#[[Anaesthetic management of specific cardiac conditions]]#CAD#Physiological effects of pregnancy and delivery
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#[[Anaesthetic management of specific cardiac conditions]]#MR/ AR#Anaesthetic management
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#[[Anaesthetic management of specific cardiac conditions]]#Mitral stenosis#Anaesthetic management
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#[[Anaesthetic management of specific cardiac conditions]]#Mitral stenosis#Physiological effects of pregnancy and delivery
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#[[Anaesthetic management of specific cardiac conditions]]#Severe LV dysfunction#Anaesthetic management
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#[[Anaesthetic management of specific cardiac conditions]]#Severe LV dysfunction#Physiological effects of pregnancy and delivery
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#[[Anaesthetic management of specific cardiac conditions]]#Unstable arrythmia#Anaesthetic management
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#[[Anaesthetic management of specific cardiac conditions]]#Unstable arrythmia#Physiological effects of pregnancy and delivery
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#[[Anaesthetic management of specific cardiac conditions]]#[[Pulmonary Hypertension]]#Anaesthetic management
+Summaries/Anaesthesia summaries/Cardiac_Disease_in_Pregnancy_Sum.md#[[Anaesthetic management of specific cardiac conditions]]#[[Pulmonary Hypertension]]#Physiological effects of pregnancy and delivery
+Templates/Academic note.md
+Templates/Drink diary.md
+Templates/My Life.md
+Zotero Images/image-1410-x34-y53.png.md
+Zotero Images/image-2-x49-y295.png.md
+Zotero Images/image-2-x98-y142.png.md
+Zotero Images/image-5-x63-y78.png.md
+Zotero Images/image-6-x77-y508.png.md
+Zotero Images/image-7-x66-y369.png.md

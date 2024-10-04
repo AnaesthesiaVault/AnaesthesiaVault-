@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "d9104663796de12b",
+    "type": "split",
+    "children": [
+      {
+        "id": "17087aa9ea39ad9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8722099a2a2b582c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/Echocardiography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "715aa887fb6ea46c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/Echocardiography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00e304886c932a65",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e6bf38549035370",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e36fa17b7f96e328",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c3f0225f231bc69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b3b5ccbb2a45a40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5452008e13e2a7e5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1979b41a22d2702e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdfb7ceafcf397ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67a15bee6878de69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "04b3fa86c34da9f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/Echocardiography.md"
+              }
+            }
+          },
+          {
+            "id": "0aab8336838ee4b9",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ab2e0f9ab000f6e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ea0f990d1873e8f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9834a53c5441aab2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/Echocardiography.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "008c8147a019dedc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/Echocardiography.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "788323a3bf5e7c72",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "text2audio:Text to Audio": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "715aa887fb6ea46c",
+  "lastOpenFiles": [
+    "Omnivore/2024-08-26/ATAO-ADD-TX_1~ABS-ABSH-AT-HTC-CR-TX_2~ABS-ABSH-AT.md",
+    "Omnivore/2024-08-26/The Secret Power of ‘Read It Later’ Apps.md",
+    "Omnivore/2024-08-26/Organize your Omnivore library with labels.md",
+    "Omnivore/2024-08-26/Microsoft Word - FMM No 25 28-10-2016 Anaesthesia for Tracheal Resection - S Naidoo.md",
+    "Omnivore/2024-08-26/Getting Started with Omnivore.md",
+    "Omnivore/2024-08-26",
+    "Omnivore",
+    "Literature notes/Anaesthesia core notes/Domain 8_ ICU/ECMO.md",
+    "Literature notes/Index/Domain 04.md",
+    "Literature notes/Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/Echocardiography.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Pulmonary Hypertension.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Valvular heart disease.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Bypass.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac surgery.md",
+    "smart-chats/UNTITLED CHAT 2024-08-18 01 44 54.md",
+    "smart-chats/UNTITLED CHAT 2024-08-18 01 30 01.md",
+    "smart-chats/UNTITLED CHAT 2024-08-17 23 32 24.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Transcatheter Aortic Valve Replacement (TAVR).md",
+    "smart-chats/UNTITLED CHAT 2024-08-17 23 26 42.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Respiratory physiology and Thoracic anaesthesia.md",
+    "Literature notes/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Lower GIT surgery.md",
+    "Literature notes/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Anaesthetic management of specific cardiac conditions.md",
+    "Images/Pasted image 20240817225642.png",
+    "Images/Pasted image 20240817225612.png",
+    "Images/Pasted image 20240817225543.png",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Enhanced recovery after surgery (ERAS).md",
+    "Literature notes/Index/Domain 01.md",
+    "smart-chats/UNTITLED CHAT 2024-08-17 20 48 20.md",
+    "smart-chats/UNTITLED CHAT 2024-08-17 20 17 26.md",
+    "Literature notes/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Stress response.md",
+    "Images/Pasted image 20240817224036.png",
+    "Literature notes/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric congenital heart disease.md",
+    "Images/Pasted image 20240813075150.png",
+    "Images/Pasted image 20240805122616.png",
+    "Images/Pasted image 20240805112707.png",
+    "Images/Pasted image 20240805112513.png",
+    "Images/Pasted image 20240805112134.png",
+    "Images/Pasted image 20240805105426.png",
+    "Jehovah's witness.pdf"
+  ]
+}

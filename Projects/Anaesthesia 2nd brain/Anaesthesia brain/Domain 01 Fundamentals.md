@@ -1,0 +1,121 @@
+---
+Date modified: Friday, October 4th 2024, 2:18:52 pm
+---
+# Physiology
+- [[Obstetric physiology]]
+- [[Cardiac physiology]]
+- [[CVS support and shock ]]
+- [[Vascular physiology]]
+- [[Respiratory physiology and Thoracic anaesthesia]]
+- [[Renal Physiology]]
+- [[Liver physiology and pathology]]
+- [[Physiology of pain]]
+- [[Fluids and volume status]]
+- [[Electrolytes]]
+- [[Acid base]]
+- [[Altitude]]
+- [[Anaesthesia for the athlete]]
+- [Clotting cascade](Clotting%20cascade.md)
+- [[Stress response]]
+# Pharmacology
+- [[Pharmacology summaries]]
+- [[Inotropes]]
+- [[Anti-arrhythmic drugs]]
+- [[Anti-Hypertensive agents]]
+- [[Opioid sparing adjuncts]]
+- [[Alternative medicine and herbal meds]]
+- [[Opioids]]
+- [[Local anaesthetics]]
+# Anatomy
+- [[Anatomy basics]]
+- [[Airway anatomy and assessment]]
+# Physics
+- [[Physics]]
+# General Anaesthesia
+- [[Practical Protocols and recipes]]
+- [[Anaesthesia Formulas]]
+- [[Essential diagrams and classifications]]
+- [[Sedation]]
+- [[Day case surgery]]
+- [[Remote anaesthesia]]
+- [[Geriatrics ]]
+- [[Enhanced recovery after surgery (ERAS)]]
+- [[Fluid, volume and Monitoring]]
+- [[Organ protection]]
+- [[Anaesthesia and cancer surgery]]
+- [[Cardiac for non-cardiac surgery]]
+- [[Infection control]]
+## Risk Assessment
+- [[Risk]]
+- [[Thoracic pre-op assessment]]
+## Pre-operative
+- [[WHO checklist]]
+- [[Premedication]]
+- [[Pre-op assessment and investigation]]
+- [[Airway anatomy and assessment]]
+## Intraoperative
+- [[Positioning]]
+- [[Temperature management]]
+- [[Rapid sequence induction (RSI) and aspiration]]
+- [[Awake tracheostomy and intubation]]
+- [[Total intravenous anaesthesia (TIVA)]]
+- [[Prolonged operations]]  
+## Post Operative
+- [[Recovery]]
+- [[Post operative nausea and vomiting (PONV)]]
+- [[Post operative cognitive dysfunction (POCD) and delirium]]
+- [[Post op complications]]
+## Regional Anaesthesia
+- [[Neuraxial and Epidural]]
+- [[Upper limb blocks]]
+- [[Lower limb blocks]]
+- [[Truncal blocks]]
+# Emergencies
+- [[Advanced cardiac life support (ACLS)]]
+- [[Airway guidelines]]
+# Conditions and Procedures
+## Medical
+- [[Anaesthesia core notes/Domain 5_Neurosurgery/Connective tissue and autoimmune disease]]
+- [[Endocrine and Metabolic]]
+- [[Neuromuscular disorders]]
+- [Diabetes Mellitus](Diabetes%20Mellitus.md)
+- [[Hypertension]]
+- [[Asthma and Chronic Obstructive Pulmonary Disease (COPD)]]
+- [[Embolic phenomena]]
+- [[Smoking]]
+- [[Obstructive sleep apnea]]
+- [[OSA]]
+## Surgical
+- [[Laparoscopic surgery]]
+- [[Transplants and organ donation]]
+## Infectious Disease
+- [[HIV and anaesthesia]]
+- [[Tuberculosis (TB)]]
+## Psychiatry
+- [[Psychiatry]]
+- [[Electroconvulsive therapy (ECT)]]
+## Coagulation and Anticoagulation \
+- [[Anticoagulation]]
+- [[Obstetrics Anticoagulation]]
+- [[Anticoagulation and blocks]]
+- [[Haematology and Blood testing]]
+- [[Blood transfusions and conservation strategies]]
+- [[Blood conservation]]
+- [[Point of Care Coagulation testing]]
+# Equipment, Monitoring and Procedures
+## Equipment
+- [[Anaesthesia equipment]]
+- [[Airway equipment and techniques]]
+- [[Breathing systems]]
+## Monitoring and Procedures
+- [[Arterial blood gas (ABG)]]
+- [[Bispectral Index (BIS)]]
+- [[Central venous pressure (CVP)]]
+- [[Chest X-ray (CXR)]]
+- [[Electrocardiogram (ECG)]]
+- [[Echocardiography]]
+- [[Lung function testing]]
+- [[Neuromuscular monitoring]]
+- [[Flow-volume loops]]
+# Ethics \
+- [[Consent]]

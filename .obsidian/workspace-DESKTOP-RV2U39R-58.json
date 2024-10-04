@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "d9104663796de12b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d3e8073295228b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffaec85647b2f3cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Domain 7_Topics and links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00e304886c932a65",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e6bf38549035370",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e36fa17b7f96e328",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c3f0225f231bc69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b3b5ccbb2a45a40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5452008e13e2a7e5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1979b41a22d2702e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdfb7ceafcf397ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67a15bee6878de69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "04b3fa86c34da9f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Domain 7_Topics and links.md"
+              }
+            }
+          },
+          {
+            "id": "0aab8336838ee4b9",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ab2e0f9ab000f6e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ea0f990d1873e8f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9834a53c5441aab2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Domain 7_Topics and links.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "008c8147a019dedc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Domain 7_Topics and links.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "788323a3bf5e7c72",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-omnivore:Omnivore": false
+    }
+  },
+  "active": "ffaec85647b2f3cb",
+  "lastOpenFiles": [
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric general surgery.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Domain 7_Topics and links.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric post op complications.md",
+    "Areas/Anaesthesia 2nd brain.canvas",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia brain/Domain 05 Neuro and spinal surgery.md",
+    "Areas/Anaesthesia Brain.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia brain/Domain 04 Cardiothoracics and vascular.md",
+    "Domain 05 Neurosurgery.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia brain/Domain 06 Airway, ENT, Ophthalmology, Plastics and dental.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Neuromuscular disorders.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 5_Neurosurgery/Neurofibromatosis.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 5_Neurosurgery/NMJ.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 5_Neurosurgery/Transsphenoidal surgery.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 5_Neurosurgery/Neuropathies.md",
+    "Archive/Images/Pasted image 20240914223046.png",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 10_ NORA/Neuroradiology.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 5_Neurosurgery/Electroconvulsive therapy (ECT).md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 5_Neurosurgery/Awareness.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 5_Neurosurgery/Neurotoxicity.md",
+    "Research/Omnivore/2024-09-14/General Anesthetics and Neurotoxicity.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 5_Neurosurgery/Neuroprotection.md",
+    "Archive/Images/Pasted image 20240914213930.png",
+    "Archive/Images/Pasted image 20240914213900.png",
+    "Research/Omnivore/2024-09-14/Anaesthesia for pituitary surgery.md",
+    "Research/Omnivore/2024-09-03/Anesthesia for Pituitary Surgery - OpenAnesthesia.md",
+    "Research/Omnivore/2024-09-14",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Mediastinal surgery.md",
+    "Omnivore/2024-09-14/Anaesthesia for pituitary surgery.md",
+    "Omnivore/2024-09-14",
+    "Omnivore",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 5_Neurosurgery/Transplants and organ donation.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 5_Neurosurgery/Venous air embolism.md",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia core notes/Domain 2_ Major and trauma surgery/Lithotripsy.md",
+    "Archive/Images/Pasted image 20240911163241.png",
+    "Archive/Images/Pasted image 20240911155523.png",
+    "Archive/Images/Pasted image 20240909101737.png",
+    "Archive/Images/Pasted image 20240909110147.png",
+    "Archive/Images/Pasted image 20240909102543.png",
+    "Projects/Anaesthesia 2nd brain",
+    "Index.canvas",
+    "Archive",
+    "Research",
+    "Areas",
+    "Projects",
+    "Archive/Images/Pasted image 20240906192928.png",
+    "Archive/Images/Pasted image 20240906192814.png",
+    "Research/Omnivore/2024-09-03",
+    "Research/Omnivore/2024-08-30"
+  ]
+}
