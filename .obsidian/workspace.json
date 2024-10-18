@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f25b703fdc9f646a",
+            "id": "47c25392653720dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Assist devices.md",
+                "file": "Anaesthesia Vault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38e362636d4823ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anaesthesia Vault.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.50152587890625
+    "width": 491.504695892334
   },
   "right": {
     "id": "1979b41a22d2702e",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Assist devices.md"
+                "file": "Anaesthesia Vault.md"
               }
             }
           },
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Assist devices.md",
+                "file": "Anaesthesia Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Assist devices.md",
+                "file": "Anaesthesia Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,18 +187,18 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 439.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "workspaces:Manage workspace layouts": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -197,55 +210,55 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f25b703fdc9f646a",
+  "active": "38e362636d4823ed",
   "lastOpenFiles": [
-    "publish.css",
-    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Arrythmias.md",
-    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Thoracic emergencies.md",
-    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Thoracic pre-op assessment.md",
-    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Thoracic surgery analgesia.md",
-    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Tracheal surgery.md",
-    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Transcatheter Aortic Valve Replacement (TAVR).md",
-    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Tuberculosis (TB).md",
-    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Upper and lower limb vascular surgery.md",
-    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Valvular heart disease.md",
-    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Vascular physiology.md",
-    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Vascular surgery.md",
-    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Vasculitis.md",
-    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Whole lung lavage.md",
-    "Anaesthesia core notes/Domain 3_Obstetrics/Amniotic fluid embolism and PE.md",
-    "Anaesthesia core notes/Domain 3_Obstetrics/Breastfeeding.md",
-    "Anaesthesia core notes/Domain 3_Obstetrics/Cardiac disease in pregnancy.md",
-    "Anaesthesia core notes/Domain 3_Obstetrics/Fetus and Placenta.md",
-    "Anaesthesia core notes/Domain 3_Obstetrics/Hypertension in pregnancy.md",
-    "Anaesthesia core notes/Domain 3_Obstetrics/Labour analgesia.md",
-    "Anaesthesia core notes/Domain 3_Obstetrics/Maternal airway and GA.md",
-    "Anaesthesia core notes/Domain 3_Obstetrics/Maternal collapse and CPR.md",
-    "Anaesthesia core notes/Domain 3_Obstetrics/Maternal conditions.md",
-    "Anaesthesia core notes/Domain 3_Obstetrics/Maternal morbidity and Mortality.md",
-    "Anaesthesia core notes/Domain 3_Obstetrics/Maternal sepsis.md",
-    "Anaesthesia core notes/Domain 3_Obstetrics/Molar pregnancy.md",
-    "end.py",
-    "move_links.py",
-    "Archive/Images/0EED7C09-022F-4796-92F8-F28289C76863.jpeg",
-    "Archive/Images/1B3A950E-8489-4D3A-BDC7-00B2675A70FA.jpeg",
-    "Archive/Images/2C799977-8031-4397-84D9-997D1ABE6DC8.jpeg",
-    "Areas/Anaesthesia 2nd brain.canvas",
-    "Cardiac surgery.pdf",
-    "Archive/Images/Pasted image 20240918165643.png",
-    "Archive/Images/Pasted image 20240918140545.png",
-    "Archive/Images/Pasted image 20240918135932.png",
-    "Archive/Images/Pasted image 20240918135427.png",
-    "Archive/Images/Pasted image 20240918134614.png",
-    "Research/Omnivore/2024-09-18",
-    "Archive/Images/Pasted image 20240918111757.png",
-    "Archive/Images/Pasted image 20240918110639.png",
+    "Anaesthesia core notes/Domain 13_ Quality and safety management/Triage.md",
+    "Anaesthesia core notes/Domain 13_ Quality and safety management/Risk.md",
+    "Anaesthesia core notes/Domain 13_ Quality and safety management/Practice guideline.md",
+    "Anaesthesia core notes/Domain 13_ Quality and safety management/Practice management.md",
+    "Anaesthesia core notes/Domain 13_ Quality and safety management/Medical error reporting.md",
+    "Anaesthesia core notes/Domain 13_ Quality and safety management/Off-label drug use.md",
+    "Anaesthesia core notes/Domain 13_ Quality and safety management/Fatigue.md",
+    "Anaesthesia core notes/Domain 13_ Quality and safety management/Clinical Governance.md",
+    "Anaesthesia core notes/Domain 13_ Quality and safety management/Anaesthetist substance abuse.md",
+    "Anaesthesia core notes/Domain 13_ Quality and safety management",
+    "Research/Omnivore/2024-09-16/Paediatric preoperative assessment.md",
     "Research/Omnivore/2024-09-16",
-    "Research/Omnivore/2024-09-14",
+    "Anaesthesia core notes/Domain 9_ Pain/Physiology of pain.md",
+    "Anaesthesia core notes/Domain 9_ Pain/Pain regional blocks.md",
+    "Anaesthesia core notes/Domain 9_ Pain/Pain measurement.md",
+    "Anaesthesia core notes/Domain 9_ Pain/Opioids.md",
+    "Anaesthesia core notes/Domain 9_ Pain/Opioid sparing adjuncts.md",
+    "Anaesthesia core notes/Domain 9_ Pain/CRPS.md",
+    "Anaesthesia core notes/Domain 9_ Pain/Neuropathic pain.md",
+    "Anaesthesia core notes/Domain 9_ Pain/Chronic pain.md",
+    "Anaesthesia core notes/Domain 9_ Pain/Amputation.md",
+    "Anaesthesia core notes/Domain 9_ Pain/Acute pain.md",
+    "Anaesthesia core notes/Domain 9_ Pain",
+    "Research/Omnivore/2024-08-27/Updates in ophthalmic anaesthesia in adults - BJA Education.md",
+    "Research/Omnivore/2024-08-27/Statement on ASA Physical Status Classification System.md",
+    "Research/Omnivore/2024-08-27/Multidisciplinary difficult airway challenges- Perioperative management of glottic and supraglott....md",
+    "Research/Omnivore/2024-08-27/Emailing DOC-20240424-WA0004..pdf.md",
+    "Research/Omnivore/2024-08-27/Emailing DOC-20240424-WA0003..pdf.md",
+    "Research/Omnivore/2024-08-27/Emailing DOC-20240424-WA0002..pdf.md",
     "Research/Omnivore/2024-08-27",
-    "Research/Omnivore",
-    "Research/Omnivore/2024-09-14",
-    "Projects/Anaesthesia 2nd brain",
+    "Projects/Anaesthesia 2nd brain/Anaesthesia brain",
+    "Anaesthesia core notes/Domain 8_ ICU",
+    "Anaesthesia core notes/Domain 7_Paediatric anaesthesia",
+    "Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Domain 6_ Topics and links.docx",
+    "Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Dental surgery.docx",
+    "Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway",
+    "Archive/Images/Pasted image 20241016171505.png",
+    "Archive/Images/Pasted image 20241016171425.png",
+    "Archive/Images/Pasted image 20241016165412.png",
+    "Archive/Images/Pasted image 20241016164023.png",
+    "Archive/Images/Pasted image 20241016163933.png",
+    "Archive/Images/Pasted image 20241016163834.png",
+    "Archive/Images/Pasted image 20241016163808.png",
+    "Archive/Images/Pasted image 20241016112635.png",
+    "Archive/Images/Pasted image 20241016112428.png",
+    "Archive/Images/Pasted image 20241013062553.png",
+    "Areas/Anaesthesia 2nd brain.canvas",
     "Index.canvas"
   ]
 }
