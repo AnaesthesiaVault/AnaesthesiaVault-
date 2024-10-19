@@ -756,3 +756,9 @@ Date modified: Friday, October 4th 2024, 4:59:05 pm
 4. Gupta, P. K., & Hopkins, P. M. (2017). Diagnosis and management of malignant hyperthermia. BJA Education, 17(7), 249-254. https://doi.org/10.1093/bjaed/mkw079
 5. Gray, R. M. (2017). Anesthesia-induced rhabdomyolysis or malignant hyperthermia: Is defining the crisis important? Pediatric Anesthesia, 27(6), 577-578. https://doi.org/10.1111/pan.13130
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

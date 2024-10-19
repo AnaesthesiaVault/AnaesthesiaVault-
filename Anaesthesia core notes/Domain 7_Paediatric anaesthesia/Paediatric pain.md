@@ -4,7 +4,7 @@ Subdomain:
   - Paediatric anaesthesia
 Date: 2024-09-18
 tags: [Paeds/Analgesia, Paeds/PCA, Paeds/Pain, Paeds/Pain-assessment]
-Date modified: Friday, October 4th 2024, 4:59:08 pm
+Date modified: Saturday, October 19th 2024, 9:33:30 am
 ---
 
 # Introduction
@@ -110,10 +110,11 @@ Unmanaged acute pain in paediatric patients can have long-term adverse effects o
 # Pharmacological Therapies
 
 ## Paracetamol
-- **Mechanism of Action (MOA)**: Involves inhibition of prostaglandin H2 and COX-3 (found in the CNS).
-- **Effect**: Antipyretic and analgesic. Comparable efficacy to NSAIDs and has opioid-sparing effects.
-- **Dosage**: 15–20 mg/kg every 4–6 hours for pain relief and fever reduction. Maximum daily dose is 90 mg/kg for children older than 3 months.
-- **IV Onset**: 5 minutes.
+
+![[Pasted image 20241019092653.png]]
+
+[View or edit this diagram in Whimsical.](https://whimsical.com/paracetamol-dosing-in-pediatric-patients-LYte3Ci2vzEDHM18Kx7nud?ref=chatgpt)
+
 ## Non-Steroidal Anti-Inflammatories (NSAIDs)
 - **MOA**: Inhibits COX-2 isoenzyme, blocking the conversion of arachidonic acid to prostaglandins and thromboxane, reducing inflammation and nociception.
 - **Recommendation**: NSAIDs combined with paracetamol offer synergistic effects.
@@ -571,3 +572,8 @@ Post-operative epidural management requires careful monitoring, regular assessme
 4. Same, M., & Bradley, A. (2016, July 19). Epidural Anaesthesia in Children. *Anaesthesia Tutorial of the Week*. World Federation of Societies of Anaesthesiologists. Retrieved from [https://resources.wfsahq.org/atotw/epidural-anaesthesia-in-children/](https://resources.wfsahq.org/atotw/epidural-anaesthesia-in-children/)
 
 ---------------------------------------------------------------------------------------------
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

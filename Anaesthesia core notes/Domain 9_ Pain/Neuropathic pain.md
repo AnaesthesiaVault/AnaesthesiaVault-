@@ -472,3 +472,9 @@ This structured format provides a comprehensive overview of neuropathic pain, it
 [Headache and facial pain](https://frcamindmaps.org/mindmaps/painmedicine/headacheandfacialpain/headacheandfacialpain.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

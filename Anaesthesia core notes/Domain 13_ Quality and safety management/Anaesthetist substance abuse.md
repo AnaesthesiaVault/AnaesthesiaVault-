@@ -135,3 +135,9 @@ Returning to work requires careful evaluation and gradual reintegration. The Ang
 **Summary or mindmap:**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

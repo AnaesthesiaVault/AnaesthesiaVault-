@@ -4,7 +4,7 @@ Subdomain:
   - Physiology
 Date: 2024-06-09
 tags: [Starlings-law, Cardiac/Pressure-volume-loops, Wiggers-diagram, Cardiac-failure, Frank-starling, Laplace, Cardiac-reflexes, Valsalva, Cardiacs/Physical-examination, Pulsus-paradoxus, JVP, Kuasmual, Orthostatic-hypotension, Cardiac-physiology]
-Date modified: Friday, October 4th 2024, 4:57:24 pm
+Date modified: Saturday, October 19th 2024, 9:01:36 am
 ---
 
 # Basic Physiology
@@ -652,3 +652,9 @@ where:
 [Coronary anatomy and physiology](https://www.youtube.com/watch?v=fFvPM0v0AsA&embeds_referring_euri=https%3A%2F%2Fcardiothoracicanaesthesia.com%2F&source_ve_path=Mjg2NjY)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

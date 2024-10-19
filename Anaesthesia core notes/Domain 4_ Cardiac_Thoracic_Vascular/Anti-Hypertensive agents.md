@@ -554,3 +554,9 @@ The renin–angiotensin system (RAS) plays a crucial role in regulating blood pr
 **Summary or mindmap:** [Beta-blocker](https://www.frcamindmaps.org/mindmaps/charliecox/pharmacology3/pharmacology3.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

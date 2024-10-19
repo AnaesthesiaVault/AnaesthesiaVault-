@@ -403,3 +403,9 @@ In life threatening aspiration ECMO can be considered.
 [RSI](https://litfl.com/rapid-sequence-intubation-rsi/)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

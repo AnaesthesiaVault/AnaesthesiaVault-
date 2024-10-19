@@ -908,3 +908,9 @@ Red cell transfusions are lifesaving in active bleeding and severe anaemia. In c
 [ICU OP_Hypoxia](https://onepagericu.com/hypoxia)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

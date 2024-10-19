@@ -541,3 +541,9 @@ _++++ = Multiple studies confirming; +++ = both some data plus physiologic ratio
 [Pre-op cardiac assessment](https://frcamindmaps.org/patientconditions2/preopcardiacassessment/preopcardiacassessment.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

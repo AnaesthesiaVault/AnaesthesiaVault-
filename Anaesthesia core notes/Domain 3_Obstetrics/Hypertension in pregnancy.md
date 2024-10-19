@@ -298,3 +298,9 @@ Date modified: Friday, October 4th 2024, 4:58:16 pm
 [PET](https://frcamindmaps.org/mindmaps/obstetrics/preeclampsia/preeclampsia.html)
 [MGS04](https://frcamindmaps.org/mindmaps/obstetrics/magnesium/magnesium.html)
 [PET Calgary guide](https://calgaryguide.ucalgary.ca/?s=Eclampsia)
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

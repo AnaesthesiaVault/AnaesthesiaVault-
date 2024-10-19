@@ -453,3 +453,9 @@ Accessory equipment used to ensure optimal and safe patient positioning may incl
 [Peri-operative nerve injuries](https://frcamindmaps.org/mindmaps/theatreandmanagementissues/perioperativenerveinjuries/perioperativenerveinjuries.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -230,3 +230,9 @@ Date modified: Friday, October 4th 2024, 4:56:46 pm
 [Fast-track anaesthesia](https://frcamindmaps.org/mindmaps/theatreandmanagementissues/fasttrackanaesthesia/fasttrackanaesthesia.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

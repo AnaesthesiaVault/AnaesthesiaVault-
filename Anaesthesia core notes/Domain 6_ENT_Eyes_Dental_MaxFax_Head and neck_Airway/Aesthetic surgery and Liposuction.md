@@ -340,3 +340,9 @@ _Source: Indian Journal of Anaesthesia, 2011 May-Jun; 55(3):221_
 [Bariatric surgery](https://frcamindmaps.org/mindmaps/patientconditions1/bariatricsurgery/bariatricsurgery.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

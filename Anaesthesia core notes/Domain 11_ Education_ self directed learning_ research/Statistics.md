@@ -727,3 +727,9 @@ iii. Outcomes: Direct vs surrogate
 [Stats 02](https://frcamindmaps.org/mindmaps/misc/statistics/statistics.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

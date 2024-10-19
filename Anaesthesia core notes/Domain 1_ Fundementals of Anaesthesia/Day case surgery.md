@@ -317,3 +317,9 @@ Department of Anaesthesia and Perioperative medicine. University of Cape Town
 [Day case](https://frcamindmaps.org/mindmaps/guidelines/daycase/daycase.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

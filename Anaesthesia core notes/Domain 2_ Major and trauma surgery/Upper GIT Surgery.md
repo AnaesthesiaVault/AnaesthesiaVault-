@@ -279,3 +279,9 @@ Date modified: Friday, October 4th 2024, 4:58:14 pm
 [Gastrectomy](https://frcamindmaps.org/patientconditions2/gastrectomy/gastrectomy.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

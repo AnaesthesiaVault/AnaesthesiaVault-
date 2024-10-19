@@ -157,3 +157,9 @@ Date modified: Friday, October 4th 2024, 4:58:25 pm
 4. Heesen M, Carvalho B, Carvalho JCA, et al. International consensus statement on the use of uterotonic agents during caesarean section. Anaesthesia. 2019;74. [In press](https://onlinelibrary.wiley.com/doi/full/10.1111/anae.14757)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -29,3 +29,9 @@ Time: 14:07
 ![](Pasted%20image%2020240227140724.png)
 
 ---
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

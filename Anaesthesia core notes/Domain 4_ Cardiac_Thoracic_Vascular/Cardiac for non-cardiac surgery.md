@@ -4,7 +4,7 @@ Subdomain:
   - Cardiac Anaesthesia
 Date: 2024-03-15
 tags: [ESC-guideline, MINS, LVAD, Anticoagulation/Cardiac, Anticoagulation/bridging, C4NC-guidelines, Cardiacs/Non-cardiac-surgery]
-Date modified: Friday, October 4th 2024, 4:57:23 pm
+Date modified: Saturday, October 19th 2024, 9:22:14 am
 ---
 
 # General Approach to Cardiac Patient for Non-cardiac Surgery
@@ -225,7 +225,422 @@ Date modified: Friday, October 4th 2024, 4:57:23 pm
 
 ### Coronary Angiography
 - CCTA should be considered to rule out CAD in patients with suspected CCS or biomarker-negative NSTE-ACS in case of low-to-intermediate clinical likelihood of CAD, or in patients unsuitable for non-invasive functional testing undergoing non-urgent, intermediate-, and high-risk NCS
+# 2024 Perioperative Cardiovascular Management for Noncardiac Surgery
 
+## 1. Stepwise Approach to Perioperative Cardiac Assessment
+
+- A structured, stepwise approach should be used to assess perioperative cardiac risk.
+- This helps clinicians decide whether surgery should proceed or if further evaluation is necessary before proceeding.
+
+## 2. Cardiovascular Screening and Treatment
+
+- Screening and treatment for cardiovascular disease in patients undergoing noncardiac surgery (NCS) should follow the same guidelines as for non-surgical patients.
+- Screening should be carefully timed to prevent unnecessary delays, and overtreatment or overscreening should be avoided.
+
+## 3. Judicious Use of Stress Testing
+
+- Stress testing should be reserved for patients who are at higher risk or in cases where testing would be indicated regardless of the planned surgery.
+- Avoid routine stress testing for low-risk patients undergoing NCS.
+
+## 4. Emphasis on Team-Based Care
+
+- For patients with complex anatomy or unstable cardiovascular conditions, a multidisciplinary team approach is recommended to optimize outcomes.
+
+## 5. New Therapies with Perioperative Implications
+
+- Therapies for diabetes, heart failure, and obesity have significant perioperative effects.
+- Sodium-glucose cotransporter 2 inhibitors (SGLT2i) should be discontinued 3 to 4 days prior to surgery to reduce the risk of perioperative ketoacidosis.
+
+## 6. Myocardial Injury After Noncardiac Surgery (MINS)
+
+- MINS is a newly identified condition and has significant implications for patient outcomes.
+- It should not be ignored, as it carries real risks for affected patients.
+
+## 7. Atrial Fibrillation (AF) After Noncardiac Surgery
+
+- Patients diagnosed with new-onset atrial fibrillation (AF) during or after NCS have an increased risk of stroke.
+- These patients should be monitored closely postoperatively to treat reversible causes and assess the need for long-term rhythm control and anticoagulation therapy.
+
+## 8. Perioperative Bridging of Oral Anticoagulants
+
+- Bridging oral anticoagulant therapy should be used selectively, only in patients at the highest risk of thrombotic complications.
+- Routine bridging is not recommended for the majority of patients.
+
+## 9. Use of Focused Cardiac Ultrasound
+
+- Focused cardiac ultrasound may be used for rapid assessment in cases of unexplained hemodynamic instability when expertise is available.
+- However, it should not replace comprehensive transthoracic echocardiography for full cardiac evaluation.
+
+## Major Changes in Perioperative Cardiovascular Management for Noncardiac Surgery (2024)
+
+### Preoperative
+
+#### Risk Assessment
+
+- **Systemic approach** to perioperative cardiovascular risk assessment.
+- **Selective use of stress testing**, reserved for patients with specific indications.
+
+#### Medications
+
+- **Discontinue Sodium-Glucose Cotransporter-2 inhibitors (SGLT2i)** 3 to 4 days before surgery to reduce risk of perioperative ketoacidosis.
+- **Stop oral anticoagulants (OAC)** as per guidelines, primarily in cases with lower thrombotic risk.
+
+### Intraoperative/Postoperative
+
+#### Monitor and Follow-up
+
+- **Cardiac imaging (TEE or FoCUS)** should be considered for hemodynamically unstable patients intraoperatively.
+- **Postoperative surveillance for myocardial injury (MINS)** should be considered in high-risk patients.
+- **Manage new-onset atrial fibrillation (AF)** postoperatively with close follow-up.
+- **Resume oral anticoagulants (OAC)** postoperatively, if indicated, with selective bridging for patients with high thrombotic risk.
+
+## Stepwise Approach to Perioperative Cardiac Assessment for Patients with Cardiovascular Risk Factors Scheduled for Non-Cardiac Surgery (NCS)
+
+### 1. Initial Assessment
+
+- **Patient with Cardiovascular Risk Factors, Disease, or Symptoms Scheduled for NCS?**
+	- **NO**: Proceed to surgery.
+	- **YES**: Is it **emergency surgery**?
+		- **YES**: Proceed to surgery.
+		- **NO**: Manage acute cardiac condition (if present) and conduct multidisciplinary team discussion to consider deferral of surgery, noninvasive treatment, or palliative care.
+
+### 2. Management of Acute Cardiac Conditions
+
+- Does the patient have:
+	- **Acute coronary syndrome**
+	- **Unstable cardiac arrhythmias**
+	- **Decompensated heart failure**  
+		**YES**: Manage condition as per standard guidelines and re-evaluate for surgery later.  
+		**NO**: Continue to perioperative risk estimation.
+
+### 3. Estimation of Perioperative Risk
+
+- Use a **risk calculator** for major adverse cardiovascular events (2a).
+	- Does the patient have any of the following risk modifiers:
+		- Severe valvular heart disease
+		- Severe pulmonary hypertension
+		- Elevated risk of congenital heart disease (CHD)
+		- Severe or uncontrolled coronary artery disease (CAD)
+		- Prior stroke
+		- CIED
+		- Frailty
+		- **NO**: Proceed to surgery.
+		- **YES**: Consider further perioperative risk assessment (below).
+
+### 4. Functional Capacity Evaluation
+
+- Does the patient have **poor or unknown functional capacity** (e.g., Duke Activity Status Index [DASI] ≤4 METs)?
+	- **YES**: Proceed to further testing (below).
+	- **NO**: Proceed to surgery.
+
+### 5. Risk Modification and Testing for Elevated Risk Patients
+
+- **Low Calculated Risk** or no risk modifiers: Proceed to surgery.
+- **Elevated Calculated Risk**† (RCRI >1 or calculated major adverse cardiac event [MACE] risk >1%):
+	- For **asymptomatic patients without established cardiovascular disease (CVD)**:
+		- Consider **12-lead ECG**
+		- Consider initiation of **guideline-directed medical therapy (GDMT)** for long-term cardiovascular risk reduction and disease management.
+	- For patients with **established CVD or symptoms**:
+		- **12-lead ECG** is reasonable
+		- **Echocardiography** for patients with suspected moderate-to-severe valvular disease, suspected significant LV dysfunction, or worsening dyspnea
+		- Consider GDMT initiation for long-term management
+
+### 6. Preoperative Biomarker Risk Assessment
+
+- If elevated risk or poor functional capacity is suspected, assess preoperative biomarkers:
+	- **BNP/NT-proBNP** (2a).
+	- **Troponin** (2b).
+- **Normal biomarkers**: Proceed to surgery.
+- **Abnormal biomarkers**§: Further testing and evaluation required (next section).
+	- **Abnormal Biomarkers**: Troponin >99th percentile upper reference limit (URL); BNP >92 ng/L, NT-proBNP ≥300 ng/L.
+
+### 7. Preoperative Testing for Abnormal Biomarkers
+
+- Consider the following tests based on biomarker results:
+	- **Echocardiography** for further evaluation.
+	- **Noninvasive stress testing** (2b) for patients with elevated findings.
+	- **Coronary computed tomography angiography (CCTA)** (2b) for high-risk findings.
+	- If **low-risk findings**: Proceed to surgery.
+	- If **elevated-risk findings**‖:
+		- Pursue further cardiac evaluation and management.
+		- Consider deferring surgery or implementing noninvasive/invasive treatment.
+
+### 8. Postoperative Surveillance
+
+- For patients with elevated preoperative troponin levels, consider postoperative troponin surveillance.
+
+**Key Definitions:**
+
+- **Cardiovascular Risk Factors**: Include hypertension, smoking, high cholesterol, diabetes, age (women >65 years; men >55 years), obesity, family history of premature coronary artery disease (CAD).
+![[Pasted image 20241019091451.png]]
+[View or edit this diagram in Whimsical.](https://whimsical.com/stepwise-perioperative-cardiac-assessment-9d8h5rDAu9wSPkumfZMVcR?ref=chatgpt)
+## Select Differences Between the 2014 and 2024 AHA/ACC/Multisociety Perioperative Guidelines
+
+|**Topic**|**2014 Guideline (Old Recommendations)**|**2024 AHA/ACC/Multisociety Guideline (New Recommendations)**|**ESC Guideline (COR)**|
+|---|---|---|---|
+|**Stress Testing**  <br>(Top Take-Home Message 3)|**2a:** For patients with elevated risk and excellent (>10 METs) functional capacity, it is reasonable to forgo further exercise testing with cardiac imaging and proceed to surgery.  <br>**2b:** For elevated risk and unknown functional capacity, exercise testing may be reasonable if it will change management.  <br>**2b:** For moderate capacity (4–10 METs), forgoing further testing may be reasonable.  <br>**2b:** Poor (<4 METs) or unknown functional capacity patients may undergo stress testing if it will assess ischemia or change management.  <br>**3: No Benefit:** Routine screening with noninvasive stress testing is not useful for low-risk NCS.|**2b:** In patients with elevated-risk NCS and poor/unknown functional capacity, stress testing based on a validated risk tool may be considered to evaluate for inducible myocardial ischemia.  <br>**3: No Benefit:** Routine stress testing is not recommended for patients at low risk for perioperative cardiovascular events.|**1:** Stress imaging is recommended for high-risk elective NCS in patients with poor capacity and high clinical risk.  <br>**2a:** Stress imaging may be considered for high-risk NCS in asymptomatic patients with poor capacity and history of PCI/CABG.  <br>**2b:** May be considered before intermediate-risk NCS if ischemia is a concern.  <br>**3:** Stress imaging not routinely recommended for NCS.|
+|**SGLT2i**  <br>(Top Take-Home Message 5)|No corresponding guideline recommendation.|**1:** In patients with heart failure undergoing elective NCS, SGLT2i should be discontinued 3 to 4 days before surgery when feasible to reduce risk of perioperative metabolic acidosis.  <br>**1:** In patients scheduled for NCS, SGLT2i should be discontinued 3 to 4 days prior to surgery to reduce risk of perioperative metabolic acidosis.|**2a:** SGLT2i therapy should be interrupted for at least 3 days before intermediateand high-risk NCS.|
+|**Myocardial Injury after Noncardiac Surgery (MINS)**  <br>(Top Take-Home Message 6)|**2b:** The usefulness of postoperative screening with troponin levels in high-risk patients for perioperative MI is uncertain in the absence of a defined management strategy.  <br>**3: No Benefit:** Routine postoperative screening with troponin in unselected patients without ischemia is not useful for guiding management.|**2b:** In patients with known cardiovascular disease (CVD), symptoms of CVD, or age ≥65 years with cardiovascular risk factors undergoing elevated-risk NCS, it may be reasonable to measure cTn at 24 and 48 hours postoperatively to identify myocardial injury.  <br>**3: No Benefit:** Routine troponin screening in low-risk patients without ischemic signs is not indicated.|**1:** In patients with known CVD or risk factors, or aged ≥65, measuring hs-cTnI before intermediateand high-risk NCS, and at 24 and 48 hours postoperatively, is recommended.|
+|**Atrial Fibrillation (AF)**  <br>(Top Take-Home Message 7)|No corresponding guideline recommendation.|**2a:** In patients with rapid AF identified in the setting of NCS, it is reasonable to treat potential triggers (e.g., sepsis, pain).  <br>**2a:** In patients with new-onset AF post-NCS, initiation of anticoagulation may be beneficial after considering thromboembolism and perioperative bleeding risks.  <br>**1:** In patients with new-onset AF post-NCS, outpatient follow-up with thromboembolic risk stratification and AF surveillance are recommended given the high risk of recurrence.|**2a:** Long-term oral anticoagulants (OAC) should be considered for patients with postoperative AF at risk of stroke.  <br>**3:** Routine use of beta blockers to prevent postoperative AF in NCS patients is not recommended.|
+
+## Summary of Recommendations for Specific Conditions
+
+### Coronary Revascularization
+
+1. **ACS**: Coronary revascularization and deferral of elective NCS is recommended to reduce perioperative cardiovascular events (Class 1, C-LD).
+2. **Left Main CAD ≥50%**: Revascularization and deferral of elective NCS is reasonable (Class 2a, C-LD).
+3. **Non-left Main CAD**: Routine revascularization before NCS is not recommended (Class 3: No benefit, B-R).
+
+### Hypertension and Perioperative Blood Pressure Management
+
+- **Preoperative**:
+	1. Continue hypertension therapy throughout the perioperative period (Class 2a, C-EO).
+	2. Consider deferring elective surgery if SBP ≥180 mm Hg or DBP ≥110 mm Hg (Class 2b, C-LD).
+- **Intraoperative**:
+	1. Maintain MAP ≥60-65 mm Hg or SBP ≥90 mm Hg to reduce myocardial injury (Class 1, B-NR).
+- **Postoperative**:
+	1. Treat hypotension (MAP <60-65 mm Hg or SBP <90 mm Hg) to limit cardiovascular, cerebrovascular, and renal risks (Class 1, B-NR).
+	2. Restart preoperative antihypertensive medications early postoperatively (Class 1, C-EO).
+
+### Heart Failure
+
+1. **SGLT2i**: Discontinue 3-4 days before elective NCS to avoid metabolic acidosis (Class 1, C-LD).
+2. **GDMT**: Continue GDMT unless contraindicated for patients with compensated HF (Class 2a, C-LD).
+
+### Pulmonary Hypertension (PH)
+
+1. **Targeted Medical Therapy**: Continue for PAH patients undergoing NCS to reduce perioperative major adverse cardiovascular events (MACE) (Class 1, C-LD).
+2. **Severe PH**: Referral to a specialized PH center for risk assessment and management is reasonable (Class 2a, C-LD).
+3. **Invasive Hemodynamic Monitoring**: Reasonable in severe PH cases during elevated-risk surgery (Class 2a, C-LD).
+4. **Precapillary PH**: Inhaled pulmonary vasodilators may be considered to reduce RV afterload (Class 2b, C-EO).
+
+### Congenital Heart Disease (CHD) Management
+
+- Assess and review cardiac anatomy, prior procedures, and functional status.
+- Identify risk factors (e.g., cyanosis, HF, pulmonary hypertension).
+- Considerations: endocarditis prophylaxis, venous thrombosis prevention, renal and liver function monitoring, perioperative anticoagulation, and arrhythmias.
+
+### Left Ventricular Assist Devices (LVAD)
+
+- Coordinate with the LVAD care team on perioperative considerations for elective NCS to reduce MACE risk (Class 1, C-EO).
+
+### Aortic Stenosis (AS)
+
+1. **Severe AS**: Evaluate for aortic valve intervention before elective NCS (Class 1, C-LD).
+2. **Moderate or Severe AS**: Preoperative echocardiography recommended for elevated-risk NCS (Class 1, C-EO).
+3. **Asymptomatic Moderate/Severe AS with Normal LV Function**: Proceed with elective low-risk NCS (Class 2a, C-LD).
+
+### Aortic Stenosis Management Summary
+
+1. **Symptomatic Severe AS**: AVR if candidate before elevated-risk NCS.
+2. **Asymptomatic Severe AS**:
+	- If LVEF <50%, consider AVR.
+	- If LVEF ≥50% and elevated-risk surgery, proceed after shared decision-making.
+	- If low-risk surgery, proceed without AVR.
+
+### Mitral Stenosis (MS)
+
+1. **Severe MS**: Evaluate for MV intervention before elective NCS (Class 1, B-NR).
+2. **Non-candidates for MV Intervention**: Use perioperative hemodynamic monitoring (Class 2a, C-EO).
+3. **Heart Rate Control**: Beta blockers, calcium channel blockers, ivabradine, or digoxin may be used to prolong diastolic filling (Class 2b, C-LD).
+
+### Chronic Aortic and Mitral Regurgitation
+
+1. **Moderate/Severe Valvular Regurgitation**: Preoperative echocardiography recommended to guide management (Class 1, C-EO).
+2. **Valvular Heart Disease (VHD)**: Intervention before elevated-risk NCS should be considered (Class 1, C-EO).
+3. **Asymptomatic MR or AR**: Elective NCS is reasonable in patients with normal LV function (Class 2a, C-LD).
+
+### Previous Transcatheter Valve Repair
+
+1. **TAVI Patients**: NCS can be performed early if clinically indicated (Class 2a, B-NR).
+2. **Mitral Valve TEER Patients**: NCS is reasonable after successful MV intervention (Class 2a, C-EO).
+
+### Atrial Fibrillation (AF)
+
+- **Perioperative**:
+	
+	1. Treat underlying triggers for rapid AF during NCS (Class 2a, C-LD).
+	2. Postoperative anticoagulation may be initiated for new-onset AF, considering thromboembolism and bleeding risks (Class 2a, C-LD).
+- **Postdischarge**:
+	
+	1. Follow-up for thromboembolic risk stratification and AF surveillance is recommended for new-onset AF after NCS (Class 1, C-LD).
+
+### Preoperative Management of Cardiovascular Implantable Electronic Devices (CIED)
+
+1. **Management Plan**: Develop a plan for patients with CIED undergoing NCS if EMI is anticipated (Class 1, B-NR).
+2. **Pacemaker**: Reprogram or use a magnet if the patient is pacemaker-dependent and surgery is above the umbilicus (Class 1, B-NR).
+3. **ICD**: Reprogram or use a magnet for pacemaker-dependent patients with ICD undergoing surgery above the umbilicus (Class 1, B-NR).
+4. **Subcutaneous ICD**: Reprogram the device or use a magnet for nonthoracic surgery with EMI (Class 2a, C-LD).
+
+### Stroke or Transient Ischemic Attack (TIA)
+
+- Delay elective NCS for at least 3 months after a cerebrovascular event to reduce stroke and MACE (Class 2a, B-NR).
+
+### Obstructive Sleep Apnea (OSA)
+
+- Screening for OSA using validated questionnaires is reasonable to assess perioperative complication risks (Class 2a, B-NR).
+
+## Perioperative Medication Recommendations
+
+### **Beta Blockers**
+
+1. **Continuation**: In patients already on stable doses of beta blockers undergoing NCS, continuation of therapy is recommended throughout the perioperative period (Class 1, B-NR).
+2. **New Initiation**: In patients scheduled for elective NCS with a new indication for beta blockers, initiation should occur >7 days before surgery to assess tolerability and allow for titration (Class 2b, B-NR).
+3. **Avoidance on Day of Surgery**: Beta blocker initiation on the day of surgery without a clear need should be avoided due to increased risk of postoperative mortality (Class 3: Harm, B-R).
+
+### **Statins**
+
+1. **Continuation**: In patients already on statins and scheduled for NCS, continuation of statin therapy is recommended to reduce the risk of MACE (Class 1, B-NR).
+2. **Initiation**: In statin-naïve patients who meet criteria for statin use based on ASCVD history or 10-year risk, perioperative initiation of statins is recommended, with the intention of long-term use (Class 1, B-R).
+
+### **Renin-Angiotensin-Aldosterone System Inhibitors (RAASi)**
+
+1. **Discontinuation for Hypertension**: In select hypertensive patients undergoing elevated-risk NCS, omission of RAASi 24 hours before surgery may be beneficial to reduce intraoperative hypotension (Class 2b, B-R).
+2. **Continuation for HFrEF**: In patients on RAASi for heart failure with reduced ejection fraction (HFrEF), perioperative continuation is reasonable (Class 2a, C-EO).
+
+### **Alpha-2 Receptor Agonists**
+
+1. **Clonidine**: The initiation of low-dose clonidine perioperatively is not recommended for reducing cardiovascular risk in patients undergoing NCS (Class 3: No benefit, B-R).
+
+### Antiplatelet Therapy and Timing of Noncardiac Surgery (NCS) in Patients with Coronary Artery Disease (CAD)
+
+#### **Timing Of NCS After PCI**
+
+1. **General Management**: For patients with CAD undergoing elective NCS, perioperative antiplatelet therapy and timing of surgery should be determined by a multidisciplinary team (Class 1, B-NR).
+2. **Post Balloon Angioplasty**: For patients with recent coronary balloon angioplasty without stent placement, NCS should be delayed for a minimum of 14 days (Class 1, C-LD).
+3. **Post DES-PCI for ACS**: Elective NCS should be delayed for at least 12 months after DES-PCI for ACS to minimize perioperative MACE (Class 1, B-NR).
+4. **Post DES-PCI for CCD**: For chronic coronary disease (CCD) patients, it is reasonable to delay NCS for at least 6 months after DES-PCI (Class 2a, B-NR).
+5. **Time-Sensitive NCS Post DES-PCI**: NCS may be considered ≥3 months after DES-PCI if surgery cannot be delayed and the risk of MACE is outweighed by the need for surgery (Class 2b, B-NR).
+6. **High Risk of Stent Thrombosis**: Elective NCS within 30 days of bare-metal stent (BMS) or DES-PCI, requiring interruption of antiplatelet agents, is considered potentially harmful (Class 3: Harm, B-R).
+
+#### **Perioperative Antiplatelet Management Post PCI**
+
+1. **Continuation of Aspirin**: For patients with prior PCI undergoing NCS, continuing aspirin (75-100 mg) is recommended if possible, to reduce the risk of cardiac events (Class 1, B-R).
+2. **DAPT in Time-Sensitive NCS**: Dual antiplatelet therapy (DAPT) should be continued for patients requiring NCS within 30 days of PCI unless bleeding risk outweighs benefits (Class 1, B-NR).
+3. **Aspirin for PCI Patients on OAC**: If oral anticoagulation (OAC) must be discontinued before NCS, continuing aspirin is recommended, with OAC resumed postoperatively (Class 1, B-NR).
+4. **Bridging Therapy**: Perioperative bridging with intravenous antiplatelet therapy may be considered in patients with high thrombotic risk ≤6 months after BMS or DES-PCI, if NCS cannot be deferred (Class 2b, B-NR).
+
+#### **Perioperative Antiplatelet Management in Patients Without Prior PCI**
+
+1. **Aspirin Continuation**: In patients with CCD without prior PCI undergoing elective NCS, continuing aspirin may be reasonable if the risk of cardiac events outweighs bleeding risk (Class 2b, B-NR).
+2. **No Benefit from Aspirin Initiation**: Routine initiation of aspirin in patients with CAD but without prior PCI undergoing elective NCS is not beneficial (Class 3: No benefit, B-R).
+
+### Oral Anticoagulants (OAC) Management
+
+#### **OAC Management**
+
+1. **Multidisciplinary Approach**: For patients on OAC undergoing elective NCS, a multidisciplinary team-based approach is recommended to balance the risks of thromboembolism and bleeding (Class 1, B-NR).
+
+#### **OAC Bridging**
+
+1. **Bridging with Heparin**: In patients with high thrombotic risk undergoing NCS where vitamin K antagonist (VKA) interruption is required, bridging with parenteral heparin is effective in reducing thromboembolic risk (Class 2a, C-LD).
+2. **No Routine Bridging**: Routine perioperative bridging of OAC in most patients is not recommended due to increased bleeding risk (Class 3: Harm, C-LD).
+
+#### **OAC Resumption**
+
+1. **Resumption After Hemostasis**: After preoperative OAC interruption, resumption of OAC is reasonable once hemostasis is achieved (Class 1, C-LD).
+
+### Optimal Timing of Elective or Time-Sensitive NCS for Prior PCI Requiring Management of DAPT
+
+1. **Balloon Angioplasty (No Stent)**: Delay NCS for ≥14 days.
+2. **Bare-Metal Stent (BMS)**: Delay NCS for ≥30 days.
+3. **DES-PCI for ACS**: Delay NCS for ≥12 months. If surgery is time-sensitive, NCS may be considered after ≥3 months if the risk of delaying surgery outweighs MACE.
+4. **DES-PCI for CCD**: Delay NCS for ≥6 months.
+![[Pasted image 20241019091544.png]]
+
+Image Ref: Thompson, A., Fleischmann, K. E., Smilowitz, N. R., de las Fuentes, L., Mukherjee, D., Aggarwal, N. R., … & Williams Sr., K. A. (2024). 2024 AHA/ACC/ACS/ASNC/HRS/SCA/SCCT/SCMR/SVM guideline for perioperative cardiovascular management for noncardiac surgery: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. _Circulation_. [https://doi.org/10.1161/cir.0000000000001285](https://doi.org/10.1161/cir.0000000000001285). Section 7.6
+
+**Key**
+
+**Management for perioperative bleeding risk and DOAC or VKA schedule** should incorporate **team-based decision-making**, especially in high thrombotic risk patients or when undergoing procedures with higher risks of adverse outcomes, should bleeding occur (e.g., neuraxial anesthesia).
+
+- **Minimal bleeding risk**: 30-day risk of major bleeding 0% (e.g., cataract surgery, minor dental/dermatological procedures).
+- **Low/moderate bleeding risk**: 30-day risk of major bleeding <2% (e.g., complex dental, gastrointestinal, breast surgery, procedures using large-bore needles).
+- **High bleeding risk**: 30-day risk of major bleeding ≥2%.  
+	**Symbols**:
+- *****: Administer DOAC or VKA.
+- **†**: Withhold DOAC or VKA.
+- **‡**: While withholding VKA in select very high thrombotic risk patients, preoperative bridging with parenteral heparin once INR is less than the desired therapeutic range.
+- **#**: Resuming postoperative LMWH bridge at either full dose or prophylactic dose until INR is within the therapeutic range is a team-based decision that weighs risks and benefits.
+
+#### Thromboembolic Risk for Common Oral Anticoagulant Indications
+
+|**Risk Category**|**Venous Thromboembolism**|**Atrial Fibrillation**|**Mechanical Valve**|**Other Anticoagulation Indications**|
+|---|---|---|---|---|
+|**Low**|VTE >12 months|CHA₂DS₂-VASc 1-4 (without prior history of stroke)|Bileaflet mechanical AVR without major risk factors for stroke*|Nonsevere coagulopathy (e.g., heterozygous factor V Leiden or prothrombin gene G20210A mutation), active cancer|
+|**Moderate**|VTE ≤3-12 months, recurrent VTE|CHA₂DS₂-VASc 5-6|Bileaflet mechanical AVR with major risk factors for stroke_, mitral valve without major risk factors for stroke_|Active cancer|
+|**High**|Recent VTE (<1 month or <3 months)|CHA₂DS₂-VASc ≥7 (or 5-6 with recent stroke or TIA), AF with rheumatic valvular heart disease|Mechanical mitral valve, caged ball or tilting-disk valve, mechanical heart valve in any position with recent stroke or TIA (<3 months)|Recent cardioembolic stroke (<3 months)†, active cancer associated with high VTE risk, LV thrombus (within past 3 months), severe thrombophilia†, antiphospholipid antibodies|
+
+## Recommendations for Anaesthesia and Perioperative Practices
+
+### **Perioperative Management of Blood Glucose**
+
+1. **Preoperative Hemoglobin A1c Testing**: In patients with or at risk for diabetes undergoing elective NCS, preoperative hemoglobin A1c testing is reasonable if it has not been performed within the past 3 months (Class 2a, B-NR).
+2. **SGLT2i Discontinuation**: For patients scheduled for NCS, sodium-glucose cotransporter-2 inhibitors (SGLT2i) should be discontinued 3-4 days before surgery to reduce the risk of perioperative metabolic acidosis (Class 1, C-LD).
+3. **Metformin Continuation**: In patients with diabetes or impaired glucose tolerance, continuation of metformin during the perioperative period is reasonable to maintain glycemic control (Class 2a, C-LD).
+
+### **Choice Of Anesthetic Technique and Agent**
+
+1. **General Anesthesia**: For patients undergoing NCS, the use of volatile-based anesthetic agents or total intravenous anesthesia is reasonable, with no significant difference in cardiovascular outcomes (e.g., MI, ischemia) (Class 2a, A).
+2. **Neuraxial vs. General Anesthesia**: In patients undergoing NCS where neuraxial anesthesia is feasible, both neuraxial and general anesthesia are reasonable options with no significant difference in cardiovascular events (Class 2a, B-R).
+
+### **Perioperative Pain Management**
+
+1. **Epidural Analgesia for Abdominal Surgery**: For patients undergoing major abdominal surgery, epidural analgesia for postoperative pain relief is reasonable to decrease perioperative cardiac events (Class 2a, B-R).
+2. **Epidural Analgesia for Hip Fracture**: For patients with hip fractures awaiting surgical repair, epidural analgesia may be considered to decrease the incidence of preoperative cardiac events (Class 2b, B-R).
+
+### **Echocardiography**
+
+1. **TEE or FoCUS for Hemodynamic Instability**: In patients with unexplained hemodynamic instability undergoing NCS, the emergency use of perioperative transesophageal echocardiography (TEE) or focused cardiac ultrasound (FoCUS) is reasonable to determine the cause, provided expertise is available (Class 2a, C-LD).
+2. **No Routine Intraoperative TEE**: Routine use of intraoperative TEE is not recommended in patients without risk factors or procedural risks for significant hemodynamic compromise to screen for cardiac abnormalities or monitor for myocardial ischemia (Class 3: No benefit, C-LD).
+
+### **Body Temperature Management**
+
+- **Normothermia Maintenance**: In patients with cardiovascular disease (CVD) undergoing NCS, maintaining normothermia is reasonable to avoid perioperative complications (Class 2a, B-R).
+
+### **Pulmonary Artery Catheters**
+
+1. **Selective Use**: Pulmonary artery catheterization may be considered in patients with CVD undergoing NCS when medical conditions significantly affect hemodynamics (e.g., decompensated heart failure, severe valvular disease, pulmonary hypertension) and cannot be corrected before surgery (Class 2b, C-LD).
+2. **No Routine Use**: Routine use of pulmonary artery catheters in patients with CVD undergoing NCS is not recommended to reduce morbidity or mortality (Class 3: No benefit, A).
+
+### **Perioperative Anemia Management**
+
+1. **Tranexamic Acid**: In patients having NCS with expected blood loss, tranexamic acid is reasonable to reduce intraoperative blood loss, reduce transfusions, and avoid anemia (Class 2a, A).
+2. **Iron Therapy**: For patients with iron deficiency anemia undergoing elective NCS, preoperative iron therapy (oral or IV) is reasonable to reduce the need for blood transfusions and increase hemoglobin levels (Class 2a, B-R).
+
+## Recommendations for Postoperative Complications
+
+### **Myocardial Injury After Noncardiac Surgery (MINS) Surveillance**
+
+1. **Cardiac Troponin Monitoring**: In patients with known cardiovascular disease (CVD), symptoms of CVD, or those aged ≥65 years with cardiovascular risk factors undergoing elevated-risk NCS, it may be reasonable to measure cardiac troponin (cTn) at 24 and 48 hours postoperatively to identify myocardial injury (Class 2b, B-NR).
+
+### **MINS Management**
+
+1. **Outpatient Follow-up**: In patients who develop MINS, particularly those not previously known to have excess cardiovascular risk, outpatient follow-up is reasonable for optimization of cardiovascular risk factors (Class 2a, B-NR).
+2. **Antithrombotic Therapy**: In patients who develop MINS, antithrombotic therapy may be considered to reduce thromboembolic events (Class 2b, C-LD).
+
+### **MINS Management Flowchart Summary**
+
+- **Troponin >99th Percentile**:
+	- **Evaluate** via history/physical examination and **12-lead ECG**.
+	- **ST-segment elevations**?
+		- **Yes (STEMI)**: Consider **invasive coronary angiography (ICA)** and **guideline-directed medical therapy (GDMT)**.
+		- **No**:
+			- **Criteria for Myocardial Infarction (MI) Met?**
+				- **Yes (NSTEMI)**:
+					- **Type 1 NSTEMI** (plaque rupture): Consider **GDMT and ICA**, balancing bleeding and thrombotic risks.
+					- **Type 2 NSTEMI** (supply-demand mismatch): Treat the underlying cause with **GDMT** and optimize perioperative hemodynamic status.
+				- **No**:
+					- **Postoperative Myocardial Injury**:
+						- **Nonischemic**: Treat the underlying cause.
+						- **MINS**: Outpatient follow-up for risk factor optimization is reasonable.
+
+### Recommendations for Management of Postoperative STEMI/NSTEMI
+
+1. **STEMI Management**: Patients who develop **STEMI** after NCS should be considered for **GDMT**, including ICA, balancing bleeding and thrombotic risks based on clinical severity (Class 1, B-NR).
+2. **NSTEMI Management**:
+	- Patients who develop **NSTEMI** after NCS should receive medical therapy as recommended for spontaneous MI, with consideration of postoperative bleeding risks and hemodynamic status (Class 1, C-EO).
+	- **ICA Consideration**: Patients who develop **NSTEMI** after NCS may be considered for ICA, balancing bleeding and thrombotic risks based on the severity of the clinical presentation (Class 2a, C-LD).
 # ESC Guideline 2022: Management of Patients Before Non-Cardiac Surgery (NCS)
 
 ## Pre-operative Assessment Before Non-Cardiac Surgery
@@ -764,6 +1179,15 @@ This flowchart and guideline offer a comprehensive approach for assessing periop
 2. Sigrun Halvorsen, Julinda Mehilli, Salvatore Cassese et al. ESC Scientific Document Group, 2022 ESC Guidelines on cardiovascular assessment and management of patients undergoing non-cardiac surgery: Developed by the task force for cardiovascular assessment and management of patients undergoing non-cardiac surgery of the European Society of Cardiology (ESC) Endorsed by the European Society of Anaesthesiology and Intensive Care (ESAIC), European Heart Journal, Volume 43, Issue 39, 14 October 2022, Pages 3826–3924, [https://doi.org/10.1093/eurheartj/ehac270](https://doi.org/10.1093/eurheartj/ehac270)
 3. ALPHONSUS, C S et al. South African cardiovascular risk stratification guideline for non-cardiac surgery. South African Medical Journal, [S.l.], v. 111, n. 10b, oct. 2021. ISSN 2078-5135. Available at: <[http://www.samj.org.za/index.php/samj/article/view/13424/9975](http://www.samj.org.za/index.php/samj/article/view/13424/9975)>.
 4. A practical approach to perioperative risk optimisation for non-cardiac surgery. I Cassimjee University of the Witwatersrand[https://orcid.org/0000-0001-7074-9752](https://orcid.org/0000-0001-7074-9752)
+5. Bhave, N. M., Cibotti-Sun, M., & Moore, M. M. (2024). 2024 perioperative cardiovascular management for noncardiac surgery guideline-at-a-glance. Journal of the American College of Cardiology. [https://doi.org/10.1016/j.jacc.2024.08.018](https://doi.org/10.1016/j.jacc.2024.08.018)
+6. Thompson, A., Fleischmann, K. E., Smilowitz, N. R., de las Fuentes, L., Mukherjee, D., Aggarwal, N. R., … & Williams Sr., K. A. (2024). 2024 aha/acc/acs/asnc/hrs/sca/scct/scmr/svm guideline for perioperative cardiovascular management for noncardiac surgery: a report of the american college of cardiology/american heart association joint committee on clinical practice guidelines. Circulation. [https://doi.org/10.1161/cir.0000000000001285](https://doi.org/10.1161/cir.0000000000001285)
+
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

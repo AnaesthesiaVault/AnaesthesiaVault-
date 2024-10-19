@@ -155,3 +155,9 @@ PAO2=221.2−{40/8)=221.2−50=171.2 mm
 [Altitude physiology](https://www.frcamindmaps.org/mindmaps/primarybits/altitudephysiology/altitudephysiology.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

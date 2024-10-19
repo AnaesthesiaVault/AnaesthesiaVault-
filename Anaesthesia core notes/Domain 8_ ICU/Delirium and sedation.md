@@ -283,3 +283,9 @@ Latest recommendations are to aim for RASS score of 0
 [Scoring](https://frcamindmaps.org/mindmaps/itu/scoringonitu/scoringonitu.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

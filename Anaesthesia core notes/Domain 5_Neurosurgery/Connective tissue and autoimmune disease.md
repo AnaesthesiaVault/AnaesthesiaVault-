@@ -704,3 +704,9 @@ This comprehensive summary outlines the critical anaesthetic considerations for 
 Considerations_CTD[https://www.anesthesiaconsiderations.com/skin-and-musculoskeletal-]
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

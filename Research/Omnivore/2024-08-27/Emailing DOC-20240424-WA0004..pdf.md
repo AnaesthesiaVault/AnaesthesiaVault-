@@ -23,3 +23,9 @@ id: e8f5785e-64a9-11ef-98ed-bb8a28d39e52
 > tremendous effect on women’s wellbeing and out-
 > come  [⤴️](https://omnivore.app/me/emailing-doc-20240424-wa-0004-pdf-191954b8180#7a470174-90df-4c80-81a2-13f128f0bf9d)  ^7a470174
 
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

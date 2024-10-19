@@ -176,3 +176,9 @@ The use of PACs in intensive care has significantly decreased in recent years, l
 [Pulmonary artery catheter-video](https://www.youtube.com/watch?v=YdUKoMs1WHQ&embeds_referring_euri=https%3A%2F%2Fcardiothoracicanaesthesia.com%2F&source_ve_path=MzY4NDIsMjg2NjY)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

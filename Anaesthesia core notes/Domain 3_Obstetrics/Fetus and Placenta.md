@@ -333,3 +333,9 @@ Date modified: Friday, October 4th 2024, 4:58:17 pm
 2. Butterworth J, Mackey D, Wasnick J. Morgan and Mikhail’s Clinical Anesthesiology, 7th Edition. 7th edition. New York: McGraw Hill Medical; 2022.
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

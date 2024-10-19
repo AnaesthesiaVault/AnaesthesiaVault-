@@ -384,3 +384,9 @@ Before discontinuing CPB, several steps must be taken to restore and optimize ca
 [Coagulopathy in cardiac surgery](https://www.youtube.com/watch?v=w8rwaNPNfU0&embeds_referring_euri=https%3A%2F%2Fcardiothoracicanaesthesia.com%2F&source_ve_path=MzY4NDIsMjg2NjY)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -175,3 +175,9 @@ Examples of methods include pressurised steam (autoclaves) or low-temperature st
 [Decontamination](https://frcamindmaps.org/mindmaps/theatreandmanagementissues/decontamination/decontamination.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

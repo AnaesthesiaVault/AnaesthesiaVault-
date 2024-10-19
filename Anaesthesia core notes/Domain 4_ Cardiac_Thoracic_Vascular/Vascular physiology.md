@@ -360,3 +360,9 @@ Class 1 and 2 haemorrhagic shock are referred to as compensated shock, where blo
 **Summary or mindmap:**
 
 --------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

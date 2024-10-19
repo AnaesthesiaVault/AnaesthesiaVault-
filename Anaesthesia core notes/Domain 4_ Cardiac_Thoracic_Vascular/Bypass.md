@@ -584,3 +584,9 @@ T
 [Cerebral effects of bypass](https://frcamindmaps.org/mindmaps/cardiothoracic/cerebraleffectsofcpb/cerebraleffectsofcpb.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

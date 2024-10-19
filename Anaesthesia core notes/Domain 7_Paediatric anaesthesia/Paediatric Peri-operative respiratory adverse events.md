@@ -331,3 +331,9 @@ Date modified: Friday, October 4th 2024, 4:59:09 pm
 [Stridor](https://frcamindmaps.org/mindmaps/paediatrics/paediatricstridor/paediatricstridor.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

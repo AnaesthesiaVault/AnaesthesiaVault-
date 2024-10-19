@@ -370,3 +370,9 @@ Effective management of children with renal disease in the perioperative period 
 [Pre-op controversies](https://frcamindmaps.org/mindmaps/paediatrics/paediatricpreopcontroversies/paediatricpreopcontroversies.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

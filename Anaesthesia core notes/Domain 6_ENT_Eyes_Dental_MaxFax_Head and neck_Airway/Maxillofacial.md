@@ -160,3 +160,9 @@ Date modified: Friday, October 4th 2024, 4:59:53 pm
 [Facial fractures](https://frcamindmaps.org/patientconditions2/facialfracturesandtrauma/facialfracturesandtrauma.html)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

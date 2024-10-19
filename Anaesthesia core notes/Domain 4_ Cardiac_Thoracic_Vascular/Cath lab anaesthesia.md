@@ -119,3 +119,9 @@ Date modified: Friday, October 4th 2024, 4:57:28 pm
 [Cath lab anaesthesia-video](https://www.youtube.com/watch?v=xdbvT3I-NIE&embeds_referring_euri=https%3A%2F%2Fcardiothoracicanaesthesia.com%2F&source_ve_path=MzY4NDIsMjg2NjY)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -134,3 +134,9 @@ The perioperative milieu (surgical stress response, sympathetic activation, hype
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -62,3 +62,9 @@ id: 5287dd4f-e316-42a4-a27a-6c7fc6167966
 > 
 > A declared brain-dead patient whose organs are being removed for donor purposes [⤴️](https://omnivore.app/me/https-www-asahq-org-standards-and-practice-parameters-statement--191954f1985#42878abb-dc78-4b82-8709-e5a5a41120e2)  ^42878abb
 
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

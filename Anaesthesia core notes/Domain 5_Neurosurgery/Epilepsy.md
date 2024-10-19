@@ -278,3 +278,9 @@ Surgical procedures aim to abolish epileptic foci or interrupt neuronal microcir
 [Epilepsy](https://frcamindmaps.org/patientconditions2/epilepsy/epilepsy.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

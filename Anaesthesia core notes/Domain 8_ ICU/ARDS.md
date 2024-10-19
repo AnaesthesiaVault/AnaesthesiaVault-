@@ -429,3 +429,9 @@ Anaesthesiologists play a critical role in managing ARDS, focusing on optimal ve
 [ARDS](https://frcamindmaps.org/mindmaps/itu/aliandards/aliandards.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

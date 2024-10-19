@@ -308,3 +308,9 @@ opa-induced arrhythmias, the volatile anaesthetic agents are safe. Whichever dru
 [Parkinsons](https://frcamindmaps.org/patientconditions2/parkinsonsdisease/parkinsonsdisease.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

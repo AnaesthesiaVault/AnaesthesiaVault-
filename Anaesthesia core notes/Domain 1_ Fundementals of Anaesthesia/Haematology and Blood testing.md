@@ -1628,3 +1628,9 @@ Thalassemia involves a decrease in the synthesis of either the alpha or beta cha
 [Perioperative anaemia management-video](https://www.youtube.com/watch?time_continue=1&v=r8UVf0J82OE&embeds_referring_euri=https%3A%2F%2Fcardiothoracicanaesthesia.com%2F&source_ve_path=Mjg2NjY)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -88,3 +88,9 @@ Date modified: Friday, October 4th 2024, 4:58:51 pm
 - LMAs were associated with a lower incidence of PRAE compared to ETTs in infants.
 - Major PRAE such as laryngospasm and bronchospasm were **5 times more common** with ETTs.
 - Airway device selection should consider the risk of PRAE, which are a major contributor to anesthetic morbidity in infants (Drake-Brockman et al., 2017).
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

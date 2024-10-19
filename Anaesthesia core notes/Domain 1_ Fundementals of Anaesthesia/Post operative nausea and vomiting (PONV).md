@@ -538,3 +538,9 @@ Vomiting has two phases:
 [Anti-emetics](https://www.frcamindmaps.org/mindmaps/primarybits/antiemetics/antiemetics.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

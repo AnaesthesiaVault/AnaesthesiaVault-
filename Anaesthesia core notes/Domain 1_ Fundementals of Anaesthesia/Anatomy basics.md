@@ -359,3 +359,9 @@ Here is the generated mind map for "Anatomical Differences in Neuraxial Anaesthe
 [Anatomy](https://www.frcamindmaps.org/mindmaps/charliecox/anatomy/anatomy.html)
 [Epidural space](https://www.frcamindmaps.org/mindmaps/primarybits/epiduralspace/epiduralspace.html)
 -------------------------------------------------------------------------------------- -------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

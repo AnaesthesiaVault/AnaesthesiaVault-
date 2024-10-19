@@ -228,3 +228,9 @@ Neuromuscular block can be categorized based on the TOF ratio, TOF count, and po
 [ICU- OP_NMB](https://static1.squarespace.com/static/5e6d5df1ff954d5b7b139463/t/6181b038fc50686ae66b2b5e/1635889209113/ICU_one_pager_NMB.pdf)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

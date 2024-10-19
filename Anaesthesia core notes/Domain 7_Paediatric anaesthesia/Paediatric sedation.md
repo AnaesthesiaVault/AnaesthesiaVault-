@@ -220,3 +220,9 @@ The guideline document "SASA Paediatric Guidelines for the Safe Use of Procedura
 [Paeds sedation 02](https://frcamindmaps.org/mindmaps/paediatrics/paediatricsedation2/paediatricsedation2.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

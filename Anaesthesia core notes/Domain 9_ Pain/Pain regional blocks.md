@@ -167,3 +167,9 @@ The paravertebral space (PVS) is a wedge-shaped space located on either side of 
 [Epidural steroids](https://frcamindmaps.org/mindmaps/painmedicine/epiduralsteroids/epiduralsteroids.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

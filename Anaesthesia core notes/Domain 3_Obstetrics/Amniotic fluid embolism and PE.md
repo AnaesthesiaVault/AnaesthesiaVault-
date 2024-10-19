@@ -229,3 +229,9 @@ Safe is associated with decreased cardiac output and hypotension. It can also re
 **Summary**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -1,0 +1,511 @@
+---
+Date modified: Saturday, October 19th 2024, 9:25:25 am
+---
+# 1. Fundamentals
+## Physiology
+- [[Obstetric physiology]]
+- [[Cardiac physiology]]
+- [[CVS support and shock ]]
+- [[Vascular physiology]]
+- [[Respiratory physiology and Thoracic anaesthesia]]
+- [[Renal Physiology]]
+- [[Liver physiology and pathology]]
+- [[Physiology of pain]]
+- [[Fluid, volume and Monitoring]]
+- [[Electrolytes]]
+- [[Acid base]]
+- [[Altitude]]
+- [[Anaesthesia for the athlete]]
+- [Clotting cascade](Clotting%20cascade.md)
+- [[Stress response]]
+## Pharmacology
+- [[Pharmacology summaries]]
+- [[Inotropes]]
+- [[Anti-arrhythmic drugs]]
+- [[Anti-Hypertensive agents]]
+- [[Opioid sparing adjuncts]]
+- [[Alternative medicine and herbal meds]]
+- [[Opioids]]
+- [[Local anaesthetics]]
+## Anatomy
+- [[Anatomy basics]]
+- [[Airway anatomy and assessment]]
+## Physics
+- [[Physics]]
+## General Anaesthesia
+- [[Practical Protocols and recipes]]
+- [[Anaesthesia Formulas]]
+- [[Essential diagrams and classifications]]
+- [[Sedation]]
+- [[Day case surgery]]
+- [[Remote anaesthesia]]
+- [[Geriatrics ]]
+- [[Enhanced recovery after surgery (ERAS)]]
+- [[Fluid, volume and Monitoring]]
+- [[Organ protection]]
+- [[Anaesthesia and cancer surgery]]
+- [[Cardiac for non-cardiac surgery]]
+- [[Infection control]]
+### Risk Assessment
+- [[Risk]]
+- [[Thoracic pre-op assessment]]
+### Pre-operative
+- [[WHO checklist]]
+- [[Premedication]]
+- [[Pre-op assessment and investigation]]
+- [[Airway anatomy and assessment]]
+### Intraoperative
+- [[Positioning]]
+- [[Temperature management]]
+- [[Rapid sequence induction (RSI) and aspiration]]
+- [[Awake tracheostomy and intubation]]
+- [[Total intravenous anaesthesia (TIVA)]]
+- [[Prolonged operations]]  
+### Post Operative
+- [[Recovery]]
+- [[Post operative nausea and vomiting (PONV)]]
+- [[Post operative cognitive dysfunction (POCD) and delirium]]
+- [[Post op complications]]
+## Regional Anaesthesia
+- [[Neuraxial and Epidural]]
+- [[Upper limb blocks]]
+- [[Lower limb blocks]]
+- [[Truncal blocks]]
+## Emergencies
+- [[Advanced cardiac life support (ACLS)]]
+- [[Airway guidelines]]
+## Conditions and Procedures
+### Medical
+- [[Anaesthesia core notes/Domain 5_Neurosurgery/Connective tissue and autoimmune disease]]
+- [[Endocrine and Metabolic]]
+- [[Neuromuscular disorders]]
+- [Diabetes Mellitus](Diabetes%20Mellitus.md)
+- [[Hypertension]]
+- [[Asthma and Chronic Obstructive Pulmonary Disease (COPD)]]
+- [[Embolic phenomena]]
+- [[Smoking]]
+- [[Obstructive sleep apnea]]
+- [[OSA]]
+### Surgical
+- [[Laparoscopic surgery]]
+- [[Transplants and organ donation]]
+### Infectious Disease
+- [[HIV and anaesthesia]]
+- [[Tuberculosis (TB)]]
+### Psychiatry
+- [[Psychiatry]]
+- [[Electroconvulsive therapy (ECT)]]
+### Coagulation and Anticoagulation
+- [[Anticoagulation]]
+- [[Obstetrics Anticoagulation]]
+- [[Anticoagulation and blocks]]
+- [[Haematology and Blood testing]]
+- [[Blood transfusions and conservation strategies]]
+- [[Blood conservation]]
+- [[Point of Care Coagulation testing]]
+## Equipment, Monitoring and Procedures
+### Equipment
+- [[Anaesthesia equipment]]
+- [[Airway equipment and techniques]]
+- [[Breathing systems]]
+### Monitoring and Procedures
+- [[Arterial blood gas (ABG)]]
+- [[Bispectral Index (BIS)]]
+- [[Central venous pressure (CVP)]]
+- [[Chest X-ray (CXR)]]
+- [[Electrocardiogram (ECG)]]
+- [[Echocardiography]]
+- [[Lung function testing]]
+- [[Neuromuscular monitoring]]
+- [[Flow-volume loops]]
+## Ethics
+- [[Consent]]
+# 2. Major Surgery
+## Trauma
+- [[Polytrauma and haemorrhagic shock]]
+- [[Resus end targets in shock]]
+- [[Tetanus]]
+- [[Rhabdomyolysis]]
+- [[Adult burns]]
+- [[Point of Care Coagulation testing]]
+## Transfusions and Blood Management
+- [[Blood transfusions and conservation strategies]]
+- [[Point of Care Coagulation testing]]
+- [[Blood conservation]]
+## Endocrine and Metabolic
+- [[Endocrine and Metabolic]]
+## Orthopaedic Surgery
+- [[Ortho regionals]]
+- [[Scoliosis]]
+- [[Shoulder surgery]]
+- [[Spine surgery]]
+- [[Joint replacement]]
+- [[Neck of femur fracture]]
+- [[Cement]]
+- [[Tourniquets]]
+- [[Compartment syndrome]]
+## Transplants and Organ Donation
+- [[Transplants and organ donation]]
+- [[Liver transplant]]
+- [[Renal transplant]]
+## Gynaecological Surgery
+ - [[Gynae]]
+## Urology and Renal Disease
+- [[Urology]]
+- [[Renal Physiology]]
+- [[Renal protection]]
+- [[Renal replacement therapy]]
+- [[Urological malignancy]]
+- [[Lithotripsy]]
+- [[Contrast nephropathy]]
+- [[Intra-op renal dysfunction]]
+- [[Anaesthesia and renal disease]]
+- [[Renal transplant]]
+- [[Robotic surgery]]
+## General, Upper GIT and Colorectal Surgery
+- [[Upper GIT Surgery]]
+- [[Lower GIT surgery]]
+- [[Abdominal compartment syndrome]]
+- [[Breast surgery]]
+- [[Robotic surgery]]
+- [[Compartment syndrome]]
+## Hepatic Surgery
+- [[Liver physiology and pathology]]
+- [[Liver resection]]
+- [[Liver transplant]]
+- [[Pancreatoduodenectomy (Whipple's procedure)]]
+# 3. Obstetrics
+- [[Hypertension in pregnancy]]
+- [[Labour analgesia]]
+- [[Maternal airway and GA]]
+- [[Maternal collapse and CPR]]
+- [[Maternal morbidity and Mortality]]
+- [[Non obstetric surgery]]
+- [[Obstetric haemorrhage]]
+- [[Obstetric physiology]]
+- [[Cardiac disease in pregnancy]]
+- [[Fetus and Placenta]]
+- [[Maternal conditions]]
+- [[Neonatal resus]]
+- [[Obstetric emergencies]]
+- [[Ovarian hyperstimulation]]
+- [[Oxytotics]]
+- [[Maternal sepsis]]
+- [[Amniotic fluid embolism and PE]]
+- [[Breastfeeding]]
+- [[Molar pregnancy]]
+- [[Obstetrics Anticoagulation]]
+# 4. Cardiothoracic and Vascular
+
+## Cardiac Surgery
+
+### Approach and General Considerations
+- [[Cardiac surgery]]
+- [[Anaesthetic management of specific cardiac conditions]]
+- [[Cardiac for non-cardiac surgery]]
+- [[Anticoagulation]]
+- [[Advanced cardiac life support (ACLS)]]
+- [[Transoesophageal ultrasound (TOE)]]
+### Physiology and Pharmacology
+- [[Cardiac physiology]]
+- [[Aortic cross clamp]]
+- [[Cardiac protection]]
+- [[Inotropes]]
+- [[Anti-arrhythmic drugs]]
+- [[Anti-Hypertensive agents]]
+### Pathology
+- [[Pulmonary Hypertension]]
+- [[Pericardial disease]]
+- [[Valvular heart disease]]
+- [[Infective endocarditis]]
+- [[Rheumatic heart disease]]
+- [[Paediatric congenital heart disease]]
+- [[Autonomic neuropathy]]
+- [[Atrial fibrillation]]
+- [[Ischaemic heart disease]]
+- [[Heart failure]]
+- [[Cardiomyopathy]]
+- [[Arrythmias]]
+- [[Post op MI]]
+- [[Acute coronary syndrome (ACS)]]
+- [[Hypertension]]
+### Procedural and Surgical Cardiac Topics
+- [[Bypass]]
+- [[Off Pump CABG]]
+- [[Coronary artery bypass surgery (CABG)]]
+- [[Assist devices]]
+- [[Pacemakers]]
+- [[Cath lab anaesthesia]]
+- [[Intra- Aortic Balloon Pump (IABP)]]
+- [[Extracorporeal membrane oxygenation (ECMO)]]
+- [[Transcatheter Aortic Valve Replacement (TAVR)]]
+- [[Transplants and organ donation]]
+## Thoracic Surgery
+### Approach and General Considerations
+- [[Exercise testing and optimization]]
+- [[Thoracic pre-op assessment]]
+- [[Post op pulmonary complications]]
+- [[Thoracic surgery analgesia]]
+### Physiology
+- [[Open chest]]
+- [[Hypoxia Pulmonary Vasoconstriction (HPV)]]
+- [[Respiratory physiology and Thoracic anaesthesia]]
+### Pathology
+- [[Bronchopleural-fistula]]
+- [[Mediastinal masses]]
+- [[Aspiration]]
+- [[Pulmonary embolism]]
+- [[Asthma and Chronic Obstructive Pulmonary Disease (COPD)]]
+- [[Restrictive lung diseases]]
+- [[Tuberculosis (TB)]]
+- [[Bronchiectasis]]
+- [[Pulmonary edema]]
+- [[Cystic Fibrosis]]
+- [[Smoking]]
+- [[Obstructive sleep apnea]]
+### Procedural and Surgical Cardiac Topics
+- [[Awake tracheostomy and intubation]]
+- [[Whole lung lavage]]
+- [[One lung Ventilation and VATS]]
+- [[Double lumen and Bronchial blocker]]
+- [[Thoracic emergencies]]
+- [[Oesophagectomy]]
+- [[Lung resection]]
+- [[Long volume reduction surgery]]
+- [[Tracheal surgery]]
+- [[Transplants and organ donation]]
+- [[Mediastinal surgery]]
+## Vascular Surgery
+### Physiology
+- [[Vascular physiology]]
+- [[Aortic cross clamp]]
+### Pathology
+- [[Vasculitis]]
+### Procedural and Surgical Cardiac Topics
+- [[Aortic surgery]]
+- [[Peripheral Vascular Disease (PVD) and Risk Stratification]]
+- [[Vascular surgery]]
+- [[Upper and lower limb vascular surgery]]
+- [[Carotid Endarterectomy (CEA)]]
+- [[Endovascular Abdominal Aortic Aneurysm Repair (EVAR)]]
+# 5. Neuro and Spinal Surgery
+## Neurosurgery
+### Approach and General Considerations
+- [[Neurosurgery and Anaesthesia]]
+- [[Neuroprotection]]
+- [[Neuromonitoring]]
+- [[Neurosurgery and pregnancy]]
+- [[Brainstem death]]
+- [[Neurotoxicity]]
+- [[Awareness]]
+- [[Transplants and organ donation]]
+### Physiology
+- [[Neurophysiology]]
+### Pathology
+- [[Intracranial bleeds]]
+- [[CNS tumours]]
+- [[Epilepsy]]
+- [[Parkinsons]]
+- [[Stroke]]
+- [[Traumatic brain injury]]
+- [[Venous air embolism]]
+- [[Dementia]]
+- [[Myasthenia Gravis and Lambert-Eaton]]
+- [[Neurofibromatosis]]
+- [[Neuromuscular disorders]]
+### Procedural and Surgical Topics
+- [[Awake craniotomy]]
+- [[HCP and VP shunt]]
+- [[Posterior fossa surgery]] \
+- [[Pituitary surgery]]
+- [[Transsphenoidal surgery]]
+- [[Electroconvulsive therapy (ECT)]]
+- [[Neuroradiology]]
+## Spinal Surgery
+### Approach and General Considerations
+- [[Spine surgery]]
+### Pathology
+- [[Spina Bifida]]
+- [[Acute spinal cord injury]]
+- [[Autonomic hyperreflexia]]
+### Procedural and Surgical Topics
+- [[Neurosurgical implants]]
+# 6. Airway, ENT, Ophthalmology, Plastics and Dental
+## Airway and Breathing
+- [[Airway anatomy and assessment]]
+- [[Airway guidelines]]
+- [[Airway equipment and techniques]]
+- [[Breathing systems]]
+## ENT
+- [[ENT surgery and emergencies]]
+- [[Laser surgery]]
+- [[Shared airway]]
+## Maxillofacial
+- [[Maxillofacial]]
+- [[Head and neck surgery]]
+## Ophthalmology
+- [[Ophthalmology]]
+- [[Systemic and ocular effects of ophthalmic drugs]]
+- [[Post operative vision loss (POVL)]]
+- [[Eye blocks]]
+## Plastic Surgery
+- [[Free flaps]]
+- [[Aesthetic surgery and Liposuction]]
+## Dental Surgery
+- [[Dental surgery]]
+# 7. Paediatric Anaesthesia
+## Essentials
+- [[Paediatric quick reference guide and tips]]
+- [[Approach to Anaesthesia for Paediatric Patients]]
+- [[Paediatric pre op assessment]]
+- [[Congenital abnormalities]]
+- [[Paediatric emergencies]]
+- [[Paediatric Temperature management]]
+- [[Paediatric post op complications]]
+- [[Paediatric airway management]]
+- [[Paediatric ventilation principles]]
+- [[Paediatric IV access]]
+- [[Paediatric sedation]]
+- [[Paediatric monitoring]]
+- [[Paediatric resus]]
+- [[Paediatric Rapid Sequence Induction (RSI)]]
+- [[Paediatric Peri-operative respiratory adverse events]]
+- [[Paediatric major hazards]]
+- [[Paediatric regional anaesthesia]]
+- [[Paediatric day case]]
+- [[Paediatric Total Intravenous Anaesthesia (TIVA)]]
+### Anatomy, Physiology and Pharmacology
+- [[Paediatric anatomy and physiology]]
+- [[Paediatric Pharmacology]]
+- [[Paediatric Fluid Therapy]]
+## Pathology
+- [[Congenital abnormalities]]
+- [[Paediatric Neuromuscular disease]]
+- [[Paediatric Infectious Disease]]
+- [[Paediatric clinical condition and syndromes (Important)]]
+- [[Paediatric tumours]]
+## Sub Specialties in Paediatric Anaesthesia
+- [[Paediatric burns]]
+- [[Neonatal Anaesthesia]]
+- [[Paediatric Anaesthesia for Prematurity]]
+- [[Paediatric urology and renal]]
+- [[Paediatric Haematology]]
+- [[Paediatric general surgery]]
+- [[Paediatric ENT]]
+- [[Paediatric ophthalmology]]
+- [[Paediatric Orthopaedics]]
+- [[Paediatric plastic surgery]]
+- [[Paediatric craniofacial abnormalities- Anaesthesia for surgery related to Craniosynostosis]]
+- [[Paediatric neuro-anaesthesia]]
+- [[Paediatric Thoracics]]
+- [[Paediatric pain]]
+- [[Paediatric congenital heart disease]]
+- [[Paediatric equipment]]
+- [[Paediatric transplants]]
+# 8. Intensive Care Medicine (ICU)
+## General Considerations
+- [[General ICU]]
+- [[Anaesthesia core notes/Domain 8_ ICU/Surgical site infection]]
+- [[Infection and antibiotics]]  
+- [[Toxicology]]
+- [[Nutrition]]
+- [[Analgesia in ICU]]
+## Physiology and Pharmacology
+- [[CVS support and shock ]]
+- [[Fluids and volume status]]
+- [[Electrolytes]]
+- [[Lactate]]
+- [[Acid base]]
+## Pathology
+- [[Abdominal compartment syndrome]]
+- [[ARDS]]
+- [[Brainstem death]]
+- [[Delirium and sedation]]
+- [[GIT]]
+- [[ICU and liver disease]]
+- [[ICU and renal disease]]
+- [[Sepsis]]
+- [[Critical care weakness]]
+- [[Ventilator assisted pneumonia (VAP)]]
+- [[Pancreatitis]]
+## Procedural and Equipment
+- [[Ventilation and Weaning]]
+- [[Tracheostomy]]
+- [[Renal replacement therapy]]
+- [[Prone ventilation]]
+- [[Chest tubes and drains]]
+- [[Nasogastric tube (NGT)]]
+# 9. Pain
+- [[Acute pain]]
+- [[Chronic pain]]
+- [[Physiology of pain]]
+- [[Opioid sparing adjuncts]]
+- [[CRPS]]
+- [[Amputation]]
+- [[Neuropathic pain]]
+- [[Opioids]]
+- [[Pain measurement]]
+- [[Pain regional blocks]]
+# 10. Non Operating Room Anaesthesia (NORA)
+- [[Endoscopic Retrograde Cholangiopancreatography (ERCP)]]
+- [[Gastroscopy and colonoscopy]]
+- [[CT and MRI]]
+- [[Neuroradiology]]
+- [[Day case surgery]]
+- [[Remote anaesthesia]]
+- [Cath lab anaesthesia](Cath%20lab%20anaesthesia.md)
+- [[Electroconvulsive therapy (ECT)]]
+# 11. Education and Statistics
+- [[Statistics]]
+- [[Study design and analysis]]
+# 12. Ethics and Consent
+- [[Consent]]
+- [[General Ethics]]
+- [[Health infrastructure]]
+- [[Jehovah's witness]]
+- [[Palliative care and DNR]]
+- [[Research ethics]]
+- [[Death on table]]
+- [[Breaking bad news]]
+- [[Never ever events]]
+- [[Morbidity and mortality in Anaesthesia]]
+- [[Impaired capacity]]
+# 13. Quality and Safety Management
+- [[Clinical Governance]]
+- [[Fatigue]]
+- [[Infection control]]
+- [Practice guideline](Practice%20guideline.md)
+- [[Medical error reporting]]
+- [[Practice management]]
+- [[Risk]]
+- [[Off-label drug use]]
+- [[Triage]]
+- [[Anaesthetist substance abuse]]
+# 14. Data Interpretation
+- [[Arterial blood gas (ABG)]]
+- [[Bispectral Index (BIS)]]
+- [[Central venous pressure (CVP)]]
+- [[Chest X-ray (CXR)]]
+- [[Electrocardiogram (ECG)]]
+- [[Echocardiography]]
+- [[Lung function testing]]
+- [[Neuromuscular monitoring]]
+- [[Flow-volume loops]]
+- [[Equations]]
+# 15. Regional Anaesthesia
+- [[Local anaesthetics]]
+- [[Upper limb blocks]]
+- [[Lower limb blocks]]
+- [[Truncal blocks]]
+- [[Anticoagulation and blocks]]
+- [[Neuraxial and Epidural]]
+# 16. Ultrasound
+- [Neuraxial Ultrasound](Neuraxial%20Ultrasound.md)
+- [Echocardiography](Echocardiography.md)
+- [Transoesophageal ultrasound (TOE)](Transoesophageal%20ultrasound%20(TOE).md)
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

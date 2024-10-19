@@ -445,3 +445,9 @@ The World Health Organization (WHO) risk stratification model uses cumulative kn
 [Heart disease in pregnancy videos](https://cardiothoracicanaesthesia.com/2023-presentations#fa191fe2-2a6a-4d97-b7cb-8649080c4bec)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

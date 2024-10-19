@@ -1,5 +1,5 @@
 ---
-Date modified: Wednesday, October 2nd 2024, 7:03:20 pm
+Date modified: Saturday, October 19th 2024, 9:33:51 am
 ---
 
 I would like to extend my heartfelt thanks to the individuals who have contributed to the creation of this website.
@@ -17,3 +17,8 @@ Additionally, I would like to recognize the following websites, which provided i
 - [Anaesthesia Considerations](https://www.anesthesiaconsiderations.com/)
 
 These resources have significantly influenced my approach to summarizing and structuring information. Your contributions and insights have greatly enriched this project, and I am deeply grateful for your support.
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

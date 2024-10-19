@@ -114,3 +114,9 @@ Date modified: Friday, October 4th 2024, 4:56:25 pm
 [Regionals for hip fractures](https://frcamindmaps.org/mindmaps/regional/hipfractures/hipfractures.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

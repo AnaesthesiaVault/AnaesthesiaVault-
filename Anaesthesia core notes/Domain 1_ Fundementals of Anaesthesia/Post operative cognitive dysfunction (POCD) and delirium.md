@@ -245,3 +245,9 @@ Factors contributing to dysfunction:
 [Delerium](https://frcamindmaps.org/mindmaps/itu/delirium/delirium.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

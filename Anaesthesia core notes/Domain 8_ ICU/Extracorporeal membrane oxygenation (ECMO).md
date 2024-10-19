@@ -186,3 +186,9 @@ Early initiation of VV ECMO does not provide a mortality benefit to patients wit
 [ECMO-videos](https://cardiothoracicanaesthesia.com/2023-presentations#0fadc4c9-fe83-4561-880a-c3cdb15ce7c5)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

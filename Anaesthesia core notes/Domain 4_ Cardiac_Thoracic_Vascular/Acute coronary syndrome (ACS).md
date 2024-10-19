@@ -364,3 +364,9 @@ Date modified: Friday, October 4th 2024, 4:57:12 pm
 **Summary or mindmap:** [Antiplatelet and stents](https://frcamindmaps.org/mindmaps/patientconditions1/antiplateletsandstents/antiplateletsandstents.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

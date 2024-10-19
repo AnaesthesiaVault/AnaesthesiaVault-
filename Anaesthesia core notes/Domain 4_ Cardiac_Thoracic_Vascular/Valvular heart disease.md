@@ -783,3 +783,9 @@ In severe AR, contractility is usually well-preserved, but inotropic agents may 
 [TR](https://www.anesthesiaconsiderations.com/tricuspid-regurgitation)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

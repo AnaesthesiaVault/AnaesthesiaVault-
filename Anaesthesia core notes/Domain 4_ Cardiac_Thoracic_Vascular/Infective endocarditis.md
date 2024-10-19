@@ -438,3 +438,9 @@ Postoperative complications include septic shock, heart failure, coagulopathy, r
 [Calgary_IE](https://calgaryguide.ucalgary.ca/Infective-endocarditis/)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

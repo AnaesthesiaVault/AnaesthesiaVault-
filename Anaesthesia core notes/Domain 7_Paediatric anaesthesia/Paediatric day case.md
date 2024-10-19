@@ -517,3 +517,9 @@ Four As: alertness, ambulation, analgesia and alimentation, otherwise the result
 [Paediatric Day Case](https://frcamindmaps.org/mindmaps/paediatrics/paediatricdaycase/paediatricdaycase.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

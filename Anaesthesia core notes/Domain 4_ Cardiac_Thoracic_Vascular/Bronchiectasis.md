@@ -135,3 +135,9 @@ Bronchiectasis is characterized by localized irreversible dilatation of the bron
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -4,16 +4,18 @@ Subdomain:
   - Hepatology
 Date: 2024-04-19
 tags: [ERAS/liver, Liver-ERAS, Liver-resection]
-Date modified: Friday, October 4th 2024, 4:58:05 pm
+Date modified: Saturday, October 19th 2024, 9:21:18 am
 ---
 
 # Summary
 
-![](Pasted%20image%2020240314140823.png)
+![[Pasted image 20241019091737.png]]
+
+[View or edit this diagram in Whimsical.](https://whimsical.com/liver-resection-surgery-anaesthetic-management-DnSzpRgQkcMbRLb6aFmE8a?ref=chatgpt)
 
 ## Conduct of Anaesthesia for Hepatic Resection
 
-![[Pasted image 20240905185021.png]]
+![[Pasted image 20241019091837.png]]
 
 [View or edit this diagram in Whimsical.](https://whimsical.com/hepatic-resection-Kesqqx367ASs5x6zmkFp7U?ref=chatgpt)
 
@@ -142,53 +144,73 @@ Date modified: Friday, October 4th 2024, 4:58:05 pm
 
 [View or edit this diagram in Whimsical.](https://whimsical.com/complications-after-hepatic-resection-surgery-N9RKraTjW9AtUKwQDZEvHd?ref=chatgpt)
 
-# ERAS
+# Enhanced Recovery After Surgery (ERAS) Protocol Elements for Liver Surgery 2022
 
-## Enhanced Recovery After Surgery (ERAS) Protocol Elements for Liver Surgery
+![[Pasted image 20241019091948.png]]
 
-![[Pasted image 20240905185059.png]]
+[View or edit this diagram in Whimsical.](https://whimsical.com/eras-liver-surgery-2022-UaPvwNHePRWAckgrq6VVVn?ref=chatgpt)
 
-[View or edit this diagram in Whimsical.](https://whimsical.com/eras-guidelines-for-hepatic-resection-surgery-2016-SCgm9iA8XxmcGwpzAt5h8G?ref=chatgpt)
+## **Preoperative Recommendations**
 
-### Preoperative Elements
+1. **Preoperative counseling**  
+	Patients should receive preoperative information and counseling on liver surgery. Brochures and multimedia may help improve verbal counseling.
+2. **Prehabilitation**  
+	Recommended for high-risk patients (e.g., elderly, malnourished, overweight, smokers, or those with psychological disorders). Prehabilitation should start 4–6 weeks before surgery, focusing on physical exercises and other interventions. Specific content is not standardized.
+3. **Preoperative biliary drainage**  
+	Recommended in cholestatic liver (>50 mmol/l), particularly for perihilar cholangiocarcinoma, via percutaneous or endoscopic drainage. Surgery should wait until bilirubin drops below 50 mmol/l.
+4. **Preoperative smoking and alcohol cessation**  
+	Smoking cessation is advised 4 weeks preoperatively. Alcohol cessation is recommended for heavy drinkers (≥24 g/day for women and ≥36 g/day for men) at least 4–8 weeks before surgery.
+5. **Preoperative nutrition**  
+	Malnourished patients (e.g., weight loss >10% or >5% in 3 months, low BMI, or low fat-free mass) should receive enteral supplementation for at least 7–14 days preoperatively.
+6. **Perioperative oral immunonutrition**  
+	Immunonutrition is not recommended due to lack of evidence.
+7. **Preoperative fasting and carbohydrate load**  
+	Patients should fast 2 hours for liquids and 6 hours for solids before surgery. Carbohydrate loading is recommended 2–4 hours before anesthesia to improve insulin resistance, though the effect on length of stay is unclear.
+8. **Pre-anesthetic medication**  
+	Long-acting anxiolytics should be avoided, especially in elderly patients. Gabapentinoids and NSAIDs are not recommended. Preoperative acetaminophen should be dose-adjusted to the extent of resection. Anti-emetic patches may be used in patients at risk of postoperative nausea.
+9. **Anti-thrombotic prophylaxis**  
+	Low-molecular-weight heparin or unfractionated heparin is recommended to reduce thromboembolic risk, starting postoperatively unless contraindicated. Intermittent pneumatic compression devices are also suggested.
+10. **Prophylactic nasogastric intubation**  
+	Routine prophylactic nasogastric intubation is not recommended as it does not improve outcomes and may increase hospital stay.
+11. **Prophylactic abdominal drainage**  
+	Routine abdominal drain placement is not recommended for hepatectomy without biliary reconstruction, though it may be considered for biliary reconstruction cases.
+12. **Preoperative steroids**  
+	Steroid administration (methylprednisolone 500 mg) is recommended. No specific recommendation for diabetic patients due to lack of data
+13. **Antimicrobial prophylaxis and skin preparation**  
+	Antibiotics (e.g., cefazolin) should be given 60 minutes before surgery. In complex surgeries, targeted regimens may be needed. Skin preparation with alcohol-based chlorhexidine is recommended.
 
-1. Counselling
-	- Dedicated preoperative counselling.
-2. Minimal fasting. Adhere to fasting guidelines, 6 hours for solids and 2 hours for liquids
-3. Preoperative carbohydrate load
-4. No oral MBP
-5. Avoid long-acting anxiolytics
-6. VTE prophylaxis. Anti-thrombotic prophylaxis should be used.
-7. Perioperative nutrition. Attention to perioperative nutrition especially if BMI < 18, albumin < 30 g/dl and weight loss > 10-15%. Depending on severity, supplement for 7-14 days preoperatively.
+## **Intraoperative Recommendations**
 
-### Intraoperative Elements
+1. **Minimally invasive surgery**  
+	Laparoscopic liver resection is recommended in trained teams, as it reduces length of stay and complication rates.
+2. **Epidural, postoperative intravenous, and postoperative per oral analgesia**  
+	For open liver surgery, thoracic epidural analgesia provides excellent pain relief but has disadvantages (e.g., hypotension, mobility issues). Multimodal analgesia is recommended to avoid these risks. No regional anesthesia is needed for laparoscopic surgery; multimodal analgesia with intravenous opioids is preferred.
+3. **Wound catheter and transversus abdominis plane (TAP) block**  
+	Continuous local anesthetic wound infiltration reduces complication rates and provides similar analgesia to thoracic epidural. Adding a TAP block improves pain control and reduces opioid use.
+4. **Preventing intraoperative hypothermia**  
+	Multimodal temperature management (e.g., warming garments or forced warm air) should be used during open and minimally invasive liver surgery to prevent hypothermia.
+5. **Fluid management**  
+	Low central venous pressure (<5 cm H₂O) with close monitoring is advised during hepatic transection. Balanced crystalloids are preferred over saline or colloids for maintenance fluid therapy. Goal-directed fluid therapy may improve outcomes in patients with low venous pressure states or reduced cardiac function.
 
-8. Antimicrobial prophylaxis (single dose) and skin preparation (2% chlorhexidine)
-9. Routine thoracic EA cannot be recommended; wound infusion catheters or intrathecal opioids can be used alternatively combined with multimodal analgesia.  
-10. Minimally invasive approach if performed by a skilled surgeon.  
-11. Perioperative steroids
-12. Maintain normothermia
-13. Perioperative glycemic control
-14. Routine prophylactic nasogastric tube not indicated.  
-15. Abdominal wound catheter/intrathecal opioids instead of epidural analgesia*
-16. Prevention of PONV
+## **Postoperative Recommendations**
 
-### Surgery Related
+1. **Postoperative artificial nutrition and early oral intake**  
+	Early oral intake with a normal diet is recommended post-hepatectomy. Artificial nutrition may be required for malnourished patients or those with complications. Enteral over parenteral nutrition is preferred if necessary.
+2. **Postoperative glycemic control**  
+	Insulin therapy to maintain normoglycemia (<8.3 mmol/l) is recommended postoperatively.
+3. **Early and scheduled mobilization**  
+	Early mobilization (out of bed) after liver surgery should begin on the day of surgery and continue daily until discharge.
+4. **Postoperative nausea and vomiting (PONV) prophylaxis**  
+	Multimodal PONV prophylaxis is recommended with at least two antiemetics, such as dexamethasone and ondansetron.
+5. **Prevention of delayed gastric emptying (DGE)**  
+	Use of an omental flap to cover the cut liver surface may reduce delayed gastric emptying risk after left-sided liver resection.
+6. **Stimulation of bowel movement**  
+	Postoperative laxatives, gum chewing, herbal medicine, or decoctions may reduce time to first flatus or stool, but current evidence is insufficient for routine recommendation.
 
-14. Maintain low CVP during liver resection and use of balanced crystalloids
-15. Avoid Mercedes Benz incision
-16. Minimally invasive surgery where appropriate*
-17. Avoidance of nasogastric tube*
-18. Prevention of DGE by omental flap for left-sided resection
+## **Other Recommendations**
 
-### Postoperative Elements
-
-19. Early oral intake
-20. Early mobilization
-21. Multimodal analgesia
-22. Maintain normoglycaemia postoperatively with insulin therapy.  
-23. Prevention of delayed gastric emptying by an omental flap after left sided hepatectomy.  
-24. Stimulation of bowel movement not indicated postoperatively.
+1. **Monitoring/Audit**  
+	Auditing and feedback are associated with better outcomes in surgery. These should be implemented and performed to monitor and improve compliance with ERAS guidelines.
 
 # Links
 - [[Liver transplant]]
@@ -203,6 +225,14 @@ Date modified: Friday, October 4th 2024, 4:58:05 pm
 
 1. Liver resection and anaesthesia L GillilandWits refresher 2018
 2. Patel, J., Jones, C., & Amoako, D. (2022). Perioperative management for hepatic resection surgery. BJA Education, 22(9), 357-363. https://doi.org/10.1016/j.bjae.2022.05.002
+3. oliat GR, Kobayashi K, Hasegawa K, Thomson JE, Padbury R, Scott M, Brustia R, Scatton O, Tran Cao HS, Vauthey JN, Dincler S, Clavien PA, Wigmore SJ, Demartines N, Melloul E. Guidelines for Perioperative Care for Liver Surgery: Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022. World J Surg. 2023 Jan;47(1):11-34. doi: 10.1007/s00268-022-06732-5. Epub 2022 Oct 30. PMID: 36310325; PMCID: PMC9726826.
+
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

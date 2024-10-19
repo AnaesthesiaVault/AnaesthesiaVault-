@@ -153,3 +153,9 @@ Date modified: Friday, October 4th 2024, 4:58:52 pm
 [Paediatric fluid therapy](https://frcamindmaps.org/mindmaps/paediatrics/paediatricfluids/paediatricfluids.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

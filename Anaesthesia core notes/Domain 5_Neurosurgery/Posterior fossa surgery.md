@@ -236,3 +236,9 @@ Pituitary tumors are almost always benign adenomas. Approximately 1 in 6 individ
 [Anaesthesia and the pituitary](https://frcamindmaps.org/mindmaps/neuroanaesthesia/anaesthesiaandthepituitary/anaesthesiaandthepituitary.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

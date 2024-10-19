@@ -77,3 +77,9 @@ Neurofibromatosis-1 is a complex multisystemic disorder with significant anesthe
 **Summary or mindmap:**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

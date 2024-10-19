@@ -813,3 +813,9 @@ Electrically isolated systems are required in wet locations such as:
 [Neuromuscular monitoring](https://onepagericu.com/bistof)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

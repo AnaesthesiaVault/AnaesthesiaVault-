@@ -546,3 +546,9 @@ Date modified: Friday, October 4th 2024, 4:57:54 pm
 [Gas embolism](https://frcamindmaps.org/patientconditions2/gasembolism/gasembolism.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

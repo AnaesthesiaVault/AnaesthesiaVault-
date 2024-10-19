@@ -295,3 +295,9 @@ When repositioning a DLT, both cuffs should be deflated.
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

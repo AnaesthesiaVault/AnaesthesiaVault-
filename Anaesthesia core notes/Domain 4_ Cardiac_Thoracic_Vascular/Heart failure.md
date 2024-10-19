@@ -364,3 +364,9 @@ ginine vasopressin activation leading to renal collecting ducts' water retention
 [Right heart failure- video](https://www.youtube.com/watch?v=Qfq9tEC3Njk&embeds_referring_euri=https%3A%2F%2Fcardiothoracicanaesthesia.com%2F&source_ve_path=Mjg2NjY)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

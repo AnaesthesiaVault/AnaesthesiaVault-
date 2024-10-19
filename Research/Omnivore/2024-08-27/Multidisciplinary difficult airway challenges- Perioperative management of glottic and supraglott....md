@@ -309,3 +309,9 @@ id: 40a1253a-64aa-11ef-85e8-d73a9d17bf3c
 > severe underlying lung disease or where airway compro-
 > mise or respiratory distress is present [⤴️](https://omnivore.app/me/emailing-otohns-2020-hofmeyr-et-al-multidisciplinary-difficult-a-191954dc00f#fc787894-42e8-4f94-810e-e3480a462947)  ^fc787894
 
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

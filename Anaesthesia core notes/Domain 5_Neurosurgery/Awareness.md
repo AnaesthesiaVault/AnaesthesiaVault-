@@ -169,3 +169,9 @@ Date modified: Friday, October 4th 2024, 4:59:26 pm
 [EEG](https://frcamindmaps.org/mindmaps/equipment/eegfordepthofanaesthesia/eegfordepthofanaesthesia.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

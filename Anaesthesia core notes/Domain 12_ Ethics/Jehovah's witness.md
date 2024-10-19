@@ -198,3 +198,9 @@ Can alsp contact the Jehovah's hospital liaison committee
 [JW](http://frcamindmaps.org/mindmaps/theatreandmanagementissues/jehovahswitnesses/jehovahswitnesses.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

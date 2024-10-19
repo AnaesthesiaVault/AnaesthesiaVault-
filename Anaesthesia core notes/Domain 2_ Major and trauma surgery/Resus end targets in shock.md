@@ -5,7 +5,7 @@ Subdomain:
   - Trauma
 Date: 2024-04-16
 tags: [End-points, Resus-targets]
-Date modified: Friday, October 4th 2024, 4:58:11 pm
+Date modified: Saturday, October 19th 2024, 9:22:57 am
 ---
 
 # Resuscitative Endpoints
@@ -45,7 +45,7 @@ Date modified: Friday, October 4th 2024, 4:58:11 pm
 
 ### Shock Index
 
-- **Formula:** Stroke index = heart rate / SBP
+- **Formula:** Shock index = heart rate / SBP
 - **Interpretation:** If > 0.5-0.7, shock more likely present. Higher values indicate worse prognosis.
 
 **Advantages:**
@@ -192,3 +192,9 @@ Date modified: Friday, October 4th 2024, 4:58:11 pm
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

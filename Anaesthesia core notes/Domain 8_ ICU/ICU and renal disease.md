@@ -156,3 +156,9 @@ Date modified: Friday, October 4th 2024, 5:00:08 pm
 [ICU OP_ Porto renal syndrome)](https://static1.squarespace.com/static/5e6d5df1ff954d5b7b139463/t/60ba88f9a4dfcd192894de03/1622837504217/ICU_one_pager_Pulmonar_Renal_Syndrome.pdf)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

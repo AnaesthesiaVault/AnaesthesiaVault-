@@ -427,3 +427,9 @@ In the absence of direct hepatic function monitors, a combination of tests is us
 **Summary or mindmap:**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

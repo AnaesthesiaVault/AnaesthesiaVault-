@@ -153,3 +153,9 @@ Date modified: Friday, October 4th 2024, 4:59:29 pm
 [ECT](https://frcamindmaps.org/mindmaps/patientconditions1/anaesthesiaforect/anaesthesiaforect.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -293,3 +293,9 @@ Four lung-protective ventilatory strategies have emerged for ARDS patients (ARDS
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

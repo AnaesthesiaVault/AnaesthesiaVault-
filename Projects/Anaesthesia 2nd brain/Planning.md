@@ -57,3 +57,9 @@ Date modified: Friday, October 4th 2024, 2:23:16 pm
 - - Plan
 	- 5 notes a week= 20-25 per month
 	- Should be done by SeptemberOctober 2024
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

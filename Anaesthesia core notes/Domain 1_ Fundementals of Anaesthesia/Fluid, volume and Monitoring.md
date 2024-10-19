@@ -667,3 +667,9 @@ Outcome: Safe and improved haemodynamics but no mortality benefit. Targeting Alb
 [Fluid responsiveness](https://onepagericu.com/fluid-responsiveness)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

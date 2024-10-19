@@ -1967,3 +1967,9 @@ Anaphylaxis is a Type I hypersensitivity reaction.
 [Extravasation](https://frcamindmaps.org/mindmaps/theatreandmanagementissues/extravasationinjuries/extravasationinjuries.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

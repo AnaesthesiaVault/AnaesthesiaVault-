@@ -336,3 +336,9 @@ tags: [Paeds/ENT, Paeds/Tonsillectomy, Paeds/Epiglottitis]
 [Paediatric stridor](https://frcamindmaps.org/mindmaps/paediatrics/paediatricstridor/paediatricstridor.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

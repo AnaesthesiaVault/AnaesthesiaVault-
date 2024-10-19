@@ -157,3 +157,9 @@ An example, such as phantom limb pain in a patient who has had an amputation, ma
 [Back pain](https://frcamindmaps.org/mindmaps/painmedicine/backpain/backpain.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

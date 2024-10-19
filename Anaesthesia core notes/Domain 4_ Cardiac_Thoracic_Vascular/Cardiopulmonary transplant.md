@@ -498,3 +498,9 @@ A transplant team will carefully monitor each heart transplant recipient and sho
 [Lung transplant anaesthesia- video](https://www.youtube.com/watch?v=WQBgdjFdjbM&embeds_referring_euri=https%3A%2F%2Fcardiothoracicanaesthesia.com%2F&source_ve_path=Mjg2NjY)
 [Post op considerations for lung transplant-video](https://www.youtube.com/watch?v=HLK5yW0-2j0&embeds_referring_euri=https%3A%2F%2Fcardiothoracicanaesthesia.com%2F&source_ve_path=Mjg2NjY)
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

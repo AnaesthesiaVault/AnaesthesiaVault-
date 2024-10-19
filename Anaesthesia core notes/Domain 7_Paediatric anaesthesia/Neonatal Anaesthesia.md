@@ -1764,3 +1764,9 @@ Date modified: Friday, October 4th 2024, 4:58:35 pm
 [Basic principles of anaesthesia for neonates and infants](https://frcamindmaps.org/mindmaps/paediatrics/basicprinciplesinneonatesandinfants/basicprinciplesinneonatesandinfants.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -122,3 +122,9 @@ Targeting blood concentration of 3ug/ml
 3. Anesthesia Considerations. (2024). Retrieved June 5, 2024, from https://www.anesthesiaconsiderations.com/
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

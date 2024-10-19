@@ -33,3 +33,9 @@ Date modified: Friday, October 4th 2024, 4:57:07 pm
 [Lithium](https://frcamindmaps.org/patientconditions2/lithium/lithium.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

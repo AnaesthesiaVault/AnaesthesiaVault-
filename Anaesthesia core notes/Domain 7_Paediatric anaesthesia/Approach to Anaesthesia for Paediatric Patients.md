@@ -79,3 +79,9 @@ tags: [Paeds/sizes, Paeds/pre-op, Paeds/approach]
 [Paeds physiology](https://www.frcamindmaps.org/mindmaps/charliecox/paedsphysiology/paedsphysiology.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

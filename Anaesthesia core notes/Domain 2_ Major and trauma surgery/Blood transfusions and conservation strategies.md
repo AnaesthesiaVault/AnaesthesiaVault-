@@ -343,3 +343,9 @@ EBV=Body Weight (kg)×Average Blood Volume (ml/kg)
 [Massive transfusion protocol- Calgary](https://calgaryguide.ucalgary.ca/massive-transfusion-protocol/)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

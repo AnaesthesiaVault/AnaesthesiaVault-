@@ -1997,3 +1997,9 @@ Deficiency of anterior pituitary hormones can lead to various clinical manifesta
 [Anorexia](https://frcamindmaps.org/mindmaps/patientconditions1/anorexia/anorexia.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

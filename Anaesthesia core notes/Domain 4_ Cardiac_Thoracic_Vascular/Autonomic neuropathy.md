@@ -170,3 +170,9 @@ Stimuli arise from caudal roots below the level of the lesion:
 [Autonomic nervous system](https://www.frcamindmaps.org/mindmaps/primarybits/ansandadrenoceptors/ansandadrenoceptors.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

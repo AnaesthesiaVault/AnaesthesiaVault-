@@ -5,7 +5,7 @@ Subdomain:
   - ICU
 Date: 2024-04-16
 tags: [Abdominal-Compartment-Syndrome]
-Date modified: Friday, October 4th 2024, 4:59:55 pm
+Date modified: Saturday, October 19th 2024, 9:03:08 am
 ---
 
 # Abdominal Compartment Syndrome (ACS)
@@ -147,3 +147,9 @@ Date modified: Friday, October 4th 2024, 4:59:55 pm
 [ACS](https://frcamindmaps.org/mindmaps/itu/abdominalcompartmentsyndrome/abdominalcompartmentsyndrome.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

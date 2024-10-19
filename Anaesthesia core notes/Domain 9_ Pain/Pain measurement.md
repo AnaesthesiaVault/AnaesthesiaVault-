@@ -63,3 +63,9 @@ Date modified: Friday, October 4th 2024, 5:00:24 pm
 [Pain measurement](https://frcamindmaps.org/mindmaps/painmedicine/painmeasurement/painmeasurement.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

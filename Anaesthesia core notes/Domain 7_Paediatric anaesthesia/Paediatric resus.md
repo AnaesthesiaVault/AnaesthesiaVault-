@@ -732,3 +732,9 @@ _This list represents the minimum recommended standard by the Resuscitation Coun
 **FRCA Mind Map Link:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

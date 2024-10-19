@@ -89,3 +89,9 @@ Date modified: Friday, October 4th 2024, 4:57:36 pm
 **Summary or mindmap:**[OLV](https://frcamindmaps.org/mindmaps/cardiothoracic/onelunganaesthesia/onelunganaesthesia.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

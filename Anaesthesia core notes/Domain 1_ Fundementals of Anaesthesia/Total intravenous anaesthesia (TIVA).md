@@ -413,3 +413,9 @@ Analgesia: 0.03-0.15 Apnea: >0.15. Titrate Ce: 0.2-0.3
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

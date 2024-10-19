@@ -685,3 +685,9 @@ Date modified: Friday, October 4th 2024, 4:58:40 pm
 **Summary or mindmap:**
 [Difficult Airway](https://frcamindmaps.org/mindmaps/paediatrics/paediatricdifficultairway/paediatricdifficultairway.html)
 ______________________________________________________________________
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

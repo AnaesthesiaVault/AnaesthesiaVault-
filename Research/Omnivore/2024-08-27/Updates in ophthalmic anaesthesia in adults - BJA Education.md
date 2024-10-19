@@ -66,3 +66,9 @@ id: ab9ef655-1822-4592-b2fb-716646d3f1b0
 > 
 > The sub-Tenon's block has undergone several modifications since its reintroduction in the 1990s. Different types of metal and plastic cannulae have been used. An incisionless (without dissection) technique has been described. [⤴️](https://omnivore.app/me/updates-in-ophthalmic-anaesthesia-in-adults-bja-education-19194b00374#8e1799cb-3df2-4d16-aea4-a840fb873bd7)  ^8e1799cb
 
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -72,3 +72,9 @@ The RCOG advocates the use of the following care bundle developed by the Survivi
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

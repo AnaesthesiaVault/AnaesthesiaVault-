@@ -61,3 +61,9 @@ The procedure is performed under general anesthesia using a double-lumen endotra
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

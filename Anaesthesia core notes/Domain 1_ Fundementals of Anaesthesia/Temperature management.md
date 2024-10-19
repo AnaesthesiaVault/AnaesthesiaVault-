@@ -296,3 +296,9 @@ Date modified: Friday, October 4th 2024, 4:57:10 pm
 [Hyperthermic toxidromes](https://static1.squarespace.com/static/5e6d5df1ff954d5b7b139463/t/617242cb34094e00046fe038/1634878155626/ICU_one_pager_hyperthermic_toxidromes.pdf)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

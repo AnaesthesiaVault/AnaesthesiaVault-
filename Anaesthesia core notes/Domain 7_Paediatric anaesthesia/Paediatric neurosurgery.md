@@ -192,3 +192,9 @@ See [[HCP and VP shunt]]
 **FRCA Mind Map Link:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

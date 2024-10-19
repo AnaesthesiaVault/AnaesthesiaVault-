@@ -36,3 +36,9 @@ Date modified: Friday, October 4th 2024, 4:58:38 pm
 **References:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

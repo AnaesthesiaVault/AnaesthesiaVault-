@@ -198,3 +198,9 @@ Normal ICP 7-15mmHg. Aim to keep ICP <20-22mmHg.
 [Neurosurgery](https://www.frcamindmaps.org/mindmaps/introductorytopics/neurosurgical/neurosurgical.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

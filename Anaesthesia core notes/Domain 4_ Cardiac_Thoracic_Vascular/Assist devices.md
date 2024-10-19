@@ -53,3 +53,9 @@ The clinical status of an LVAD-supported patient depends on:
 [LVAD](https://onepagericu.com/lvad)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

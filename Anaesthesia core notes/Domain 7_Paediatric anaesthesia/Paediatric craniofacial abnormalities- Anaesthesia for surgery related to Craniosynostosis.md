@@ -494,3 +494,9 @@ Date modified: Friday, October 4th 2024, 4:58:48 pm
 3. Hughes, C., Thomas, K., Johnson, D., & Das, S. (2012). Anesthesia for surgery related to craniosynostosis: a review. Part 2. Pediatric Anesthesia. First published: 07 August 2012. https://doi.org/10.1111/j.1460-9592.2012.03922.x
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

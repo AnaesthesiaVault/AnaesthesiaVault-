@@ -120,3 +120,9 @@ Date modified: Friday, October 4th 2024, 5:00:18 pm
 [Pain following day surgery](https://frcamindmaps.org/mindmaps/painmedicine/painfollowingdaysurgery/painfollowingdaysurgery.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

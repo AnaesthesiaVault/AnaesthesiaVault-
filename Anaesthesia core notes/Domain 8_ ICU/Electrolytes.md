@@ -961,3 +961,9 @@ For every 1 g/dL (10 g/L) reduction in serum albumin concentration, the total ca
 [Endocrine physiology](https://www.frcamindmaps.org/mindmaps/charliecox/endocrinephysiology/endocrinephysiology.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

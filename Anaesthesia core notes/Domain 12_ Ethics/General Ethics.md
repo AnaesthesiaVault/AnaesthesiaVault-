@@ -300,3 +300,9 @@ The Section 21 Unit of SAHPRA (Orthodox Medicines for Human Use) processes and e
 **Summary or mindmap:**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

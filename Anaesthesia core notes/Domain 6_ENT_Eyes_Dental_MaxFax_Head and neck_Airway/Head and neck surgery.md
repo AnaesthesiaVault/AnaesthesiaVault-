@@ -944,3 +944,9 @@ Neck dissection is often performed simultaneously with total laryngectomy:
 [ENT and Maxfax](https://frcamindmaps.org/mindmaps/airway/entsurgeryandmaxfaxsurgery/entsurgeryandmaxfaxsurgery.html)
 
 --------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

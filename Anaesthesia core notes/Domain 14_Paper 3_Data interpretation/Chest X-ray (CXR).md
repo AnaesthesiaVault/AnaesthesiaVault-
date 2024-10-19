@@ -555,3 +555,9 @@ f. **Specific Surgery Programming**: Patients must remain monitored until device
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

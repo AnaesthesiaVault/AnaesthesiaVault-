@@ -232,3 +232,9 @@ id: f7bfcb64-64a9-11ef-873f-7b145bf2961a
 > of repeated intravenous boluses of fast acting opioids,
 > such as remifentanil (20mg), alfentanil (250–500 mg) [⤴️](https://omnivore.app/me/emailing-doc-20240424-wa-0002-pdf-191954be26f#037ea75f-441c-4e10-beb2-e189eb3f73dd)  ^037ea75f
 
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

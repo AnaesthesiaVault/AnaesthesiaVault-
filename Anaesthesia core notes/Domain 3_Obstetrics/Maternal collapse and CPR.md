@@ -154,3 +154,9 @@ Date modified: Friday, October 4th 2024, 4:58:21 pm
 [Obstetric emergencies](https://frcamindmaps.org/mindmaps/obstetrics/obstetricemergencies/obstetricemergencies.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

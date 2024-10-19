@@ -139,3 +139,9 @@ Date modified: Friday, October 4th 2024, 4:58:21 pm
 [MBRRACE](https://frcamindmaps.org/mindmaps/guidelines/mbrrace/mbrrace.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

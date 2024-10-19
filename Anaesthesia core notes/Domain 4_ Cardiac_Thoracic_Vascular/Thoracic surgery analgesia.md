@@ -160,3 +160,9 @@ At higher thoracic levels, e.g., above T5, the trapezius, rhomboid major, and er
 [Thoracic anaesthesia analgesia](https://www.youtube.com/watch?v=dxLYJKHrV-s&embeds_referring_euri=https%3A%2F%2Fcardiothoracicanaesthesia.com%2F&source_ve_path=Mjg2NjY)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

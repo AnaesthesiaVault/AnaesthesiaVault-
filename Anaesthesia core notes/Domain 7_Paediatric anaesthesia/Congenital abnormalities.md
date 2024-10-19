@@ -1000,3 +1000,9 @@ Neurocognitive disorders include **learning disabilities**, **attention-deficit/
 [Uncooperative child](https://frcamindmaps.org/mindmaps/paediatrics/anaesthesiafortheuncooperativechild/anaesthesiafortheuncooperativechild.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

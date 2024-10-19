@@ -300,3 +300,9 @@ Adapted from The American Society of Health-systems Pharmacists (ASHP) – Clini
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

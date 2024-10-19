@@ -916,3 +916,9 @@ In cases where anatomical factors prevent adequate spinal spread, alternative an
 4. NYSORA. (n.d.). *Mechanisms and Management of Failed Spinal Anesthesia*. Retrieved from https://www.nysora.com/techniques/neuraxial-and-perineuraxial-techniques/mechanisms-management-failed-spinal-anesthesia/
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

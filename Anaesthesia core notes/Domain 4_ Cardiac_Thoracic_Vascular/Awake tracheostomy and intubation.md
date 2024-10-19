@@ -103,3 +103,9 @@ Date modified: Friday, October 4th 2024, 4:57:19 pm
 [Non intubated thoracic surgery- video](https://www.youtube.com/watch?v=_b_ZKZvVdmY&embeds_referring_euri=https%3A%2F%2Fcardiothoracicanaesthesia.com%2F&source_ve_path=MzY4NDIsMjg2NjY)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -176,3 +176,9 @@ This comprehensive understanding of NPPE, from pathogenesis to management, is cr
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

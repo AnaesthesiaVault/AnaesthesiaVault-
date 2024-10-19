@@ -307,3 +307,9 @@ IV contrast agents may also be administered, and the most common are chelates of
 [MRI](https://frcamindmaps.org/mindmaps/neuroanaesthesia/anaesthesiainanmri/anaesthesiainanmri.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

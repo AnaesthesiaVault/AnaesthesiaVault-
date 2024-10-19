@@ -144,3 +144,9 @@ The CPOT is used to assess pain in critically ill patients based on four indicat
 [Pain measurement](https://frcamindmaps.org/mindmaps/painmedicine/painmeasurement/painmeasurement.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

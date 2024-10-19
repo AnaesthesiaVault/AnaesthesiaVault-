@@ -174,3 +174,9 @@ Strabismus surgery has a significant potential for triggering the oculocardiac r
 [Paeds eye surgery](https://frcamindmaps.org/mindmaps/paediatrics/paediatriceyesurgery/paediatriceyesurgery.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -834,3 +834,9 @@ Abbreviations: TP - true-positive, TN - true-negative, FP - false-positive, FN -
 [Airway assessement](https://frcamindmaps.org/mindmaps/patientconditions1/airwayassessment/airwayassessment.html)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

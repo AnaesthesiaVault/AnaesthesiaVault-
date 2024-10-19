@@ -102,3 +102,9 @@ Date modified: Friday, October 4th 2024, 4:58:11 pm
 [Rhabdomyolysis](https://frcamindmaps.org/mindmaps/itu/rhabdomyolysis/rhabdomyolysis.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

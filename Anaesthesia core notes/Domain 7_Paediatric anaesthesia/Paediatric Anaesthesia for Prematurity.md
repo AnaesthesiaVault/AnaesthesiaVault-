@@ -246,3 +246,9 @@ PDA (30%) and ASD/VSD. It is normal physiology in the fetal circulation, allowin
 [Basic principles of anaesthesia for neonates and infants](https://frcamindmaps.org/mindmaps/paediatrics/basicprinciplesinneonatesandinfants/basicprinciplesinneonatesandinfants.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

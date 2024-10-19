@@ -153,3 +153,9 @@ The thin-walled and compliant right ventricle rapidly dilates and shifts the int
 [Bone cement implantation syndrome](https://frcamindmaps.org/mindmaps/patientconditions1/bonecementimplantationsyndrome/bonecementimplantationsyndrome.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

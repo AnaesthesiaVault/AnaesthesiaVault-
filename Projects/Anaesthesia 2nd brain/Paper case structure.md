@@ -49,3 +49,9 @@ Date modified: Friday, October 4th 2024, 2:18:52 pm
 ## Other
 - Devices (ICD/DBS)
 - Self protection
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

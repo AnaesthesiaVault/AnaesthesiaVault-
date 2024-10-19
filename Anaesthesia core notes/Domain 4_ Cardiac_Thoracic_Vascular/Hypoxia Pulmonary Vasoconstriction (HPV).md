@@ -82,3 +82,9 @@ Date modified: Friday, October 4th 2024, 4:57:31 pm
 [View or edit this diagram in Whimsical.](https://whimsical.com/impact-of-factors-on-hypoxic-and-normoxic-compartments-Fv22LSaq4aTnYWAroqQhxF?ref=chatgpt)
 
 ![](Pasted%20image%2020240304123828.png)
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

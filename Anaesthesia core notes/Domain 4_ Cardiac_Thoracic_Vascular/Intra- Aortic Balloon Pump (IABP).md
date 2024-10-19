@@ -118,3 +118,9 @@ ECG trace wrong... inflation occurs at end of T wave
 [Cardiothoracic anaesthesia video](https://www.youtube.com/watch?v=mSPYpMKE80k)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

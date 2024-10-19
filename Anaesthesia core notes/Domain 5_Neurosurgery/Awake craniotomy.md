@@ -357,3 +357,9 @@ Note: Sensory and motor mapping can be done via SSEPs and MEPs, but speech, lang
 [Awake craniotomy](https://frcamindmaps.org/mindmaps/neuroanaesthesia/awakecraniotomy/awakecraniotomy.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

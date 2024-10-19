@@ -161,3 +161,9 @@ To differentiate between mixed disorders and air trapping due to severe obstruct
 
 ---------------------------------------------------------------------------------------------
 _____________________________________________________________________________
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

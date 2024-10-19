@@ -98,3 +98,9 @@ Date modified: Friday, October 4th 2024, 4:59:33 pm
 1. [Neurosurgery and the Parturient - ATOTW 253](https://resources.wfsahq.org/anaesthesia-tutorial-of-the-week/)​
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

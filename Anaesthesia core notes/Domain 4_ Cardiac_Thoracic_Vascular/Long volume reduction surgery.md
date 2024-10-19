@@ -62,3 +62,9 @@ Possible reasons for clinical improvements in patients who undergo LVRS include:
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

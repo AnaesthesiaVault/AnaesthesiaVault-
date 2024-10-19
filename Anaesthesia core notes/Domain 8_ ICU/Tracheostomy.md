@@ -147,3 +147,9 @@ Date modified: Friday, October 4th 2024, 5:00:15 pm
 - ID and OD sizes are always written on the flange.
 - Some tubes have an adjustable flange.
 - Specially made longer tracheostomy tubes may be called XLT (extra long tubes).
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

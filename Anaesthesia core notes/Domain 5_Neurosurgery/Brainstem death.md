@@ -334,3 +334,9 @@ atives, muscle relaxants, alcohol, hypothermia, and metabolic or endocrine distu
 [DCD](https://frcamindmaps.org/mindmaps/itu/donationaftercirculatorydeath/donationaftercirculatorydeath.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -544,3 +544,9 @@ _HBeAg_ is a hepatitis B viral protein indicating active viral replication.
 [GIT physiology](https://www.frcamindmaps.org/mindmaps/charliecox/gastrointestinalphysiology/gastrointestinalphysiology.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

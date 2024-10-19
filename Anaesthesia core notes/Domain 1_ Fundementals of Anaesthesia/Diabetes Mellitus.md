@@ -897,3 +897,9 @@ Similar to outpatient management, the recommended treatment follows the **15-15 
 [Endocrine physiology](https://www.frcamindmaps.org/mindmaps/charliecox/endocrinephysiology/endocrinephysiology.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

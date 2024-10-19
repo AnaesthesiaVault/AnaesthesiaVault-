@@ -154,3 +154,9 @@ Close **temperature monitoring** is critical to avoid overheating, particularly 
 **Summary or mindmap:**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

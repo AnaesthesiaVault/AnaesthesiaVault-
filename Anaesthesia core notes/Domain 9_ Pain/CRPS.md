@@ -150,3 +150,9 @@ Date modified: Friday, October 4th 2024, 5:00:20 pm
 [CRPS](https://frcamindmaps.org/mindmaps/painmedicine/crps/crps.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

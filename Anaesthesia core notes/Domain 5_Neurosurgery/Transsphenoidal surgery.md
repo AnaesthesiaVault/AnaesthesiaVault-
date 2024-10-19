@@ -69,3 +69,9 @@ Endocrinologists should guide postoperative hormonal therapy. Patients must be m
 **Summary or mindmap:**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

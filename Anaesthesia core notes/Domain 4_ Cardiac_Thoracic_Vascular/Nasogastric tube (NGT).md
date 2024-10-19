@@ -23,3 +23,9 @@ Date modified: Friday, October 4th 2024, 4:57:34 pm
 2. Anesthesia Considerations. (2024). Retrieved June 5, 2024, from https://www.anesthesiaconsiderations.com/
 **Summary or mindmap:** [NGT insertion](https://frcamindmaps.org/mindmaps/guidelines/ngtinsertion/ngtinsertion.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

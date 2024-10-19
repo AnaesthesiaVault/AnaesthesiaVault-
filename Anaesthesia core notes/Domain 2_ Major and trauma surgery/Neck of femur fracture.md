@@ -104,3 +104,9 @@ The NHFS predicts 30-day mortality in patients with hip fractures based on sever
 [Hip fractures](https://frcamindmaps.org/mindmaps/regional/hipfractures/hipfractures.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

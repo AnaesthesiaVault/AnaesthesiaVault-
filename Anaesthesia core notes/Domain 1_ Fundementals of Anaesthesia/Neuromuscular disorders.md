@@ -882,3 +882,9 @@ Management of metabolic and mitochondrial myopathies, myotonia, and myositis inv
 [Neuromuscular](https://www.frcamindmaps.org/mindmaps/introductorytopics/neuromuscular/neuromuscular.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

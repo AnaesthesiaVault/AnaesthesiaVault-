@@ -240,3 +240,9 @@ Date modified: Friday, October 4th 2024, 4:57:28 pm
 6. Non-invasive carotid artery screening.
 7. Epiaortic ultrasound.
 8. Public reporting of outcomes.
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

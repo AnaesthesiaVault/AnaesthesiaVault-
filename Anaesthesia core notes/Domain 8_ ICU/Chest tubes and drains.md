@@ -20,3 +20,9 @@ Date modified: Friday, October 4th 2024, 4:59:57 pm
 [ICU OP- ICD](https://static1.squarespace.com/static/5e6d5df1ff954d5b7b139463/t/5f00e10e782f302e6bfbec81/1593893136673/ICU_one_pager_chest_tubes.pdf)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -152,3 +152,9 @@ Department of Anaesthesia and Perioperative medicine. University of Cape Town
 **Summary or mindmap:** [Hypertension](https://frcamindmaps.org/patientconditions2/hypertension/hypertension.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

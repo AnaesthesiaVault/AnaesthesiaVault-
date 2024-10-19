@@ -230,3 +230,9 @@ The Groote Schuur Emergency Surgery Triage System (GSEST) uses the following cat
 **Summary or mindmap:**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

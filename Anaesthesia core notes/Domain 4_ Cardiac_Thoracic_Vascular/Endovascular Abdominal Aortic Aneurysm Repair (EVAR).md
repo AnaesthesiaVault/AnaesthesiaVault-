@@ -283,3 +283,9 @@ Date modified: Friday, October 4th 2024, 4:57:30 pm
 [EVAR-video](https://www.youtube.com/watch?v=nI7ES1rezDA&embeds_referring_euri=https%3A%2F%2Fcardiothoracicanaesthesia.com%2F&source_ve_path=Mjg2NjY)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -261,3 +261,9 @@ Date modified: Friday, October 4th 2024, 4:59:30 pm
 [SAH 2](https://frcamindmaps.org/mindmaps/neuroanaesthesia/subarachnoidhaemorrhage/subarachnoidhaemorrhage.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -407,3 +407,9 @@ PCO2=(1.5×HCO3)+8
 [Acid/base](https://www.frcamindmaps.org/mindmaps/primarybits/acidbasephysiology/acidbasephysiology.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

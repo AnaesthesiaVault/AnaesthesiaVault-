@@ -158,3 +158,9 @@ Anterior complex = dura M-mode: correctly identifies space
 1. [Claire Spinal video](https://drive.google.com/file/d/1e0A2UqkYXjhY2G2lvZN7zTUVlS81skGZ/view?usp=drive_link (Claire video))
 2. Sm, G., Madjdpour, C., & Chin, K. (2016). Ultrasound-guided lumbar central neuraxial block. BJA Education, 16(7), 213-220. https://doi.org/10.1093/bjaed/mkv048
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

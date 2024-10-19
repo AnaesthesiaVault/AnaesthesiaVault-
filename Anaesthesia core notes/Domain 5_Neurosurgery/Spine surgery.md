@@ -551,3 +551,9 @@ However sometimes used if the MEPs and SSEPs fail. So consent all patients for w
 [Cervical cord injury](https://frcamindmaps.org/mindmaps/neuroanaesthesia/cervicalcordinjury/cervicalcordinjury.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

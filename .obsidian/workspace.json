@@ -13,22 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anaesthesia Vault.md",
+                "file": "Index/2. Major surgery.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2. Major surgery"
             }
           },
           {
-            "id": "38e362636d4823ed",
+            "id": "d3e8dafc60ca4f6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anaesthesia Vault.md",
+                "file": "The Brain (all notes).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "The Brain (all notes)"
             }
           }
         ],
@@ -52,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -83,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -108,7 +120,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -117,8 +131,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anaesthesia Vault.md"
-              }
+                "file": "The Brain (all notes).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Brain (all notes)"
             }
           },
           {
@@ -126,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -134,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -142,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -151,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anaesthesia Vault.md",
+                "file": "The Brain (all notes).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +181,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Brain (all notes)"
             }
           },
           {
@@ -168,10 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anaesthesia Vault.md",
+                "file": "The Brain (all notes).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Brain (all notes)"
             }
           },
           {
@@ -183,7 +209,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -210,39 +238,46 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "38e362636d4823ed",
+  "active": "d3e8dafc60ca4f6a",
   "lastOpenFiles": [
-    "Research/Omnivore/2024-09-18/Microsoft Word - 334 Epidural Anaesthesia in Children.docx.md",
-    "Research/Omnivore/2024-09-14/General Anesthetics and Neurotoxicity.md",
-    "Anaesthesia core notes/Domain 13_ Quality and safety management/Triage.md",
-    "Anaesthesia core notes/Domain 13_ Quality and safety management/Risk.md",
-    "Anaesthesia core notes/Domain 13_ Quality and safety management/Practice guideline.md",
-    "Anaesthesia core notes/Domain 13_ Quality and safety management/Practice management.md",
-    "Anaesthesia core notes/Domain 13_ Quality and safety management/Medical error reporting.md",
-    "Anaesthesia core notes/Domain 13_ Quality and safety management/Off-label drug use.md",
-    "Anaesthesia core notes/Domain 13_ Quality and safety management/Fatigue.md",
-    "Anaesthesia core notes/Domain 13_ Quality and safety management/Clinical Governance.md",
-    "Anaesthesia core notes/Domain 13_ Quality and safety management/Anaesthetist substance abuse.md",
+    "Disclaimer.md",
+    "Acknowledgements.md",
+    "About.md",
+    "Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric pain.md",
+    "Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric clinical condition and syndromes (Important).md",
+    "Archive/Images/Pasted image 20241019092653.png",
+    "Index/2. Major surgery.md",
+    "The Brain (all notes).md",
+    "Anaesthesia core notes/Domain 2_ Major and trauma surgery/Pancreatoduodenectomy (Whipple's procedure).md",
+    "Index/7. Paediatric Anaesthesia.md",
+    "Anaesthesia core notes/Domain 2_ Major and trauma surgery/Resus end targets in shock.md",
+    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Cardiac for non-cardiac surgery.md",
+    "Anaesthesia core notes/Domain 2_ Major and trauma surgery/Liver resection.md",
+    "Archive/Images/Pasted image 20241019091948.png",
+    "Archive/Images/Pasted image 20241019091837.png",
+    "Archive/Images/Pasted image 20241019091737.png",
+    "Archive/Images/Pasted image 20241019091544.png",
+    "Archive/Images/Pasted image 20241019091451.png",
+    "Index/4. Cardiothoracics and vascular surgery.md",
+    "Index/16. Ultrasound.md",
+    "Index/14. Data interpretation.md",
+    "Index/12. Ethics and Consent.md",
+    "Index/11. Education and statistics.md",
+    "Index/10. Non Operating Room Anaesthesia (NORA).md",
+    "Index/9. Pain Medicine.md",
+    "Index/8. Intensive care medicine (ICU).md",
+    "Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics.md",
+    "Index/6. Airway, ENT, Ophthalmology, Plastics and dental.md",
+    "Index/5. Neuro and spinal surgery.md",
+    "Index/3. Obstetrics.md",
+    "Index/1. Fundamentals.md",
+    "Anaesthesia Vault.md",
+    "Archive/Images/Pasted image 20241019090239.png",
     "Anaesthesia core notes/Domain 13_ Quality and safety management",
-    "Research/Omnivore/2024-09-16/Paediatric preoperative assessment.md",
     "Research/Omnivore/2024-09-16",
-    "Anaesthesia core notes/Domain 9_ Pain/Physiology of pain.md",
-    "Anaesthesia core notes/Domain 9_ Pain/Pain regional blocks.md",
-    "Anaesthesia core notes/Domain 9_ Pain/Pain measurement.md",
-    "Anaesthesia core notes/Domain 9_ Pain/Opioids.md",
-    "Anaesthesia core notes/Domain 9_ Pain/Opioid sparing adjuncts.md",
-    "Anaesthesia core notes/Domain 9_ Pain/CRPS.md",
-    "Anaesthesia core notes/Domain 9_ Pain/Neuropathic pain.md",
-    "Anaesthesia core notes/Domain 9_ Pain/Chronic pain.md",
-    "Anaesthesia core notes/Domain 9_ Pain/Amputation.md",
-    "Anaesthesia core notes/Domain 9_ Pain/Acute pain.md",
     "Anaesthesia core notes/Domain 9_ Pain",
-    "Research/Omnivore/2024-08-27/Updates in ophthalmic anaesthesia in adults - BJA Education.md",
-    "Research/Omnivore/2024-08-27/Statement on ASA Physical Status Classification System.md",
-    "Research/Omnivore/2024-08-27/Multidisciplinary difficult airway challenges- Perioperative management of glottic and supraglott....md",
-    "Research/Omnivore/2024-08-27/Emailing DOC-20240424-WA0004..pdf.md",
     "Research/Omnivore/2024-08-27",
-    "Projects/Anaesthesia 2nd brain/Anaesthesia brain",
+    "Index",
     "Anaesthesia core notes/Domain 8_ ICU",
     "Anaesthesia core notes/Domain 7_Paediatric anaesthesia",
     "Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Domain 6_ Topics and links.docx",
@@ -251,13 +286,6 @@
     "Archive/Images/Pasted image 20241016171505.png",
     "Archive/Images/Pasted image 20241016171425.png",
     "Archive/Images/Pasted image 20241016165412.png",
-    "Archive/Images/Pasted image 20241016164023.png",
-    "Archive/Images/Pasted image 20241016163933.png",
-    "Archive/Images/Pasted image 20241016163834.png",
-    "Archive/Images/Pasted image 20241016163808.png",
-    "Archive/Images/Pasted image 20241016112635.png",
-    "Archive/Images/Pasted image 20241016112428.png",
-    "Archive/Images/Pasted image 20241013062553.png",
     "Areas/Anaesthesia 2nd brain.canvas",
     "Index.canvas"
   ]

@@ -314,3 +314,9 @@ The British Pain Society has created a list of features of pain in elderly peopl
 [Elderly](https://frcamindmaps.org/mindmaps/patientconditions1/elderly/elderly.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

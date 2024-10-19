@@ -152,3 +152,9 @@ Date modified: Friday, October 4th 2024, 4:57:25 pm
 [Myocardial protection](https://frcamindmaps.org/mindmaps/misc/periopmyocardialprotection/periopmyocardialprotection.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

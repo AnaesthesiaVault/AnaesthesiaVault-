@@ -331,3 +331,9 @@ Additionally, patients on ERAS protocols have a shorter hospital length of stay,
 [Analgesia for hips and knees](https://frcamindmaps.org/mindmaps/regional/analgesiaforhipsandknees/analgesiaforhipsandknees.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

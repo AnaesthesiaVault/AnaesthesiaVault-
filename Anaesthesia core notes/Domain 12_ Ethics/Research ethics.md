@@ -52,3 +52,9 @@ The research participant or proxy should be informed that participation is volu
 ### Research in Children
 
 ![](Pasted%20image%2020240508192636.png)
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

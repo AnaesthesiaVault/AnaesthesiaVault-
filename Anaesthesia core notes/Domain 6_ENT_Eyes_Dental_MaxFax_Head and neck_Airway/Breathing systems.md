@@ -157,3 +157,9 @@ Date modified: Friday, October 4th 2024, 4:59:48 pm
 | **Mapleson F**        | Useful for patients under 30kg as low resistance due to lack of valve. Reservoir bag allows ventilation. | Difficult to scavenge waste gas. Requires high fresh gas flow.                                                |
 | **Semi-closed Circle**| Efficient for maintenance of anaesthesia. Relatively high fresh gas flow allows use of vaporiser outside circle. | Less efficient than closed circle.                                                                            |
 | **Closed Circle**     | Highly efficient, can be used at minimal flows.                                                          | Fresh gas flow must match patient demands at all times.                                                       |
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

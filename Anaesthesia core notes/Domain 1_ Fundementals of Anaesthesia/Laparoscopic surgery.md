@@ -188,3 +188,9 @@ Date modified: Friday, October 4th 2024, 4:56:56 pm
 [Laparoscopic surgery](https://frcamindmaps.org/patientconditions2/laparascopicsurgery/laparascopicsurgery.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

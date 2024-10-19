@@ -171,3 +171,9 @@ Date modified: Friday, October 4th 2024, 4:58:22 pm
 [Obstetrics anaesthesia considerations](https://www.anesthesiaconsiderations.com/obstetrics-)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

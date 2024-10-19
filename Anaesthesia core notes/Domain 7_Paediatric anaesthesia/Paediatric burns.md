@@ -425,3 +425,9 @@ To prevent **withdrawal symptoms**, analgesic and anxiolytic medications used du
 [Paediatric burns](https://frcamindmaps.org/mindmaps/paediatrics/paediatricburns/paediatricburns.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -247,3 +247,9 @@ Cerebral oximetry is being explored for monitoring perfusion in hepatic, renal, 
 **Summary:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

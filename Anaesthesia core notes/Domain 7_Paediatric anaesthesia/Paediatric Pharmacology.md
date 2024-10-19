@@ -304,3 +304,9 @@ tressing for the child.
 2. Skinner, A. (2008, October 12). _Paediatric Pharmacology_. World Federation of Societies of Anaesthesiologists (WFSA). Retrieved from [https://resources.wfsahq.org/atotw/paediatric-pharmacology/](https://resources.wfsahq.org/atotw/paediatric-pharmacology/)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

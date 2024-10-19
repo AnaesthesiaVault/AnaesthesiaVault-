@@ -925,3 +925,9 @@ Surgical insults induce rupture of cell membranes, leading to the release of ara
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

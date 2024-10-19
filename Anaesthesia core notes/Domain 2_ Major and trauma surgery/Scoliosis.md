@@ -448,3 +448,9 @@ RVH ← PHT ← Chronic hypoxia
 [Paediatric scoliosis](https://frcamindmaps.org/mindmaps/paediatrics/paediatricscoliosis/paediatricscoliosis.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

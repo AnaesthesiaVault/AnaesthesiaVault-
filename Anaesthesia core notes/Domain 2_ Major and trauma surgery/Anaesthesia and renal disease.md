@@ -490,3 +490,9 @@ Penicillins Tetracycline Vancomycin
 [Renal disease and anaesthesia](https://www.frcamindmaps.org/mindmaps/introductorytopics/renal/renal.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

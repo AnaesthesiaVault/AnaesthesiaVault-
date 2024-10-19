@@ -4,7 +4,7 @@ Subdomain:
   - Paediatric anaesthesia
 Date: 2024-09-18
 tags: [Wheeze, Stidor, Paeds/CP, Cerebral-palsy, Paeds/Bronchopulmonary-Dysplasia, Paeds/Down-syndrome, Down-syndrome, 1, Paeds/Duchenne-Muscular-Dystrophy, Paeds/Cleft-lip, Paeds/Congenital-Diaphragmatic-Hernia, Paeds/Fontan-Physiology, Fontan, Prader-Willi, Paeds/conditions-syndromes]
-Date modified: Friday, October 4th 2024, 4:58:42 pm
+Date modified: Saturday, October 19th 2024, 9:33:36 am
 ---
 
 # Medical
@@ -243,3 +243,8 @@ Date modified: Friday, October 4th 2024, 4:58:42 pm
 8. Bester, K. (2014). The syndromic child and anaesthesia. Southern African Journal of Anaesthesia and Analgesia, 20(5), 197-201. https://doi.org/10.1080/22201181.2014.979633
 
 ---------------------------------------------------------------------------------------------
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -300,3 +300,9 @@ All improve on the preceding test except fibtem on extem if fibrinogen is low (k
 [Viso-elastic testing-video](https://www.youtube.com/watch?time_continue=1&v=CeheQHbhg0U&embeds_referring_euri=https%3A%2F%2Fcardiothoracicanaesthesia.com%2F&source_ve_path=MzY4NDIsMjg2NjY)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

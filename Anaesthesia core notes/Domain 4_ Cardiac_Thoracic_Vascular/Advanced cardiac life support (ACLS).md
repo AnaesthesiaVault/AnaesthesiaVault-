@@ -214,3 +214,9 @@ Date modified: Friday, October 4th 2024, 4:57:12 pm
 5. American Heart Association. Advanced Cardiovascular Life Support Provider Manual. 2020 ed. Dallas, TX: American Heart Association; 2020. Available at: [https://www.heart.org](https://www.heart.org). Accessed June 5, 2024.
 **Summary or mindmap:**
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

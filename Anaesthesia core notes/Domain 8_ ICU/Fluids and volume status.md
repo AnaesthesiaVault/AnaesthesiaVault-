@@ -73,3 +73,9 @@ Disruption of the glycocalyx can occur with excessive fluid administration, lead
 [ICU OP_ Fluids](https://static1.squarespace.com/static/5e6d5df1ff954d5b7b139463/t/6058f436f5c0d96d3fad2efe/1616442423036/ICU_one_pager_fluid_responsiveness_v1.pdf)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

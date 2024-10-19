@@ -37,3 +37,9 @@ Date modified: Friday, October 4th 2024, 4:56:17 pm
 [ICU OP- ABG](https://static1.squarespace.com/static/5e6d5df1ff954d5b7b139463/t/5f5ff0cd0759e6327343542f/1600123087592/ICU_one_pager_arterial_line.pdf)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

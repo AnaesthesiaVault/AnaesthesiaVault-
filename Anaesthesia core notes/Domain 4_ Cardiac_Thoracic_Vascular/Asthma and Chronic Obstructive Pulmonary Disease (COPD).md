@@ -755,3 +755,9 @@ Mechanisms behind reduced alveolar emptying in conditions like COPD, asthma, and
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

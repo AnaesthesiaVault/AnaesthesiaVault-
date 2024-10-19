@@ -532,3 +532,9 @@ The spectrogram displays the progression of EEG waveform oscillations over time,
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

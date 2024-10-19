@@ -196,3 +196,9 @@ Cardiac Output**: Decreases substantially toward prepregnant values by 2 weeks p
 [Obs physiology](https://frcamindmaps.org/mindmaps/obstetrics/maternalphysiology/maternalphysiology.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

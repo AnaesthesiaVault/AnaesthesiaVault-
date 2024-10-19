@@ -243,3 +243,9 @@ The mechanisms of opioid-induced antinociception are produced by opioid binding 
 [Opioids](https://www.frcamindmaps.org/mindmaps/primarybits/opiates/opiates.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

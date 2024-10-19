@@ -56,3 +56,9 @@ Date modified: Friday, October 4th 2024, 4:57:13 pm
 1. Arendt, K. W. and Lindley, K. J. (2019). Obstetric anesthesia management of the patient with cardiac disease. International Journal of Obstetric Anesthesia, 37, 73-85. https://doi.org/10.1016/j.ijoa.2018.09.011
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

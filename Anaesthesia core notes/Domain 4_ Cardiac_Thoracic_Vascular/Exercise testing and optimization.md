@@ -236,3 +236,9 @@ Date modified: Friday, October 4th 2024, 4:57:30 pm
 **Summary or mindmap:** [CPET](https://frcamindmaps.org/mindmaps/patientconditions1/cpextesting/cpextesting.html); [Pre-op cardiac assessment](https://frcamindmaps.org/patientconditions2/preopcardiacassessment/preopcardiacassessment.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

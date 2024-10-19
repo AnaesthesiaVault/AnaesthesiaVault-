@@ -354,3 +354,9 @@ arynx, reduced mouth opening, reduced neck movement.
 [Chemotherapy](https://frcamindmaps.org/mindmaps/patientconditions1/chemotherapy/chemotherapy.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -121,3 +121,9 @@ Date modified: Friday, October 4th 2024, 4:59:50 pm
 [Microvascular tissue transfer](https://frcamindmaps.org/patientconditions2/microvascularfreetissuetransfer/microvascularfreetissuetransfer.html)
 
 --------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

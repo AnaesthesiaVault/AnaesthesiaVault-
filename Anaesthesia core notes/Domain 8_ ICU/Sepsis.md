@@ -412,3 +412,9 @@ Sure, I will create a mind map to summarize the information you provided.
 [Scoring](https://frcamindmaps.org/mindmaps/itu/scoringonitu/scoringonitu.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

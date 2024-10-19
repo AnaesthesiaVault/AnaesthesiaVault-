@@ -169,3 +169,9 @@ Identify thyroid dysfunction and associated complications.
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

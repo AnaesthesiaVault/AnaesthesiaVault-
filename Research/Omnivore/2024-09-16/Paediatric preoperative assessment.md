@@ -24,3 +24,9 @@ id: 74278204-740f-11ef-8bcf-d3fde7869245
 
 
 ## Content
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

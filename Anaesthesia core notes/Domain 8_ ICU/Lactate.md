@@ -192,3 +192,9 @@ Pyruvate + NADH ↔ Lactate + NAD⁺ + H⁺
 [ICU OP_Lactic acid](https://onepagericu.com/lactic-acidosis)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

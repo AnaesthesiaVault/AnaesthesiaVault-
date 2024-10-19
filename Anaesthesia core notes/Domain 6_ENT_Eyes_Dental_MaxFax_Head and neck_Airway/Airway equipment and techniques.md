@@ -1128,3 +1128,9 @@ Oral secretions can obstruct visualization and hinder the effective penetration 
 [AFOI](https://frcamindmaps.org/mindmaps/airway/afoi/afoi.html)
 
 -------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

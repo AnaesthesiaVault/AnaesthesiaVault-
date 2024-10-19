@@ -260,3 +260,9 @@ Date modified: Friday, October 4th 2024, 4:59:07 pm
 	- Historically associated with major blood loss and cord injury, but modern techniques, including spinal cord monitoring, have reduced risks.
 	- Optimal anaesthesia for spinal cord monitoring: TIVA with propofol and remifentanil.
 	- Postoperative analgesia options include epidural (if no contraindications) or balanced IV analgesia with morphine, ketamine, and oral medications.
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

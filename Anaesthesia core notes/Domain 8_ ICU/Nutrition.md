@@ -516,3 +516,9 @@ If the syndrome is detected, the rate of feeding should be slowed down, and esse
 [Calgory guide- Refeeding sydrome](https://calgaryguide.ucalgary.ca/refeeding-syndrome-pathogenesis-and-clinical-findings/)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

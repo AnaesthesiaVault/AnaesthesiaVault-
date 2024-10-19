@@ -296,3 +296,9 @@ Date modified: Friday, October 4th 2024, 4:57:13 pm
 [Anti-arrythmatics](https://www.frcamindmaps.org/mindmaps/charliecox/pharmacology4/pharmacology4.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

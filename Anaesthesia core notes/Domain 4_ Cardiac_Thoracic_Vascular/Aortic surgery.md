@@ -481,3 +481,9 @@ Dr. Claire Scanlon's talk titled "Practical Anesthesia Tips for Acute Aortic Dis
 - [[Exercise testing and optimization]]
 
 ---
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

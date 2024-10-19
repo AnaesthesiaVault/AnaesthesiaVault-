@@ -584,3 +584,9 @@ Date modified: Friday, October 4th 2024, 4:57:16 pm
 [Stanford neuraxial guidelines](https://med.stanford.edu/content/dam/sm/pain/documents/neuraxial-procedure-v2-3.26.19.pdf)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

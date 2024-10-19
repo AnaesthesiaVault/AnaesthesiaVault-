@@ -28,3 +28,9 @@ id: 01613410-72d2-11ef-a0ee-2f009c282af9
 
 > This rapidly emerging human evidence has to be assessed in view of the complexity and interplay between different facets of child development. Not only could the age of exposure be an important determinant of the susceptibility to anesthesia-induced developmental impairments but also the subtlety of the neurocognitive assessment could be a key factor in the ability to capture potential deficits at any given age [⤴️](https://omnivore.app/me/neurotoxicity-191f212609b#014b1e1a-b0da-4d20-b12e-adb027c68ded)  ^014b1e1a
 
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

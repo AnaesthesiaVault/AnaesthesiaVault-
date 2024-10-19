@@ -331,3 +331,9 @@ Date modified: Friday, October 4th 2024, 4:59:54 pm
 **FRCA Mind Map Link:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

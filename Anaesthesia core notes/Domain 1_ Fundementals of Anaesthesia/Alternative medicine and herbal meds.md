@@ -47,3 +47,9 @@ Ideally, stop all at least 2 weeks before surgery
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

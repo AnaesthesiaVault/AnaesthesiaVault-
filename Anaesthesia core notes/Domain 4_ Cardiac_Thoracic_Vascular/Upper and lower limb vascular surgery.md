@@ -45,3 +45,9 @@ Date modified: Friday, October 4th 2024, 4:57:47 pm
 **Summary or mindmap:** [Lower limb amputation](https://frcamindmaps.org/patientconditions2/lowerlimbamputation/lowerlimbamputation.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -787,3 +787,9 @@ If the patient develops any of the following, they are deemed to have failed the
 [Calgory_Ventilation](https://calgaryguide.ucalgary.ca/?s=ventilation)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

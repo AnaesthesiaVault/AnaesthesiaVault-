@@ -292,3 +292,9 @@ _Partners take preference over all family members besides spouse and cannot be o
 [Heart transplant-videos](https://cardiothoracicanaesthesia.com/2022-presentations#c2478552-3bfa-4e1a-a27d-582fcb200801)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

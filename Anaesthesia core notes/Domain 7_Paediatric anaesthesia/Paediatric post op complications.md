@@ -481,3 +481,9 @@ The PAED (Pediatric Anesthesia Emergence Delirium) scale, while validated, is no
 **Summary or mindmap:**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

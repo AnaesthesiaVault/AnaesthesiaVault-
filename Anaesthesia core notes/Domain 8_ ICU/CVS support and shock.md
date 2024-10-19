@@ -727,3 +727,9 @@ Shock is a physiological continuum that begins with an inciting event, such as a
 [Obstructive shock](https://calgaryguide.ucalgary.ca/Obstructive-Shock/)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

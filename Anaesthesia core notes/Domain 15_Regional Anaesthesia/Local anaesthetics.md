@@ -211,3 +211,9 @@ Date modified: Friday, October 4th 2024, 4:56:25 pm
 [Local anaesthetics](https://www.frcamindmaps.org/mindmaps/charliecox/pharmacology8/pharmacology8.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -243,3 +243,9 @@ _At the end of operation before the patient is removed from the operating theatr
 [WHO checklist](https://frcamindmaps.org/mindmaps/guidelines/whochecklist/whochecklist.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

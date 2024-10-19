@@ -5,3 +5,9 @@ Department of Anaesthesia and Perioperative medicine. University of Cape Town
 **Summary or mindmap:**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

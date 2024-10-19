@@ -460,3 +460,9 @@ To increase fibrinogen by 1 g/L:
 [NAP 4](https://frcamindmaps.org/mindmaps/guidelines/nap4/nap4.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

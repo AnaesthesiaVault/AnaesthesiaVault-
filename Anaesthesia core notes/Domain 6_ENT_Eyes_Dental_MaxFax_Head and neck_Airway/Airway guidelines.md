@@ -995,3 +995,9 @@ Described by Sellick in 1961:
 [AFOI](https://frcamindmaps.org/mindmaps/airway/afoi/afoi.html)
 
 ---
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

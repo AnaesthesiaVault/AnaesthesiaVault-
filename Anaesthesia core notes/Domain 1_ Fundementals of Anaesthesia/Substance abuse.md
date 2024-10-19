@@ -174,3 +174,9 @@ Date modified: Friday, October 4th 2024, 4:57:10 pm
 [Alcohol withdraw](https://static1.squarespace.com/static/5e6d5df1ff954d5b7b139463/t/61cd2c1e5e77f560b2543512/1640836126817/ICU_one_pager_AWS.pdf)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

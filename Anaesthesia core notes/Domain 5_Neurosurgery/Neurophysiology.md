@@ -216,3 +216,9 @@ Unable to distinguish between venous and arterial Hb so gives a regional Satsbes
 **FRCA Mind Map Link:**
 https://frcamindmaps.org/mindmaps/neuroanaesthesia/cerebralcirculation/cerebralcirculation.html
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

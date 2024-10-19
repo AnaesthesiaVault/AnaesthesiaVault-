@@ -858,3 +858,9 @@ These include various muscle and joint receptors on pulmonary muscles and the ch
 [Calgary- Hypoxemia](https://calgaryguide.ucalgary.ca/Hypoxemia--Pathogenesis-and-clinical-findings/)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

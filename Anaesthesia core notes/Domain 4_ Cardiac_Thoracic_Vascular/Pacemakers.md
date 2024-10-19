@@ -268,3 +268,9 @@ Position IV is expanded to the full pacemaker coding e.g. VVE-DDDRV
 [Pacemakers](https://frcamindmaps.org/patientconditions2/pacemakers/pacemakers.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

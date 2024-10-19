@@ -329,3 +329,9 @@ The choice between sedation and GA is influenced by institutional and neurointer
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

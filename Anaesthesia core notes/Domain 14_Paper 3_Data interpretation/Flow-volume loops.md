@@ -69,3 +69,9 @@ Extrathoracic obstruction affects inspiratory flow
 [ICU-OP_Flow-volume-loops](https://static1.squarespace.com/static/5e6d5df1ff954d5b7b139463/t/5f127e63ec2e7d1136cbff59/1595047524318/ICU_one_pager_flow_volume_loops.pdf)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

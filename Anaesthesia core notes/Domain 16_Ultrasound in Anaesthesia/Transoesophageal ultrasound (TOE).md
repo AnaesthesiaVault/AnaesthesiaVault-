@@ -556,3 +556,9 @@ Air accumulates in the left heart chambers during valve repair/replacement. TEE 
 [Perioperative TOE-videos](https://cardiothoracicanaesthesia.com/2021-presentations-1#bb57df92-34bf-4ec2-9f80-c4ab881587e3)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

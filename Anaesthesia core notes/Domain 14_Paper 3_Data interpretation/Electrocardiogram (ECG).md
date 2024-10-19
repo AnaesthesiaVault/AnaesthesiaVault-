@@ -644,3 +644,9 @@ Two arteries originate from the root of the aorta behind the cusps (aortic sinus
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

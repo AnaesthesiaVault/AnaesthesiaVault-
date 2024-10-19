@@ -133,3 +133,9 @@ Date modified: Friday, October 4th 2024, 4:58:13 pm
 [Tourniquets](https://frcamindmaps.org/mindmaps/equipment/arterialtourniquets/arterialtourniquets.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -1279,3 +1279,9 @@ Raised triglycerides
 [Antibiotics](https://www.frcamindmaps.org/mindmaps/primarybits/antibiotics/antibiotics.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

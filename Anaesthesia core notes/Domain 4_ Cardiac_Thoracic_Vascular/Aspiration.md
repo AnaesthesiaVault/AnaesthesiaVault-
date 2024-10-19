@@ -94,3 +94,9 @@ Date modified: Friday, October 4th 2024, 4:57:17 pm
 
 9. **Capnography and Blood Near Airway**
    - Take active measures when a flat capnography trace occurs after blood has been near the airway.
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -307,3 +307,9 @@ The BTF guidelines for managing severe TBI are evidence-based, incorporating the
 [Head injury](https://frcamindmaps.org/mindmaps/neuroanaesthesia/headinjuryonitu/headinjuryonitu.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

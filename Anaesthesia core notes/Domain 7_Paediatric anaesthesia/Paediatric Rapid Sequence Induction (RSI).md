@@ -145,3 +145,9 @@ Controlled Rapid Sequence Induction (cRSI) offers a structured approach to intub
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -40,3 +40,9 @@ Date modified: Friday, October 4th 2024, 4:56:19 pm
 - **Tricuspid Regurgitation:** Ventricular systole ejects blood into the right atrium, increasing CVP. The CVP waveform has a ‘giant v wave’, replacing the c wave, x descent, and v wave.
 
 ![[image-172-x45-y377.png]]
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

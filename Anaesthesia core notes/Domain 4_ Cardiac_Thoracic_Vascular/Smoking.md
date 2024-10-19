@@ -135,3 +135,9 @@ Primarily: Inadequate delivery of usable oxygen to the tissues
 [Smoking](https://frcamindmaps.org/patientconditions2/smoking/smoking.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

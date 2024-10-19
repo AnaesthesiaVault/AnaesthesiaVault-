@@ -164,3 +164,9 @@ However sometimes used if the MEPs and SSEPs fail. So consent all patients for w
 [Neuro-anaesthesia_ICP monitoring](http://frcamindmaps.org/mindmaps/neuroanaesthesia/icpmonitoring/icpmonitoring.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

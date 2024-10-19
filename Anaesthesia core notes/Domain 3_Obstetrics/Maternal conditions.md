@@ -387,3 +387,9 @@ Date modified: Friday, October 4th 2024, 4:58:20 pm
 [Obesity in pregnancy](https://frcamindmaps.org/mindmaps/guidelines/obesityinpregnancy/obesityinpregnancy.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

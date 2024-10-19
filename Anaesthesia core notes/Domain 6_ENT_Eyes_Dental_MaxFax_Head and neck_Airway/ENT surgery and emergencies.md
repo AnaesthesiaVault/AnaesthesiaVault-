@@ -881,3 +881,9 @@ Diagnosed clinically from history and examination
 [DAS](https://frcamindmaps.org/mindmaps/airway/dasguidelines/dasguidelines.html)
 
 ---
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

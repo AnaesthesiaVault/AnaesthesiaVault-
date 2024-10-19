@@ -123,3 +123,9 @@ Date modified: Friday, October 4th 2024, 4:58:15 pm
 4. Anesthesia Considerations. (2024). Retrieved June 5, 2024, from https://www.anesthesiaconsiderations.com/
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

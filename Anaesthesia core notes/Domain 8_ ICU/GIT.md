@@ -24,3 +24,9 @@ Date modified: Friday, October 4th 2024, 5:00:06 pm
 [ICU_OP_Haemoptysis](https://static1.squarespace.com/static/5e6d5df1ff954d5b7b139463/t/5ff289d2e293bc1fe28f3bd7/1609730523144/ICU_one_Pager_massive_hemoptysis_v11.pdf)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

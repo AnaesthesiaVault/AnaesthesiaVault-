@@ -215,3 +215,9 @@ Amio dose: 150mg bolus, then 1mg/min infusion*
 [AF](https://www.anesthesiaconsiderations.com/atrial-fibrillation)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

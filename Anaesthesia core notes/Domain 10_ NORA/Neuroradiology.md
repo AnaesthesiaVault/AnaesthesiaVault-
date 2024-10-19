@@ -209,3 +209,9 @@ ulator, arterial pressure, temperature, clotting (ACT).
 [Interventional Neuro](https://frcamindmaps.org/mindmaps/neuroanaesthesia/interventionalneuro/interventionalneuro.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -192,3 +192,9 @@ Cardiopulmonary bypass (CPB) initiates thrombocytopenia, functional platelet def
 [Blood conservation- video](https://www.youtube.com/watch?v=AHV5htLED8A&embeds_referring_euri=https%3A%2F%2Fcardiothoracicanaesthesia.com%2F&source_ve_path=MzY4NDIsMjg2NjY)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

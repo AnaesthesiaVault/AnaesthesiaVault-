@@ -186,3 +186,9 @@ Date modified: Friday, October 4th 2024, 4:57:35 pm
 [OSAS](https://frcamindmaps.org/patientconditions2/osas/osas.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

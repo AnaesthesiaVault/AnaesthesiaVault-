@@ -4,7 +4,7 @@ Subdomain:
   - Infectious disease
 Date: 2024-07-04
 tags: [Antibiotics]
-Date modified: Friday, October 4th 2024, 5:00:09 pm
+Date modified: Saturday, October 19th 2024, 9:11:30 am
 ---
 
 # Introduction
@@ -436,8 +436,15 @@ Includes *Escherichia coli*, *Klebsiella pneumoniae*, *Enterobacter cloacae*, *C
 2. FRCA Mind Maps. (2024). Retrieved June 5, 2024, from https://www.frcamindmaps.org/
 3. Anesthesia Considerations. (2024). Retrieved June 5, 2024, from https://www.anesthesiaconsiderations.com/
 4. ICU One Pager. (2024). Retrieved June 5, 2024, from [https://onepagericu.com/](https://onepagericu.com/)
-**FRCA Mind Map Link:**
+
+**Summaries:**
 [Antibiotics](https://www.frcamindmaps.org/mindmaps/charliecox/pharmacology6/pharmacology6.html)
 [Antibiotics 02](https://www.frcamindmaps.org/mindmaps/primarybits/antibiotics/antibiotics.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

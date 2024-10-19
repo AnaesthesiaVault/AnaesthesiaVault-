@@ -63,3 +63,9 @@ Date modified: Friday, October 4th 2024, 4:59:48 pm
 [Dental surgery 02](https://frcamindmaps.org/mindmaps/guidelines/paediatricdental/paediatricdental.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

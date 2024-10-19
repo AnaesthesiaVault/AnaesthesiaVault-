@@ -212,3 +212,9 @@ Date modified: Friday, October 4th 2024, 4:58:50 pm
 [Stridor-paeds](https://frcamindmaps.org/mindmaps/paediatrics/paediatricsepsis/paediatricsepsis.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

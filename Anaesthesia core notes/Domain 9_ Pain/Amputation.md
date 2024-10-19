@@ -123,3 +123,9 @@ Date modified: Friday, October 4th 2024, 5:00:19 pm
 [Phantom limb](https://frcamindmaps.org/mindmaps/painmedicine/phantomlimbpain/phantomlimbpain.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

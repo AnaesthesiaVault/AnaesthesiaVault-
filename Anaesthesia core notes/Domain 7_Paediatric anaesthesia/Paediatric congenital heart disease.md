@@ -1320,3 +1320,9 @@ The left coronary artery originates abnormally from the **pulmonary artery** ins
 [Calgary guide- A cyanotic heart diseases](https://calgaryguide.ucalgary.ca/Summary-of-Acyanotic-Congenital-Heart-Diseases/)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

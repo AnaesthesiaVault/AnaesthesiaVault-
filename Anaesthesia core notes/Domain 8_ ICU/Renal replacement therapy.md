@@ -334,3 +334,9 @@ Patients undergoing RRT present unique perioperative challenges due to underlyin
 [ICU OP_RRT](https://onepagericu.com/rrt)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

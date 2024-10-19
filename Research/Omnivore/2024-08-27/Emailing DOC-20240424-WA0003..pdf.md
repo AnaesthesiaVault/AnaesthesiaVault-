@@ -98,3 +98,9 @@ id: eefb9238-64a9-11ef-895c-f7c0dcea69fb
 > Their aim is to return the patient’s salvaged blood
 > without unnecessary delay [⤴️](https://omnivore.app/me/emailing-doc-20240424-wa-0003-pdf-191954ba8f6#7d1f98bd-570d-4743-84cb-b30da0aec480)  ^7d1f98bd
 
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

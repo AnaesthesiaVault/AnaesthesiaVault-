@@ -996,3 +996,9 @@ Local anaesthetic toxicity classically causes cardiac and neurological symptoms.
 [Lithium](https://frcamindmaps.org/patientconditions2/lithium/lithium.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

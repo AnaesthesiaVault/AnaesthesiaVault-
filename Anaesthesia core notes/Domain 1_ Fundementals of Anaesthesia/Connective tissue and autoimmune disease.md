@@ -1077,3 +1077,9 @@ By addressing these considerations, anesthetic management of patients with SLE c
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

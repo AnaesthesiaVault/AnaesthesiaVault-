@@ -22,3 +22,9 @@ Department of Anaesthesia and Perioperative medicine. University of Cape Town
 ![](Pasted%20image%2020240314164459.png)
 
 ---
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

@@ -182,3 +182,9 @@ Date modified: Friday, October 4th 2024, 5:00:10 pm
 [Pancreatitis](https://frcamindmaps.org/mindmaps/itu/pancreatitis/pancreatitis.html)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

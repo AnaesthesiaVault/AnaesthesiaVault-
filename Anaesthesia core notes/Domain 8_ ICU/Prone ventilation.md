@@ -130,3 +130,9 @@ May be direct or indirect (when injury occurs as a result of pressure on, or occ
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.

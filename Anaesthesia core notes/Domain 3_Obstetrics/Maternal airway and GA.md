@@ -144,3 +144,9 @@ Date modified: Friday, October 4th 2024, 4:58:21 pm
 2. Difficult Airway Society. (2015). DAS Algorithms. Retrieved from [https://das.uk.com/files/01-15%20DAS-algorithms-web-PRINT20092015.pdf](https://das.uk.com/files/01-15%20DAS-algorithms-web-PRINT20092015.pdf)
 
 ---------------------------------------------------------------------------------------------
+
+
+---
+
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.
