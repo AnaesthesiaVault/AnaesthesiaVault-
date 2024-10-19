@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fixes for wordpress.md",
+                "file": "Anaesthesia core notes/Domain 12_ Ethics/Jehovah's witness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fixes for wordpress"
+              "title": "Jehovah's witness"
             }
           }
         ],
@@ -157,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Anaesthesia core notes/Domain 12_ Ethics/Jehovah's witness.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Jehovah's witness"
             }
           },
           {
@@ -274,10 +274,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e36fa17b7f96e328",
+  "active": "9f1ab85df67a832b",
   "lastOpenFiles": [
-    "Fixes for wordpress.md",
+    "Index/12. Ethics and Consent.md",
     "Untitled.md",
+    "Fixes for wordpress.md",
     "Anaesthesia core notes.zip",
     "Anaesthesia core notes/Domain 2_ Major and trauma surgery/Polytrauma and haemorrhagic shock.md",
     "Index/2. Major surgery.md",
@@ -304,7 +305,6 @@
     "Acknowledgements.md",
     "Disclaimer.md",
     "The Brain (all notes).md",
-    "Support AnaesthesiaVault.md",
     "Archive/Images/Pasted image 20241019094230.png",
     "Archive/Images/Pasted image 20241019092653.png",
     "Archive/Images/Pasted image 20241019091948.png",
