@@ -4,7 +4,7 @@ Subdomain:
   - Data-interpretation
 Date: 2024-07-10
 tags: [Prolonged-QT, Heart-block/first-degree, Heart-block/Second-degree, Heart-block/Third-degree, ECG]
-Date modified: Friday, October 4th 2024, 4:56:23 pm
+Date modified: Saturday, October 19th 2024, 1:33:26 pm
 ---
 
 # ECG Basics
@@ -644,7 +644,6 @@ Two arteries originate from the root of the aorta behind the cusps (aortic sinus
 **Summary or mindmap:**
 
 ---------------------------------------------------------------------------------------------
-
 
 ---
 

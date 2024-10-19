@@ -5,7 +5,7 @@ Subdomain:
   - ICU
 Date: 2024-07-04
 tags: [Shock, Pulmonary-embolism, Anaphylaxis, UGITB, Inotropes, Vasopressors, ICU/CVS-support]
-Date modified: Friday, October 4th 2024, 4:59:59 pm
+Date modified: Saturday, October 19th 2024, 11:04:51 am
 ---
 
 # Hemodynamic Management in Shock
@@ -727,7 +727,6 @@ Shock is a physiological continuum that begins with an inciting event, such as a
 [Obstructive shock](https://calgaryguide.ucalgary.ca/Obstructive-Shock/)
 
 ---------------------------------------------------------------------------------------------
-
 
 ---
 

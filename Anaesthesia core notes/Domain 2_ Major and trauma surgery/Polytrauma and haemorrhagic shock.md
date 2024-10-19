@@ -5,7 +5,7 @@ Subdomain:
   - Trauma
 Date: 2024-04-16
 tags: [Polytrauma, Haemorhagic-shock, DCS, TIC, Haemorrhage/physiological-changes, Flail-chest]
-Date modified: Friday, October 4th 2024, 4:58:10 pm
+Date modified: Saturday, October 19th 2024, 1:36:44 pm
 ---
 
 # Polytrauma and Haemorrhagic Shock
@@ -455,12 +455,11 @@ To increase fibrinogen by 1 g/L:
 6. Anesthesia Considerations. (2024). Retrieved June 5, 2024, from https://www.anesthesiaconsiderations.com/
 7. ICU One Pager. (2024). Retrieved June 5, 2024, from [https://onepagericu.com/](https://onepagericu.com/)
 **FRCA Mind Map Link:**
-[ICU_OnePager_Hemorrhagic_Shock_v11.pdf (squarespace.com)](https://static1.squarespace.com/static/5e6d5df1ff954d5b7b139463/t/62c8552d55bd7f4253b506b7/1657296173583/ICU_OnePager_Hemorrhagic_Shock_v11.pdf)
+[ICU one pager haemorrhagic shock](https://static1.squarespace.com/static/5e6d5df1ff954d5b7b139463/t/62c8552d55bd7f4253b506b7/1657296173583/ICU_OnePager_Hemorrhagic_Shock_v11.pdf)
 [Massive haemorrhage](https://frcamindmaps.org/mindmaps/guidelines/massivehaemorrhage/massivehaemorrhage.html)
 [NAP 4](https://frcamindmaps.org/mindmaps/guidelines/nap4/nap4.html)
 
 ---------------------------------------------------------------------------------------------
-
 
 ---
 

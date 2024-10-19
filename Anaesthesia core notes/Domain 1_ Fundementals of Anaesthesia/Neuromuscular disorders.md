@@ -4,7 +4,7 @@ Subdomain:
   - General
 Date: 2024-04-20
 tags: [ALS, Amyotrophic-lateral-sclerosis, Multiple-sclerosis, GBS, Guilain-Barre, Charcot-marie-tooth, Myotonic-dystrophy, Duchenne, Metabolic-myopathies, Mitochondrial-myopathies, Neuromuscular-disorders]
-Date modified: Friday, October 4th 2024, 4:56:58 pm
+Date modified: Saturday, October 19th 2024, 11:14:21 am
 ---
 
 # Neuromuscular Disorders
@@ -882,7 +882,6 @@ Management of metabolic and mitochondrial myopathies, myotonia, and myositis inv
 [Neuromuscular](https://www.frcamindmaps.org/mindmaps/introductorytopics/neuromuscular/neuromuscular.html)
 
 ---------------------------------------------------------------------------------------------
-
 
 ---
 

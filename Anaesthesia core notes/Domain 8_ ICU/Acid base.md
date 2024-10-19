@@ -4,7 +4,7 @@ Subdomain:
   - ICU
 Date: 2024-07-03
 tags: [Lactic-acidosis, Respiratory-acidosis, Respiratorty-alkalosis, Metabolic-alkalosis, Acid-Base]
-Date modified: Friday, October 4th 2024, 4:59:56 pm
+Date modified: Saturday, October 19th 2024, 11:13:35 am
 ---
 
 # Acid-Base
@@ -407,7 +407,6 @@ PCO2=(1.5×HCO3)+8
 [Acid/base](https://www.frcamindmaps.org/mindmaps/primarybits/acidbasephysiology/acidbasephysiology.html)
 
 ---------------------------------------------------------------------------------------------
-
 
 ---
 
