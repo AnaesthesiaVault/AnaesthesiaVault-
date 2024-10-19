@@ -3,11 +3,11 @@ Date modified: Saturday, October 19th 2024, 1:33:14 pm
 ---
 # Errors during Image Uploads
 
-Tracheo-Oesophageal Fistula, Oesophageal Atresia.docx.pdfUnexpected response from the server. The file may have been uploaded successfully. Check in the Media Library or reload the page.
+Tracheo-Oesophageal Fistula, Oesophageal Atresia.docx.pdfUnexpected response from the server. The file may have been uploaded successfully. Check in the Media Library or reload the page
 
 Tonsillectomy.pdfUnexpected response from the server. The file may have been uploaded successfully. Check in the Media Library or reload the page.
 
-Resp Tract Inf in Child.pdfUnexpected response from the server. The file may have been uploaded successfully. Check in the Media Library or reload the page.
+Resp Tract Inf in Child.pdfUnexpected response from the server. The file may have been uploaded successfully. Check in the Media Library or reload the page
 
 Resp Tract Inf in Child 1.pdfUnexpected response from the server. The file may have been uploaded successfully. Check in the Media Library or reload the page.
 
