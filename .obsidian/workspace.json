@@ -60,9 +60,23 @@
               "icon": "lucide-file",
               "title": "Fixes for wordpress"
             }
+          },
+          {
+            "id": "3c792cabfadd322d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,10 +171,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fixes for wordpress.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Fixes for wordpress"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -239,9 +253,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "49991b6d903814e5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -260,17 +284,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "obsidian-omnivore:Omnivore": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f1ab85df67a832b",
+  "active": "3c792cabfadd322d",
   "lastOpenFiles": [
+    "Fixes for wordpress.md",
+    "Untitled.md",
     "Anaesthesia core notes.zip",
     "Anaesthesia core notes/Domain 2_ Major and trauma surgery/Polytrauma and haemorrhagic shock.md",
     "Index/2. Major surgery.md",
     "Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/Electrocardiogram (ECG).md",
     "Index/14. Data interpretation.md",
-    "Fixes for wordpress.md",
     "Archive/Images/Pasted image 20240408131809.png",
     "Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Neuromuscular disorders.md",
     "Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Neuromuscular disease.md",
@@ -310,7 +336,6 @@
     "Anaesthesia core notes/Domain 7_Paediatric anaesthesia",
     "Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Domain 6_ Topics and links.docx",
     "Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Dental surgery.docx",
-    "Anaesthesia core notes/Domain 6_ENT_Eyes_Dental_MaxFax_Head and neck_Airway",
     "Areas/Anaesthesia 2nd brain.canvas",
     "Index.canvas"
   ]
