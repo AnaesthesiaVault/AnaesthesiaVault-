@@ -4,7 +4,7 @@ Subdomain:
   - Consent
 Date: 2024-05-08
 tags: [Blood-conservation, Jehovahs-Witness]
-Date modified: Friday, October 4th 2024, 4:56:10 pm
+Date modified: Saturday, October 19th 2024, 7:36:43 pm
 ---
 
 # Summary of Issues
@@ -198,7 +198,6 @@ Can alsp contact the Jehovah's hospital liaison committee
 [JW](http://frcamindmaps.org/mindmaps/theatreandmanagementissues/jehovahswitnesses/jehovahswitnesses.html)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 ---
 
