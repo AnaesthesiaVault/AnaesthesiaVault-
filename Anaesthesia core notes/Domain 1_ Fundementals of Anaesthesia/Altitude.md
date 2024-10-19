@@ -6,7 +6,7 @@ Subdomain:
   - Physics
 Date: 2024-04-20
 tags: [Altitude]
-Date modified: Friday, October 4th 2024, 4:56:32 pm
+Date modified: Saturday, October 19th 2024, 9:52:58 am
 ---
 
 # Altitude Physiology
@@ -40,7 +40,7 @@ PAO2=PIO2−PaCO2/R
 
 R=0.8R
 
-PAO2=221.2−{40/8)=221.2−50=171.2 mm
+PAO2=221.2−(40/8)=221.2−50=171.2 mm
 
 ## Physiology of the Ventilatory Response to Increasing Altitude
 
@@ -155,7 +155,6 @@ PAO2=221.2−{40/8)=221.2−50=171.2 mm
 [Altitude physiology](https://www.frcamindmaps.org/mindmaps/primarybits/altitudephysiology/altitudephysiology.html)
 
 ---------------------------------------------------------------------------------------------
-
 
 ---
 

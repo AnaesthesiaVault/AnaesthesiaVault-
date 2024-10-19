@@ -4,7 +4,7 @@ Subdomain:
   - Neurosurgery
 Date: 2024-07-11
 tags: [Posterior-fossa-surgery, Arnold-Chiari-Malformation]
-Date modified: Friday, October 4th 2024, 4:59:35 pm
+Date modified: Saturday, October 19th 2024, 9:53:38 am
 ---
 
 # Posterior-Fossa Surgery
@@ -236,7 +236,6 @@ Pituitary tumors are almost always benign adenomas. Approximately 1 in 6 individ
 [Anaesthesia and the pituitary](https://frcamindmaps.org/mindmaps/neuroanaesthesia/anaesthesiaandthepituitary/anaesthesiaandthepituitary.html)
 
 ---------------------------------------------------------------------------------------------
-
 
 ---
 

@@ -5,7 +5,7 @@ Subdomain:
   - Physiology
 Date: 2024-04-20
 tags: [Clotting-cascade]
-Date modified: Friday, October 4th 2024, 4:56:41 pm
+Date modified: Saturday, October 19th 2024, 9:53:10 am
 ---
 
 # Clotting Cascade
@@ -191,11 +191,11 @@ vWF secretagogue → enhances platelet function → haemostatic
 4. FRCA Mind Maps. (2024). Retrieved June 5, 2024, from https://www.frcamindmaps.org/
 5. Anesthesia Considerations. (2024). Retrieved June 5, 2024, from https://www.anesthesiaconsiderations.com/
 6. ICU One Pager. (2024). Retrieved June 5, 2024, from [https://onepagericu.com/](https://onepagericu.com/)
+
 **Summary or mindmap:**
 [Coagulation-video](https://www.youtube.com/watch?time_continue=1&v=kxPvhEV9Wus&embeds_referring_euri=https%3A%2F%2Fcardiothoracicanaesthesia.com%2F&source_ve_path=Mjg2NjY)
 
 ---------------------------------------------------------------------------------------------
-
 
 ---
 

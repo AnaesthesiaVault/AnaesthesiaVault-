@@ -1,5 +1,5 @@
 ---
-Date modified: Saturday, October 19th 2024, 9:03:59 am
+Date modified: Saturday, October 19th 2024, 9:42:48 am
 ---
 ### 👋 **Welcome To AnaesthesiaVault**
 
@@ -64,7 +64,6 @@ I welcome any feedback or suggestions to help improve AnaesthesiaVault. Please f
 - [Disclaimer](https://anaesthesiavault.xyz/Disclaimer)
 - [Acknowledgements](https://anaesthesiavault.xyz/Acknowledgements)
 ![[Pasted image 20241019090239.png]]
-
 
 ---
 

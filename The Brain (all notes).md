@@ -1,5 +1,5 @@
 ---
-Date modified: Saturday, October 19th 2024, 9:25:25 am
+Date modified: Saturday, October 19th 2024, 9:41:32 am
 ---
 # 1. Fundamentals
 ## Physiology
@@ -503,7 +503,6 @@ Date modified: Saturday, October 19th 2024, 9:25:25 am
 - [Neuraxial Ultrasound](Neuraxial%20Ultrasound.md)
 - [Echocardiography](Echocardiography.md)
 - [Transoesophageal ultrasound (TOE)](Transoesophageal%20ultrasound%20(TOE).md)
-
 
 ---
 

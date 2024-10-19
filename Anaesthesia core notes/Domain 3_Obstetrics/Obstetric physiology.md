@@ -5,7 +5,7 @@ Subdomain:
   - Obstetric
 Date: 2024-03-18
 tags: [Obstetric/physiology]
-Date modified: Friday, October 4th 2024, 4:58:24 pm
+Date modified: Saturday, October 19th 2024, 9:52:32 am
 ---
 
 # Summary
@@ -192,11 +192,11 @@ Cardiac Output**: Decreases substantially toward prepregnant values by 2 weeks p
 4. Canobbio, M. M., Warnes, C. A., Aboulhosn, J., Connolly, H. M., Khanna, A., Koos, B. J., … & Stout, K. (2017). Management of pregnancy in patients with complex congenital heart disease: a scientific statement for healthcare professionals from the american heart association. Circulation, 135(8). https://doi.org/10.1161/cir.0000000000000458
 5. . FRCA Mind Maps. (2024). Retrieved June 5, 2024, from https://www.frcamindmaps.org/
 6. . Anesthesia Considerations. (2024). Retrieved June 5, 2024, from https://www.anesthesiaconsiderations.com/
-**Summary**
+
+**Summaries**
 [Obs physiology](https://frcamindmaps.org/mindmaps/obstetrics/maternalphysiology/maternalphysiology.html)
 
 ---------------------------------------------------------------------------------------------
-
 
 ---
 
