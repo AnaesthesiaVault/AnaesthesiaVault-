@@ -3,8 +3,8 @@ id: 5f89b58c-72c6-11ef-960e-6f1378195133
 ---
 
 # Anaesthesia for pituitary surgery
-#Omnivore
 
+## Links
 [Read on Omnivore](https://omnivore.app/me/attachment-pdf-191f1c62504)
 [Read Original](https://omnivore.app/attachments/u/2b9dec0e-4402-41d2-9767-3a13c19bdeca/attachment.pdf)
 
@@ -43,8 +43,4 @@ id: 5f89b58c-72c6-11ef-960e-6f1378195133
 > The pituitary gland lies outside the blood e brain barrier and consists of two lobes. The anterior lobe (adenohypophysis) produces and secretes hormones, regulated by hypothalamic- releasing hormones. The posterior lobe (neurohypophysis) stores and releases hormones secreted by the hypothalamus. [⤴️](https://omnivore.app/me/attachment-pdf-191f1c62504#41cde885-6b8b-46d2-8eae-dabd60aaf06a)  ^41cde885
 
 
-
----
-
-**Copyright**
-© 2022 Francois Uys. All Rights Reserved.
+## Content

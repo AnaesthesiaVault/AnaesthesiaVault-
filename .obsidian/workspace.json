@@ -16,9 +16,7 @@
                 "file": "Index/2. Major surgery.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Major surgery"
+              }
             }
           },
           {
@@ -30,37 +28,11 @@
                 "file": "The Brain (all notes).md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Brain (all notes)"
-            }
-          },
-          {
-            "id": "020c415c99f2139b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Archive/Images/Pasted image 20240408131809.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240408131809"
-            }
-          },
-          {
-            "id": "9f1ab85df67a832b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Archive/Images/Pasted image 20230513124139.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20230513124139"
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,9 +52,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -97,9 +67,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -107,9 +75,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           },
           {
@@ -117,9 +83,7 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "state": {}
             }
           }
         ]
@@ -144,9 +108,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -155,10 +117,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Images/Pasted image 20230513124139.png"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Pasted image 20230513124139"
+                "file": "The Brain (all notes).md"
+              }
             }
           },
           {
@@ -166,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "state": {}
             }
           },
           {
@@ -176,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "state": {}
             }
           },
           {
@@ -186,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "state": {}
             }
           },
           {
@@ -205,9 +159,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for The Brain (all notes)"
+              }
             }
           },
           {
@@ -219,9 +171,7 @@
                 "file": "The Brain (all notes).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from The Brain (all notes)"
+              }
             }
           },
           {
@@ -233,9 +183,7 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              }
             }
           },
           {
@@ -243,9 +191,7 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "state": {}
             }
           }
         ],
@@ -272,8 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f1ab85df67a832b",
+  "active": "d3e8dafc60ca4f6a",
   "lastOpenFiles": [
+    "Archive/Images/Pasted image 20240408131809.png",
+    "Archive/Images/Pasted image 20230513124139.png",
     "Archive/Images/0CA624B5-00CD-4ED7-A807-396D3AF5D9E5.jpeg",
     "Anaesthesia core notes/Domain 12_ Ethics/Jehovah's witness.md",
     "Index/12. Ethics and Consent.md",
@@ -284,7 +232,6 @@
     "Index/2. Major surgery.md",
     "Anaesthesia core notes/Domain 14_Paper 3_Data interpretation/Electrocardiogram (ECG).md",
     "Index/14. Data interpretation.md",
-    "Archive/Images/Pasted image 20240408131809.png",
     "Anaesthesia core notes/Domain 1_ Fundementals of Anaesthesia/Neuromuscular disorders.md",
     "Anaesthesia core notes/Domain 7_Paediatric anaesthesia/Paediatric Neuromuscular disease.md",
     "Archive/Images/Pasted image 20240312124158.png",
@@ -310,7 +257,6 @@
     "Archive/Images/Pasted image 20241019091737.png",
     "Archive/Images/Pasted image 20241019091544.png",
     "Archive/Images/Pasted image 20241019091451.png",
-    "Archive/Images/Pasted image 20241019090239.png",
     "Anaesthesia core notes/Domain 13_ Quality and safety management",
     "Research/Omnivore/2024-09-16",
     "Anaesthesia core notes/Domain 9_ Pain",

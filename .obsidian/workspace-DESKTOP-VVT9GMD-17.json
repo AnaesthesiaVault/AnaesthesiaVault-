@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "cbd209a1d2b2dee4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9270cbc9e5128888",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31703999b3ec5038",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3085de395b731643",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7d0e7d59c7537be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2177c689dfd33ed0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0dbccc19719a9ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ebd90bc04789e14",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f8ca6eb9486adaa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "007785c300ce20ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f546c62b3d441c75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2350ecf8bd0a7099",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6f0a2fc1fe41260",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d7d0973dd8dcc4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "31703999b3ec5038",
+  "lastOpenFiles": [
+    "Research/Omnivore/2024-10-10",
+    "Research/Omnivore/2024-10-03",
+    "Research/Omnivore/2024-09-14",
+    "Research/Omnivore/2024-09-18",
+    "Index",
+    "Research/Omnivore",
+    "Research/Zotero",
+    "Research",
+    "Anaesthesia core notes/9. Pain",
+    "Anaesthesia core notes/8. ICU",
+    "Anaesthesia core notes/7. Paediatric anaesthesia",
+    "Archive/Zotero Images/_Neuromusculardisorders_.md",
+    "Archive/Zotero Images/_EmbolicPhenomena_.md",
+    "Archive/Zotero Images/williamsRhabdomyolysis2014.md",
+    "Archive/Zotero Images/soffinERAS_Joint2016.md",
+    "Archive/Zotero Images/rajDataInterpretationAnesthesia2017.md",
+    "Archive/Zotero Images/Palmer_Premedication_2015.md",
+    "Archive/Zotero Images/Hemmerling.etal_OPCABG_2013.md",
+    "Archive/Zotero Images/Farrow.etal_Acutelimb_2011.md",
+    "Archive/Zotero Images/EndPointsResuscitation.md",
+    "Archive/Zotero Images/Butterworth.etal_MorganMikhail_2022a.md",
+    "Archive/Zotero Images/bittnerBurns.md",
+    "Archive/Zotero Images/biccardCardiopulmonaryExerciseTestinga.md",
+    "Archive/Zotero Images/alliExtracorporealMembraneOxygenation2017.md"
+  ]
+}
