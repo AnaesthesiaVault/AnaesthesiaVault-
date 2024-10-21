@@ -287,5 +287,44 @@ body {
 	border-radius: 5px;
 	margin-bottom: 20px;
   }
+/* Sidebar collapse functionality */
+.sidebar {
+	position: relative;
+  }
   
+  .sidebar-toggle {
+	position: absolute;
+	top: 10px;
+	right: -25px;
+	width: 25px;
+	height: 25px;
+	background-color: #ccc;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+  }
+  
+  .sidebar-hidden {
+	display: none;
+  }
+  
+  .sidebar-toggle-hidden {
+	right: 0;
+  }
+  
+  .sidebar-toggle::before {
+	content: '«'; /* Icon to indicate collapse */
+  }
+  
+  .sidebar-hidden .sidebar-toggle::before {
+	content: '»'; /* Icon to indicate expand */
+  }
+  
+  body.sidebar-hidden .sidebar {
+	width: 0;
+	overflow: hidden;
+  }
+	
 
