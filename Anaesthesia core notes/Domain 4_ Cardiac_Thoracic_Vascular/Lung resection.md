@@ -77,7 +77,7 @@ Cardiac complications include myocardial infarction, pulmonary oedema, ventricul
   - 0: 1.5%
   - 1–1.5: 5.8%
   - 2–2.5: 19%
-  - > 2.5: 23%
+  - more than 2.5: 23%
 - **Criteria**:
   - Serum creatinine > 180 μmol/L (1 point)
   - Cerebrovascular disease (1.5 points)
