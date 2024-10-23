@@ -1,5 +1,5 @@
 ---
-Date modified: Saturday, October 19th 2024, 9:42:48 am
+Date modified: Wednesday, October 23rd 2024, 11:45:24 am
 ---
 ### 👋 **Welcome To AnaesthesiaVault**
 
@@ -27,9 +27,11 @@ For desktop users, you can enhance your navigation with:
 #### 🚀 **Quick Access**
 
 - **🧠 The Brain (All Notes)**
+	
 
 	[The Brain (All Notes)](https://anaesthesiavault.xyz/The+brain+(all+notes))
 
+	
 - **📂 Explore by Category**
 	
 	- [1. Fundamentals](https://anaesthesiavault.xyz/Index/1.+Fundamentals)
@@ -62,7 +64,8 @@ I welcome any feedback or suggestions to help improve AnaesthesiaVault. Please f
 
 - [About](https://anaesthesiavault.xyz/About)
 - [Disclaimer](https://anaesthesiavault.xyz/Disclaimer)
-- [Acknowledgements](https://anaesthesiavault.xyz/Acknowledgements)
+- [Acknowledgements](https://anaesthesiavault.xyz/Acknowledgements)  
+
 ![[Pasted image 20241019090239.png]]
 
 ---

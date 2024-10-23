@@ -1,0 +1,1769 @@
+---
+Domain: "07"
+Subdomain:
+  - Neonates
+Date: 2024-05-16
+tags: [neonatal-anaesthesia]
+Date modified: Friday, October 4th 2024, 4:58:35 pm
+---
+
+# Neonatal Anaesthesia
+
+![[Neonatology.docx.pdf]]
+
+## Review of Physiology
+- Neonates have a high metabolic rate.
+- Oxygen consumption is approximately 6 mL/kg/min versus 3 mL/kg/min in the adult.
+- Even under normal circumstances the immature cardiac and respiratory systems must function near their maximum to support this metabolic demand.
+### Respiratory Physiology
+- The respiratory system of a term neonate at birth is not fully developed and postnatal maturation continues through early childhood.
+- The airways are fully developed by 16 weeks of gestation
+- The number of saccules and primitive alveoli is reduced at birth.
+- A premature infant born at 24 to 28 weeks of gestation is just beginning to alveolarize the distal saccules of the lung.
+- Complete alveolar maturation does not occur until 8 to 10 years of age.
+- Neonatal alveolar ventilation is twice that of the adult due to increased oxygen demand.
+- Increasing respiratory rate rather than tidal volume is the most efficient means to increase alveolar ventilation in the newborn.
+- The diaphragm is the primary muscle of respiration in the neonate
+	- has fewer high-oxidative muscle fibers and is thus less fatigue-resistant than the adult diaphragm.
+- Awake neonatal functional residual capacity (FRC) is similar, when normalized to body weight, to that of an adult, but neonatal alveolar ventilation is twice that of an adult.
+	- The ratio of alveolar ventilation to FRC in the neonate is twice that of the adult, causing a much more rapid wash-out or wash-in of oxygen and anaesthetic agents in response to changes in inspired concentration.
+- Neonatal FRC declines during general anaesthesia, particularly during periodic breathing and apnea.
+	- The combination of increased oxygen consumption and a reduced FRC means that apnea and hypoventilation are associated with marked and rapid desaturation.
+- The alveolar–arterial oxygen tension gradient is greater in neonates than in adults, reflecting that infants operate very near to closing volume during tidal breathing.
+	- Adequate gas exchange depends upon adequate alveolar recruitment and thus surfactant function.
+	- Production of surfactant begins by 23 to 24 week of gestation and reaches clinical maturity after 35 weeks of gestation.
+	- Surfactantdeficient preterm infants have decreased lung compliance and are at risk for development of respiratory distress syndrome.
+	- Administration of corticosteroids to mothers in preterm labor may accelerate lung maturation.
+	- Instillation of intratracheal exogenous surfactant in preterm babies and protective strategies of mechanical ventilation have considerably improved outcomes of premature infants.
+- Pulmonary vascular endothelial cells are particularly susceptible to oxidant injury caused by hyperoxia and/or inflammation:
+	- As a result, acute lung injury will impair the growth, structure, and function of the developing pulmonary circulation.
+	- Pulmonary vascular pathologic changes include:
+		- Smooth muscle cell proliferation
+		- Precocious maturation of immature pericytes into mature smooth muscle cells
+		- Incorporation of fibroblasts into the vessel wall.
+	- These changes contribute to high pulmonary vascular resistance (PVR) by decreasing vessel caliber and compliance.
+		- PVR is also increased by:
+			- Enhanced vasoreactivity
+			- Decreased angiogenesis
+	- Early injury to the pulmonary circulation leads to rapid development of pulmonary hypertension, contributing greatly to the morbidity and mortality of severe chronic lung disease.
+- Bronchopulmonary dysplasia: a disease entity resulting from lung injury induced by:
+	- Mechanical ventilation
+	- High inspired oxygen concentrations
+- Severity of bronchopulmonary dysplasia is significantly decreased if:
+	- Premature infants are treated with antenatal steroids and surfactant
+	- Protective ventilatory strategies are used.
+- Peripheral chemoreceptors are active from 28 weeks of gestation
+	- Their function is immature until several days after birth.
+	- The neonate and preterm infant exhibit an altered response to hypoxia and hypercarbia.
+	- When challenged with hypoxic-inspired gas mixtures, both the term and preterm infant have an initial 1to 2-minute period of hyperventilation followed by sustained hypoventilation.
+	- As postnatal age increases, the hyperventilatory response becomes sustained.
+		- This protective response develops more slowly in the preterm infant and the ventilatory response to hypercarbia is impaired.
+- Although airway conductance (reciprocal of resistance) is relatively high in infants, in absolute terms, the airways are very narrow.
+	- Relatively minor quantities of secretions or trivial inflammatory disease can produce serious respiratory consequences in small infant.
+### Cardiovascular Physiology
+- Transition from the fetal to an extrauterine circulation.
+- The fetal circulation is characterized by:
+	- High pulmonary vascular resistance
+	- Low systemic vascular resistance (placenta)
+	- Right-to-left shunting via the:
+		- foramen ovale
+		- ductus arteriosus
+- Aeration of the lungs at birth causes
+	- Rapid, progressive decrease in pulmonary vascular resistance
+	- Increase in pulmonary blood flow
+- The decrease in pulmonary vascular resistance at birth is mediated by the endogenous production of nitric oxide.
+- Increasing blood return to the heart via the pulmonary veins raises the pressure of the left atrium above that of the right, causing a functional closure of the foramen ovale.
+- Anatomic closure of the foramen ovale usually occurs between 3 months and 1 year of age.
+- The functional closure of the ductus arteriosus is, in part, mediated by an increase in arterial oxygen tension and is complete within the first 10 to 15 hours.
+	- Anatomic closure does not occur until 2 months of age.
+- The constricting effect of oxygen on ductal smooth muscle is markedly reduced in premature animals.
+- Because the foramen ovale and ductus arteriosus are only functionally closed in the neonatal period, the circulatory pattern can readily revert to the fetal pattern.
+- The neonatal pulmonary circulation is very reactive.
+- Hypoxemia, hypercarbia, or acidosis can cause pulmonary vasoconstriction and dilation of the ductus arteriosus.
+- Increases in pulmonary vascular resistance result in a right-to-left shunt across the foramen ovale and ductus arteriosus.
+- Right-to-left shunting, by causing hypoxemia, causes a further increase in pulmonary vascular resistance, creating a vicious circle.
+- Persistent pulmonary hypertension may be seen in neonates with:
+	- Diaphragmatic hernia
+	- Meconium aspiration
+	- Infection
+	- Polycythemia.
+- A presumptive diagnosis of persistent pulmonary hypertension may be made when the preductal to postductal arterial PaO difference is 20 mmHg on 2 simultaneous sampling.
+- The neonatal myocardium contains immature contractile elements and is less compliant than the adult myocardium.
+- The Frank–Starling relationship is functional only within a very narrow range of left ventricular end diastolic pressure.
+	- There is a limited increase in cardiac output to be gained from aggressive volume loading in the normovolemic newborn.
+	- If pre-load is reduced, normalization of volume status will increase cardiac output.
+- Because stroke volume cannot be increased by volume loading and contractile reserve is limited, neonatal cardiac output is heart-rate dependent.
+- Although adrenergic receptors are thought to be mature at birth, sympathetic innervation is incomplete.
+- After birth, neurotransmitter concentrations increase progressively, reflecting the maturation of sympathetic innervation.
+- When compared to the adult, neonatal myocardium is more sensitive to norepinephrine, a reflection of its relatively denervated state.
+- Dopamine is an indirectly acting inotrope that depends, in part, upon endogenous norepinephrine release for its action.
+- Neonatal myocardium, being deficient in sympathetic innervation, is therefore less responsive to dopamine.
+- To meet the elevated metabolic demand, neonatal cardiac output, relative to body weight, is twice that of the adult.
+	- This is achieved by a relatively rapid heart rate (140 beats per minute) because stroke volume cannot be significantly increased.
+- Circulation in the neonate is characterized by centralization (increased peripheral vascular resistance and distribution of cardiac output primarily to vital organs), a situation comparable to an adult in compensated shock.
+- Neonatal baroreflex activity is impaired
+	- Response to hemorrhage produces little increase in heart rate or change in total peripheral resistance.
+	- Even a modest (10%) reduction in blood volume will cause a 15% to 30% decrease in mean blood pressure in the newborn infant.
+- The structural and functional immaturity of the neonatal cardiovascular system severely limits the reserve that is available in the face of common perioperative insults such as:
+	- hypovolemia
+	- anaesthetic-induced depression of contractility
+	- positive pressure ventilation induced decreases in venous return
+### Central Nervous System
+- Periventricular–intraventricular hemorrhage occurs in 40% to 50% of premature infants
+	- Major cause of neonatal morbidity and mortality.
+- Intraventricular hemorrhage originates:
+	- predominantly in the germinal matrix
+		- The germinal matrix has a rich blood supply, thin vessel walls, and scant vascular supporting tissue, causing the vessels of this region to be susceptible to rupture.
+		- With increasing gestational age the germinal matrix involutes and is absent in the full-term infant.
+	- less frequently in the choroid plexus.
+- The factors in the pathogenesis of intraventricular hemorrhage include:
+	- abrupt changes in cerebral hemodynamics
+	- changes in intracranial pressure
+	- disturbances in osmotic equilibrium
+	- abnormalities of coagulation.
+- Strategies to maintain normal cerebral hemodynamics:
+	- Phenobarbital
+	- Neuromuscular paralysis
+	- Treatment with indomethacin  
+- Factors that alter cerebral haemodynamics that can result in intraventricular haemorrhage:
+	- Hypercapnea
+	- Hypoxia
+	- Fluctuations in arterial blood pressure
+	- Acidemia.
+- It is therefore critical that during the course of the anesthetic these parameters are maintained within acceptable ranges.
+- Preterm infants are at risk for retinopathy of prematurity (ROP) in which abnormal growth of retinal vessels can lead to scarring and blindness.
+- Though the degree of prematurity is the primary etiologic factor in the development of ROP, contributing factors are:
+	- Hyperoxia
+	- Hypocarbia
+	- Vitamin E deficiency
+	- Acidemia
+### Thermoregulation
+- The pediatric patient, especially the neonate, tends to become hypothermic during general anesthesia much faster than the adult.
+- Enhanced heat loss in the neonate is related to:
+	- Relatively larger surface area
+	- Thinner layer of insulating subcutaneous fat
+	- Limited capability for heat production.
+- Neonates primarily rely on nonshivering or chemical thermogenesis in brown adipose tissue for heat production.
+	- Thermogenesis in brown fat is mediated by the sympathetic nervous system and is stimulated by norepinephrine, resulting in triglyceride hydrolysis.
+- The thermoregulatory range is the ambient temperature range within which an unclothed subject can maintain normal body temperature.
+- The lower limit of the thermoregulatory range (critical temperature) is 1°C for an adult, but as high as 23°C and 28°C for the full-term infant and premature infant, respectively.
+	- The thermoregulatory range of the neonate is much narrower than that of the adult.
+- During anaesthesia and surgery, heat loss in the pediatric patient is further enhanced by:
+	- Decrease in the thermoregulatory threshold
+	- Low ambient temperatures of the operating suite (20°C to 22°C)
+	- Preparation of skin with cold solutions
+	- Infusion of cold solutions
+	- Anesthesia-induced vasodilation
+	- Use of dry anesthetic gases in high flow, nonrebreathing systems.
+- Intraoperative hypothermia will markedly delay emergence.
+- With the return of the thermostatic reflexes, oxygen consumption increases threeto fourfold as the metabolic rate is increased in order to produce heat.
+	- This additional demand on an immature cardiorespiratory system that is already compromised due to the residual effects of anaesthesia and surgery may precipitate cardiorespiratory failure.
+- Loss of heat during anaesthesia and surgery can be prevented by several simple measures:
+	- Raising operating room temperature to 28°C to 30°C
+	- Using radiant heat lamps
+	- Wrapping the extremities with cotton
+	- Using warm solutions for skin preparation
+	- Administration of warm infusion solutions and blood.
+- Inhaled gases should be heated and humidified.
+- Forced-air warming devices such as Bair-Hugger® as well as a recently introduced microprocessor controlled device (Allon System), which heats/cools recirculating water contained in a garment covering the patient, have been found to be effective in maintaining perioperative normothermia.
+### Fluid, Electrolyte and Renal Physiology
+- Neonates have:
+	- Increased total body water
+	- Increased extracellular fluid volume
+	- Increased water turnover rate
+	- Reduced glomerular filtration rate.
+- The neonatal renal tubules have a decreased ability to absorb:
+	- Sodium
+	- Bicarbonate
+	- Glucose
+	- Amino acids
+	- Phosphates
+- Neonates are obligate sodium losers and require sodium supplementation.
+- All of these factors contribute to potential for:
+	- Overhydration
+	- Dehydration
+	- Metabolic acidosis
+	- Hyponatremia
+- Above factors necessitate meticulous attention to intraoperative fluid therapy.
+- Third space translocation of fluids is relatively similar in neonates and adults
+	- Neonatal insensible losses vary greatly.
+- Increased insensible losses due to:
+	- Fever
+	- Radiant warmers
+	- Phototherapy
+	- Increased ambient temperature
+	- Decreased humidity
+- Neonates have decreased glycogen stores and are prone to hypoglycemia after brief periods of starvation.
+	- The preterm infant is at a greater risk for hypoglycemia.
+	- Glucose is an essential element of the intraoperative fluid plan.
+	- The term neonate requires 3 to 5 mg/kg/min and preterm neonates 5 to 6 mg/kg/min of glucose to maintain euglycemia.
+	- Neonate’s serum glucose should be maintained between 35 and 125 mg/ dL (1.9-6.9)
+	- Hyperglycemia predisposes to intracranial hemorrhage and should be avoided.
+	- Intraoperative serial glucose measurements provide a useful guide to glucose therapy.
+- Maintain haematocrit at 30% or higher due to:
+	- marginal cardiovascular reserve of the neonate
+	- leftward shift of the fetal hemoglobin dissociation
+## Neonatal Anaesthetic Pharmacology
+- The term and preterm neonates perceive pain and should be anesthetized with the same considerations used for adult patients. The neonatal catabolic response to surgery is similar to the adult, and surgical outcomes are improved when adequate anesthesia is provided. Recent studies have demonstrated that even the fetus perceives pain. Fetal procedural interventions such as cannulation of intrahepatic vein for exchange transfusions elicit stress responses as manifested by alterations in stress hormone levels and increased cerebrovascular pulsatility. Fetal intravenous fentanyl administration effectively blunts the stress response.
+### Inhalational Anaesthetics
+- All the commonly used inhalational anesthetics have been successfully utilized for pediatric anesthesia:
+	- halothane
+	- isoflurane
+	- sevoflurane
+	- desflurane
+- Neonates and infants demonstrate a greater degree of hypotension in response to inhalation aneasthetics.
+	- Related to:
+		- depression of myocardial contractility
+		- vasodilation
+		- reduced heart rate
+		- depression of compensatory reflex mechanisms.
+- Isolated myocardial tissue preparations have demonstrated that the depressant effects of inhalation anaesthetics on neonatal myocardium are greater than on adult myocardium.
+- Baroreceptor activity in awake newborn animals is decreased and inhalation anesthetics depress baroresponses in human and animal neonates to a greater extent than in adults.
+- For the above reasons, the margin of safety of inhalation anesthetics in neonates and small infants is narrow when compared to the older child or adult.
+- When compared to other inhaled agents, sevoflurane causes less bradycardia and myocardial depression.
+- In neonates with congenital heart disease the hemodynamic parameters are reasonably well maintained during induction with sevoflurane.
+	- In the severely compromised neonate, an opioidbased anaesthetic technique will provide greater hemodynamic stability.
+- Induction of anesthesia is commonly performed by facemask.
+- Halothane is popular in pediatric anesthesia due to:
+	- nonirritating to the airway
+	- has a relatively pleasant odor
+	- well suited for inducing anesthesia via facemask.
+- Sevoflurane shares the most desirable property of halothane, the lack of airway irritation, but its low blood–gas partition coefficient facilitates a much more rapid induction and emergence.
+- Unlike halothane, sevoflurane is associated with a significant incidence of postanesthetic delirium.
+### Intravenous Anaesthetics
+- Well-conducted pharmacokinetic and pharmacodynamic studies are lacking in children for most drugs.
+	- Dosing recommendations are extrapolated from adult data.
+	- It is hoped that the “Best Pharmaceuticals for Children Act 2002” will facilitate efforts to improve our understanding of drug handling and response in children.
+- The computer-derived “allometric-power model” has been found to be a useful tool in determining the physiological and pharmacokinetics variables that allow accurate paediatric anaesthesia dosing.
+- Most commonly used intravenous anesthetic drugs (thiopental, propofol, ketamine, and the opioids, fentanyl and remifentanil) have been safely used in infants with careful dosing adjustments.
+- Propofol is:
+	- A very shortacting drug
+	- Administered by infusion for maintenance of anaesthesia.
+	- Long-term infusion of propofol for sedation in pediatric patients in the intensive care unit setting has resulted in metabolic acidosis and fatal myocardial failure.
+		- It is recommended that propofol should not be used for long-term sedation in children.
+- Ketamine releases catecholamines
+	- Minimal depression of cardiovascular function
+	- Useful induction drug for patients with compromised hemodynamic state.
+	- Regained popularity due to the theoretical concept of preemptive analgesia.
+		- If given in small doses, 0.5 mg/kg prior, to surgical stimulation, ketamine has potent analgesic properties and may decrease subsequent postoperative opioid requirements.
+- Fentanyl:
+	- Minimal cardiovascular depressant effects
+	- Frequently used as a major component of the anaesthetic technique for critically ill neonates.
+	- Commonly utilized doses range from 12 ug/kg for abdominal surgery to 50 ug/kg for thoracic surgery.
+	- Profound respiratory depressant effect
+		- Its use in large doses may necessitate postoperative mechanical ventilation.
+- Remifentanil:
+	- Very short-acting opioid that
+	- Metabolized by erythrocyte esterase and is useful for stimulating procedures where extubation is desirable at the end of the surgery.
+	- Has a very high clearance, resulting in a short recovery time of approximately 2 to 3 min, even in infants.
+	- Large doses can occasionally produce bradycardia, which will adversely effect cardiac output in the neonate.
+## Muscle Relaxants
+- Succinylcholine is a depolarizing muscle relaxant
+	- Characterized by:
+		- rapid onset
+		- reliable intubating conditions
+		- short duration of action
+- Cholinergic effects pronounced in infants,
+	- administration should be preceded by atropine to prevent bradycardia.
+- Administration of succinylcholine to patients with undiagnosed occult myopathies has resulted in hyperkalemic cardiac arrest
+	- routine use in pediatric patients is no longer recommended.
+- Nondepolarizing muscle relaxants frequently utilized in children.
+- Neuromuscular transmission is immature at birth
+	- Reaches adult levels of maturity by 2 to 3 months of age.
+- Response of neonate to nondepolarizing muscle relaxants is characterized by wide variability.
+	- Clinically appears to be more sensitive to nondepolarizing muscle relaxants, and the administration of these drugs should be carefully titrated to the desired effect.
+- Newer benzylisoquinoline muscle relaxants (mivacurium, cisatracurium):
+	- Possess a more predictable duration of action, provided infant is normothermic
+	- Are devoid of significant cardiovascular side effects.
+	- Duration of action of cisatracurium and mivacurium in neonates and infants is similar to or shorter than that in children.
+- Vecuronium and rocuronium have a prolonged duration of action in infants.
+- Rocuronium has a rapid onset of action when used in larger doses and can be used as an alternative to succinylcholine for rapid sequence intubation.
+	- When used in this manner in the neonate, it has a prolonged duration of action.
+## Preoperative Assessment
+- Most of the surgery performed on the neonate is of an urgent if not emergent nature.
+- Congenital anomalies requiring surgery often have other associated anomalies.
+- Goals of pre-anaesthetic assessment:
+	- Estimate organ maturation and presence of concomitant diseases
+		- Elicit factors that will influence anaesthesia care
+		- Obtain detailed history
+		- Perform physical examination.
+- History should include:
+	- Gestational age
+	- Current age and weight
+	- Significant events at birth (eg, asphyxia, meconium aspiration, Apgar score,hypoglycaemic episodes)
+	- Maternal history (diabetes, alcohol, substance abuse)
+	- Neonatal ventilatory support (apnea, periodic breathing,respiratory distress, oxygen administration, and mechanical ventilation)
+	- Administration of vitamin K
+		- prevent haemorrhagic disease of the newborn
+	- Establish fasting status
+		- 2 hours for clear fluids
+		- 4 hours for breast milk
+		- 6 hours for formula feed
+- Physical examination should include:
+	- Assessment of hydration status
+		- Skin turgor
+		- Mucous membranes
+		- Fontanelle fullness
+		- Urine output
+	- Assess coexisting diseases (congenital heart disease, hyaline membrane disease).
+	- Signs of respiratory distress (RR, nasal flare, subcostal recession)
+		- Check oxygen saturation
+			- low oxygen saturation may be associated with respiratory disease or cyanotic congenital heart disease
+	- Signs of cardiovascular compromise (HR, BP, peripheral perfusion, capillary refill)
+- Hypovolaemia should be treated preoperatively. Signs include:
+	- BP less than 50 mmHg
+	- Heart rate greater than 160
+	- Urine output less than 1 mL/kg/h
+- Investigations
+	- Guided by clinical findings and underlying condition
+	- Laboratory examination should include recent:
+		- FBC and haematocrit
+		- Blood glucose
+		- Urea and electrolytes
+			- Calcium
+		- Liver function tests and billirubin
+		- Capillary blood gas
+	- Radiological investigations:
+		- CXR/AXR
+		- Echocardiogram
+		- Cranial/spinal/renal ultrasound
+- These babies are prone to hypoglycemia and hypocalcemia
+	- Intraoperative fluids should contain glucose and calcium.
+- Intravenous sites should be examined for patency.
+- If rapid blood replacement is warranted, ionized calcium should be monitored as neonatal citrate clearance is reduced.
+	- Hypocalcemia from rapid blood administration will adversely effect myocardial contractility.
+	- If ionized calcium cannot be measured, empiric administration of 1 mg of calcium gluconate for each milliliter of blood product administered should be considered.
+- Anaesthetic plan including risks should be discussed with parent/guardian and consent should be taken for anaesthesia including regional anaesthesia and blood transfusion if indicated.
+## General Principles of Anaesthesia in Neonates
+- Prepare and check all equipment that may be required, prior to the start of anaesthesia.
+![[E60ED4A7-BD88-4D84-8072-C1E882078709.jpeg]]
+### Monitoring
+- Standard monitoring must be applied prior to induction of anaesthesia.
+- This includes:
+	- oxygen saturation, ideally pre-ductal (right hand) and post-ductal (other limbs).
+		- A low post-ductal oxygen saturation may be a sign of low pulmonary blood flow, for instance due to significant pulmonary hypertension in a septic neonate
+		- ECG
+		- Non-invasive blood pressure
+			- The lower limit of mean arterial blood pressure can be estimated to be equivalent to the gestational age in weeks; by about 6 weeks of age, the normal mean arterial pressure is 50-60 mmHg.
+		- Basic intra-operative monitoring should ideally also include:
+			- precordial or oesophageal stethoscope
+			- capnography
+### Airway Equipment
+- Intubation and ventilation will be required unless it is an extremely short procedure.
+- The size of the tracheal tube will depend on the weight of the neonate; most term babies require a size 3.5 tracheal tube.
+- Make sure that strapping is available.
+- Precut the tape to fix the tracheal tube firmly in place immediately after intubation.
+- An appropriately sized oral airway (preterm 000–00 and term neonate 0) and face mask should be available.
+- Dead space within the apparatus is kept to a minimum with the appropriate sized breathing circuit and filter.
+
+![[85A5A1DC-A3EE-4BB8-869D-AC526EC83AC5.jpeg]]
+
+### Warming
+- Neonates are extremely vulnerable to heat loss and hypothermia.
+- Hypothermia (core temperature <36°C) is associated with:
+	- postoperative apnoeas
+	- coagulopathy
+	- poor wound healing
+	- worsened outcomes.
+- The theatre environment should be warmed (or air conditioning turned down) to at least 20-23°C and the baby kept covered as much as possible.
+- A forced air warmer and a radiant heater should be used if available.
+- Warmed packs should be considered if other sources of warming are not available; take care not to place warmed packs directly in contact with the skin.
+- Fluids and blood products should be warmed.
+- The temperature of the baby should be measured unless the procedure is very quick.
+### Preparation of Drugs
+- The first thing to be drawn up is a saline flush so that the IV line can be flushed immediately after a drug is given.
+- Calculate the correct dose of analgesics, muscle relaxants and antibiotics and draw these up.
+- Double check dose calculations–it is easy to make 10-fold errors in neonatal practice.
+- Emergency drugs should be drawn up in the appropriate doses.
+	- These include:
+		- atropine (20mcg/kg)
+		- suxamethonium (1-2mg/kg)
+		- adrenaline (10mcg/kg i.e. 0.1ml/kg 1:10,000 adrenaline).
+### Induction of Anaesthesia
+- Inhalational induction ideally with sevoflurane
+	- halothane can also be used.
+- MAC of volatile agents is lower in neonates than in older children
+	- The onset of anaesthesia is relatively fast due to:
+		- rapid respiratory rate
+		- high cardiac output
+	- Neonatal myocardium is extremely sensitive to the negative inotropic effects of volatile agents, so deep volatile anaesthesia must be avoided.
+	- Sevoflurane can cause apnoea at high concentrations and the induction concentration should not exceed 6%.
+- The neonate might require assisted mask ventilation until an airway is secured as they may hypoventilate during induction:
+	- turn the inspired concentration of volatile agent down if assisted ventilation is used, otherwise the child will become very deep, very quickly.
+	- Halothane is more likely to cause myocardial depression and the induction concentration should be kept less than 2%.
+	- Halothane can cause arrhythmias in high concentrations, especially if the CO2 is also high.
+	- Atropine (20mcg.kg-1 IM or IV) should be considered prior to induction to reduce bradycardia, particularly if halothane is used.
+- IV induction with ketamine (2mg/kg) or thiopentone (2-4mg/kg) can be performed
+	- Induction of anaesthesia will be rapid (the anaesthetist must be confident they can manage the airway).
+	- Recovery may be delayed.
+	- Ketamine is useful for the critically unwell neonate
+		- cardiovascular depression is minimised.
+	- Use glycopyrrolate (10mcg/kg) or atropine (20mcg/kg IV or IM) to minimise the secretions caused by ketamine.
+### Maintenance of Anaesthesia
+- Maintained with volatile, oxygen and air or nitrous oxide.
+- A ketamine infusion run at 2-4mg/kg/hr is a useful alternative in unstable neonates.
+- Attention must be paid when positioning the patient and pressure points must be protected.
+- Whenever the child is moved, check the position of the tracheal tube as it is very easy to displace the tracheal tube in neonates, which could have potentially catastrophic consequences.
+### Pain Management
+- (see full summary later)
+- Pain pathways are fully developed before birth, and neonates display the physiologic, hormonal, and metabolic markers of the stress response.
+- Preterm infants have been shown to have an increased sensitivity to pain and even non-painful stimuli may be perceived as painful.
+- Long-term effects on pain responses have been documented in neonatal boys who were circumcised without analgesia.
+- Immature metabolic pathways for drugs and immature respiratory control mean that neonates are more sensitive to the side effects of analgesics commonly used during surgery.
+- Multimodal analgesia should be used for all neonates.
+	- Options include:
+		- paracetamol (7.5mg.kg-1 IV, or 20mg.kg-1 PR)
+		- opioids such as fentanyl or morphine titrated to effect (fentanyl 1mcg.kg-1 IV, morphine 10-20mcg.kg-1 IV)
+		- Regional anaesthesia or infiltration of local anaesthetics should be used where possible.
+		- Non-steroidal anti-inflammatory drugs (NSAIDs) should be avoided because of the immature renal system.
+		- Non nutritive sucking, sucrose and breast milk have also been shown to be safe and effective for reducing pain associated with procedures such as cannulation.
+### Invasive Monitoring
+- Invasive monitoring (intra-arterial and central venous pressure) may be indicated depending on the type of surgery and the physiological status of the patient.
+	- Mandatory in circumstances such as cardiac surgery where there is the potential for:
+		- rapid changes in blood pressure
+		- use of inotropes
+		- potential for large volume blood loss.
+- In other circumstances, for instance neonatal laparotomy, the risks/ benefits should be considered.
+- Invasive monitoring is:
+	- time consuming to insert
+	- associated with complications
+	- may delay the start of surgery.
+- If the surgery is sufficiently urgent it may be necessary to proceed without.
+- 24G or 22G catheters may be inserted into radial or femoral arteries for arterial monitoring, but distal limb perfusion must be checked.
+- 4Fr or 5Fr central lines may be inserted into the femoral or internal jugular vein, ideally with ultrasound guidance.
+- Near infrared spectroscopy (NIRS) can be used, if available, as a non-invasive monitor of tissue perfusion.
+### Oxygen
+- Unmonitored oxygen therapy leading to hyperoxia in neonates is associated with:
+	- retinopathy of prematurity
+	- bronchopulmonary dysplasia
+	- damage to the developing brain.
+- Neonatal exposure to 100% oxygen is rarely necessary, and should be avoided except prior to interventions such as intubation.
+- Hypoxia is also harmful, so targeting oxygen saturation levels between 91% and 95% is probably the safest practice.
+- In low income countries where it may not be possible to deliver a variety of inspired oxygen mixtures, an air/ oxygen mix should be used if possible and oxygen saturations should be monitored before, during and after anaesthesia.
+### Postoperative Apnoea
+- Defined as a pause in breathing of more than 20 seconds or cessation of respiration of any duration accompanied by bradycardia or oxygen desaturation.
+- Preterm infants are particularly at risk apnoeas due to an immature respiratory control centre.
+	- Potentiated by general anaesthetic agents, and all term neonates <44 weeks post-conceptual age (PCA) and pre-term neonates (<60 weeks PCA) are at risk of postoperative apnoea.
+- Infants most at risk:
+	- Infants with multiple congenital abnormalities
+	- a history of apnoea and bradycardia
+	- chronic lung disease and anaemia (Hb <10g.dl-1)
+- Prophylactic caffeine (10mg.kg-1 orally) can be given to prevent post-operative apnoea in premature neonates.
+- Intravenous aminophylline (5mg.kg-1) is an alternative although it has more side effects:
+	- tachycardia
+	- jitteriness
+	- irritability
+	- feed intolerance
+	- vomiting
+	- hyperglycaemia.
+- It is important to allow sufficient time for neonates to wake up at the end of the operation, and they should be closely monitored in recovery until the anaesthetist is happy that they have returned to their normal awake state.
+- All neonates <44 weeks post-conceptual age (PCA), ex-preterm infants up to 60 weeks PCA and any patients with whom there is any concern regarding the possibility of post-operative apnoeas should have post-operative apnoea and oxygen saturation monitoring for 24 hours.
+
+![[Neonatal Apnoea.pdf]]
+
+### Hypoglycaemia and Hyperglycaemia
+- Persistent, recurrent or severe hypoglycaemia (blood glucose <2.5mmol.l-1) may lead to irreversible neurological injury in neonates.
+- Preterm infants and those with intrauterine growth retardation (IUGR) are at particular risk of hypoglycaemia.
+- Fasting times should be minimized, blood glucose should be monitored and glucose containing maintenance fluids should be continued if they have been required prior to surgery.
+- Treat hypoglycaemia with a bolus of 2ml/kg of 10% dextrose.
+- Hyperglycaemia (blood glucose >10mmol.l-1) is also detrimental and is associated with increased mortality and sepsis in extremely low birth weight infants, so do not use boluses of 50% glucose.
+### Perioperative Fluids
+- Assessment of the fluid status of the neonate will help to guide peri-operative fluid replacement.
+- It is helpful to consider preoperative maintenance fluids, intraoperative fluids and postoperative maintenance.
+#### Preoperative Maintenance Fluids
+- A neonate may require preoperative maintenance fluids if they are unable to take fluids by mouth before surgery.
+- In the first few days of life, the sodium requirement is not high, and typically 10% dextrose is recommended.
+- After the postnatal diuresis has occurred at around day 3 of life, an isotonic fluid containing 5% dextrose and sodium should be used, and electrolytes and plasma glucose monitored.
+
+![[C2EDF5C9-00A3-4D7C-93A1-3746C69EA289.jpeg]]
+
+#### Intraoperative Fluids
+- During surgery, isotonic fluids such as Hartmann’s or Ringer’s lactate must be used for resuscitation, replacement and maintenance to:
+	- maintain intravascular fluid volume
+	- replace fluid deficits
+	- avoid hyponatraemia
+- Blood glucose should be monitored.
+- The decision whether to order or administer blood or blood products will depend on:
+	- the cardiovascular status of the neonate
+	- presence of haemorrhage
+	- type of surgery
+- The most recent blood results and the normal expected values.
+
+![[8832EC99-E9B2-4A4B-91C2-F17D1AAC31BD.jpeg]]
+
+- Once the decision to transfuse has been taken it may be worth transfusing to higher haemoglobin levels to avoid exposure to further donors.
+- Ideally, the haematocrit should be measured during surgery using near-patient testing device such as a HemoCue® or a blood gas machine.
+- The British Committee for Standards in Haematology (BCSH) has a suggested transfusion ‘trigger’ for neonatal top-up transfusion (Transfusion Guidelines for Neonates and Older Children (http://www.bcshguidelines.com).
+
+![[E537958F-79C0-45A0-9B13-1B4E344C0195.jpeg]]
+
+### Transfer of Neonates
+- Neonatal surgery should ideally be undertaken in an environment where the facilities and expertise are available for definitive treatment and on-going care.
+- In certain situations, if the baby is unstable and not suitable for transfer to theatre, it may be necessary to undertake surgery on the NICU itself.
+- In certain situations the baby may need to be transferred to a specialist centre.
+- In low-income countries this may not be an option and treatment may not always be possible.
+- Prior to transfer the appropriate personnel, equipment, drugs and fluids should be prepared and checked using a transfer checklist.
+- The neonate should be carefully assessed for stability for transfer or if necessary transfer may need to be delayed for further resuscitation and optimisation.
+- Check that the monitoring is functional and the patient is adequately fluid resuscitated. Take time to ensure that the neonate is stable prior to transfer on the current drug infusions and mode of ventilation.
+- Careful monitoring during transfer is extremely important and will highlight clinical trends. A detailed handover is essential for good continuity of care.
+## Inguinal Hernia Repair
+- Inguinal hernia is common in premature neonates.
+- The timing of surgery depends on:
+	- the risk of incarceration
+	- bowel strangulation or testicular atrophy
+	- risk of postoperative apnoea
+	- potential harm to neurodevelopment.
+- The major anaesthetic risk is postoperative apnoea, which has been shown to vary from 4.7% to 49% of patients.
+- Some units prefer spinal anaesthesia for inguinal hernia repair, others use a balanced anaesthetic technique using general anaesthesia with intubation, supplemented with a regional technique.
+	- There is currently not enough evidence to show whether the incidence of apnoea is lower using spinal anaesthesia, and the choice is usually determined by local preference of the surgeon and anaesthetist.
+- Caudal anaesthesia using 0.25% bupivacaine 0.75ml.kg-1 provides excellent supplementary analgesia for inguinal hernia repair under general anaesthesia.
+- Alternatively, an ilioinguinal block can be performed with 0.5-1.0ml.kg-1 0.25% bupivacaine.
+- These patients may require post-operative apnoea monitoring dependent on their PCA, as discussed earlier, and some premature infants will require post-operative ventilation or CPAP for treatment of apnoea.
+- Paracetamol (7.5mg.kg-1 IV or 20mg.kg-1 rectal suppository) provides adequate postoperative analgesia.
+## Anorectal Malformations
+- Anorectal malformations (ARM) occur in approximately 1:5000 live births.
+- They represent a wide spectrum of disease:
+	- from a simple membrane involving the distal rectum and anus
+	- more complex anomalies involving the genital and urinary tract.
+- Spinal anomalies are frequently found in these patients, and can include:
+	- Spinal dysraphism
+	- Low lying cord (LLC)
+	- Tethered cord
+- Plain spinal Xrays and spinal ultrasound are used to screen for these abnormalities
+	- may be normal in occult dysraphism.
+- Caudal anaesthesia may be beneficial and can be used in ARM if there is certainty that anomalies of the spine and spinal cord have been excluded.
+- ARM may be associated with other anomalies (VACTERL):
+	- Vertebral
+	- Anorectal
+	- Cardiac
+	- Tracheoesophageal
+	- Renal
+	- Limb abnormalities
+- Primary surgical repair can be undertaken in the neonatal period
+	- more commonly a colostomy is performed and a definitive repair is carried out at a later date
+- If caudal anaesthesia is contraindicated an opioid-based technique is used (fentanyl 1-2mcg.kg-1 or morphine 20-50mcg.kg-1 [0.02-0.05mg.kg-1], with infiltration with local anaesthetic.
+- Rectal suppositories cannot be used but intravenous paracetamol is a useful adjunct if available.
+- Standard monitoring is usually all that is required.
+- Opioids should be carefully titrated as the usual aim is to extubate at the end of surgery.
+- The patient may be positioned supine or prone depending on the surgical technique.
+- Prone positioning is associated with increased risk to pressure areas, abdominal compression resulting in difficulty with ventilation, endobronchial intubation or tracheal tube displacement.
+- Long-term outcome is variable depending on the complexity of the anorectal malformation.
+- These patients usually require serial anal dilatations following repair.
+## Intestinal Malrotation
+- Malrotation occurs in approximately 1:500 live births.
+- Normal intestinal rotation around the superior mesenteric artery (SMA) and fixation during foetal development is interrupted.
+- It may also be associated with:
+	- congenital diaphragmatic hernia
+	- exomphalos
+	- gastroschisis
+- Nearly 50% of cases will present in the first week of life most commonly with bilious vomiting secondary to duodenal obstruction.
+- This may be due to:
+	- midgut volvulus
+	- physical compression secondary to peritoneal tissue bands
+	- abnormal locations of the duodenum and its surrounding structures
+- If the condition is diagnosed early the neonate may be relatively well with only subtle abdominal signs.
+- The neonate may present late with frank sepsis and peritonitis secondary to perforated or necrotic bowel.
+- The gold standard radiological investigation is an upper GI contrast series.
+	- Plain X-rays are useful if there is concern of another diagnosis or to exclude visceral perforation.
+- These patients require adequate volume resuscitation and electrolyte replacement for ongoing fluid losses and should be taken to theatre as soon as is feasible.
+- A nasogastric tube is inserted to suction the stomach.
+- Prophylactic antibiotics such as co-amoxiclav or benzylpenicllin, gentamicin and metronidazole are required.
+- Ideally invasive monitoring is inserted
+	- should not delay surgery in the sick neonate.
+- If the gut has been compromised, inotropes may be needed and any coagulopathy will require correction.
+- A central venous line may be required for ongoing total parenteral nutrition in the septic neonate.
+- An opioid based technique can be used although a caudal may be considered if the patient is haemodynamically stable, there are no other contra-indications and extubation is anticipated.
+- Post-operative NICU care and ventilation is often necessary.
+- Long-term outcomes depend on the extent of the necrotic bowel. Some patients will develop short bowel syndrome and if there is extensive bowel necrosis the mortality is 100%.
+
+![[Intestinal Obstruction.docx.pdf]]
+
+## Pyloric Stenosis
+
+![[Pyloric Stenosis 1.pdf]]
+
+## Necrotizing Enterocolitis
+- Occurs in approximately 0.5-5:1000 live births
+	- more than 90% are preterm
+- Occurs in approximately 10% of infants of birth weight less than 1500 g.
+- Mortality rate between 10% and 30%.
+	- morbidity and mortality inversely proportional to post-conceptual age and birth weight.
+- The aetiology of NEC is multifactorial.
+	- Risk factors include:
+		- vascular compromise of the gastrointestinal tract
+		- commencement of enteral feeding
+		- immature gastrointestinal immunity
+		- sepsis.
+		- Hypoxia or ischaemia combined with reduced splanchnic blood flow can occur with:
+			- patent ductus arteriosus (PDA)
+			- cyanotic heart disease
+			- respiratory distress syndrome
+			- shock
+			- asphyxia
+			- use of umbilical catheters
+- NEC may present with subtle gastrointestinal signs including:
+	- abdominal distension
+	- intolerance of feeds
+	- abdominal tenderness
+	- blood in the stool
+	- bilious vomiting
+	- perforation and peritonitis with systemic signs:
+		- shock
+		- temperature instability
+		- acidosis
+		- disseminated intravascular coagulopathy.
+- Supine and decubitus plain Xrays may show:
+	- presence of hepatic venous gas
+	- free intraperitoneal air
+	- dilated bowel loops
+	- ascites
+	- asymmetric bowel gas patterns along with pneumatosis intestinalis
+- Initial management includes:
+	- discontinuation of enteral feeds
+	- insertion of a nasogastric tube
+	- commencement of broadspectrum antibiotics such as benzylpenicillin, gentamicin and metronidazole.
+- Ongoing fluid and electrolyte management with parenteral nutrition will be required.
+- Frequent clinical monitoring of systemic and abdominal signs together with radiographic examination, monitoring of laboratory values and acid-base status guides further management.
+- The preoperative assessment should evaluate and optimise any:
+	- cardiovascular instability
+	- metabolic acidosis
+	- coagulopathy
+	- respiratory compromise.
+- If the patient is too unstable it may be necessary to carry out surgery on the NICU.
+- These patients are often already intubated and ventilated.
+- Surgical intervention is indicated for:
+	- Bowel necrosis and/or perforation.
+	- Deterioration despite maximal nonsurgical therapy.
+- Recent surgical trend toward bedside peritoneal drainage
+	- decreases frequency of formal laparotomy.
+- About 50% of those patients treated at the bedside require no further procedure.
+- Invasive monitoring is useful to:
+	- guide fluid management
+	- allow frequent arterial blood gas sampling although this must be balanced against the risk of limb ischaemia in the preterm neonate.
+- Insertion of an arterial or a central line should not delay the start of surgery in the sick infant.
+	- may be technically challenging to insert.
+- There is a significant risk of coagulopathy and significant blood loss, and inotropes are often required.
+- Intraoperative anaesthetic management of these patients is frequently complicated by:
+	- extreme prematurity
+	- hemodynamic instability
+	- acidosis, respiratory failure
+	- sepsis
+	- coagulopathy
+	- electrolyte disturbance
+	- patent ductus arteriosus
+- Marked abdominal distension is common and significantly reduces FRC.
+	- If the airway is not already secured prior to surgery, intubation of these fragile infants will be accompanied by rapid and profound desaturation if not accomplished skillfully and rapidly following preoxygenation.
+- Severe hemodynamic instability may be aggravated by inhaled anesthetic agents.
+- Opioid-based anesthetic techniques, combined with muscle relaxants, are associated with less hemodynamic instability and may be supplemented by judicious use of low-dose inhaled agents.
+	- A high dose fentanyl technique (10-20mcg.kg-1) may be used to promote cardiovascular stability and reduce the systemic stress response.
+	- Duration of action of opioids, such as fentanyl, whose clearance is dependant upon hepatic blood flow, is markedly prolonged in neonates with increased intraabdominal pressure.
+- Ketamine is also a good choice for the hemodynamically unstable infant.
+- Nitrous oxide will aggravate gut distension and should be avoided.
+- Low cardiac output state, organ hypoperfusion and acidosis secondary to large fluid shifts is common, and large volumes of intravenous fluids are frequently required.
+- Reliable intravenous access is essential to facilitate administration of:
+	- fluids
+	- anaesthetic
+	- resuscitation drugs
+	- blood products
+	- inotrope infusions.
+- Intraoperative fluid requirements are considerable due to:
+	- evaporative and third-space losses
+	- bleeding
+- It is common for these patients to require several blood volume transfusions, including the administration of fresh frozen plasma and platelets.
+	- based on laboratory results or clinical evidence of bleeding.
+- Worsening respiratory status and increased oxygen requirement is common after resuscitation and transfusion, especially in the presence of marked abdominal distension.
+- In the absence of arterial access, central venous samples should be drawn to monitor:
+	- hematocrit
+	- electrolytes
+	- glucose
+	- bloodgas
+	- coagulation status.
+- A central venous catheter is the preferred route for administration of dopamine, with the aim of increasing intestinal perfusion and cardiac output.
+- The majority of these patients will require continued ventilation and sedation in the postoperative period.
+- Hypothermia and glucose instability are common and should be managed appropriately.
+
+![[NEC.docx.pdf]]
+
+## Congenital Diaphragmatic Hernia
+- Congenital diaphragmatic hernia (CDH) occurs in approximately 1:3000 live births.
+	- In most cases the aetiology remains unknown.  
+- Characterized by herniation of abdominal viscera into the chest via a diaphragmatic defect
+	- Pulmonary vascular structure and reactivity are abnormal and there is a varying degree of lung hypoplasia.
+- Anomalies associated with CDH include:
+	- cardiovascular defects
+	- intestinal malrotation.
+- Morbidity and mortality is related to:
+	- the degree of pulmonary hypertension
+	- right ventricular dysfunction
+	- lung hypoplasia
+- Mortality from CDH correlates with:
+	- degree of pulmonary hypoplasia
+	- persistent pulmonary hypertension
+	- presence of associated congenital heart disease.
+- Left hemidiaphragm is more frequently involved than the right.
+- A pre-operative echo is performed as a significant proportion of CDH have associated cardiac anomalies.
+- Mortality still remains high in patients with significant coexisting congenital cardiac disease.
+- It is generally accepted that delaying surgery, usually for 24-48 hours, allows a period of stabilisation.
+- The reduction in pulmonary artery pressures and improvement in right ventricular dysfunction may improve outcome.
+- Surgery may need to be performed whilst the neonate is on high-frequency oscillation ventilation or extra-corporeal membrane oxygenation.
+- Antenatal ultrasound diagnosis of CDH is important.
+	- It is safer to transport the mother to a tertiary care facility than it is to transport a sick newborn.
+	- Diagnosis made postnatally when the abnormal bowel loops can be seen within the thoracic cavity.
+- Recent strategies intended to reduce morbidity of CDH include:
+	- delayed surgery
+	- lung-protective ventilatory management
+	- high-frequency oscillation (HFO)
+	- extracorporeal membrane oxygenation (ECMO)
+- Inhaled nitric oxide may help stabilize a patient with severe pulmonary hypertension prior to ECMO cannulation, but does not appear to improve outcomes.
+- Strategies employed with variable success:
+	- Intrauterine fetal tracheal occlusion
+	- antenatal steroids
+	- surfactant administration
+- Pulmonary hypoplasia is associated with reduced pulmonary circulatory cross-sectional area.
+	- In CDH this phenomenon is aggravated by excessive pulmonary vascular muscularization.
+	- Marked increase in pulmonary vascular resistance may cause life-threatening pulmonary hypertension.
+	- Factors that will cause pulmonary vasoconstriction:
+		- hypoxia
+		- hypercarbia
+		- acidosis
+	- Persistent pulmonary hypertension causes right-to-left shunting via the patent ductus arteriosus and foramen ovale, thus worsening preexisting hypoxia.
+	- Some CDH patients demonstrate remarkable lability in their oxygenation status, reflecting a reversible component of pulmonary hypertension.
+- In the past, attempts were made to treat this reversible component by vigorous hyperventilation.
+	- It is now apparent that these efforts were complicated by iatrogenic injury to the already hypoplastic lungs, which ultimately contributed to poor outcomes.
+		- There has been a significant improvement in survival over the past 20 years due to the introduction of ‘gentle ventilation’ strategies:
+			- permissive hypercapnoea (PaCO2 <70mmHg)
+			- limiting inflation pressures (avoid PIP>25cm H2O and PEEP > 5 cm H2O)
+		- accepting relative hypoxaemia (aim for pre-ductal SpO2 90-95%)
+		- HFO may be employed if there is failure to achieve these parameters with conventional methods.
+- Severe oxygenation failure or significant respiratory and hemodynamic instability may indicate the need for ECMO.
+- Until recently CDH was considered to be one of the few true neonatal surgical emergencies.
+	- evidence suggests that in unstable patients a preoperative stabilization period may be beneficial (typically lasting from a few hours to several days) utilizing:
+		- sedation
+		- mechanical ventilation
+		- if needed, nitric oxide, HFO and/or ECMO
+- Early repair in unstable patients increases intraabdominal pressure, thereby decreasing thoracic compliance and worsening respiratory function.
+### Anaesthetic Management
+- Preoperative assessment must pay particular attention to:
+	- presence of significant pulmonary hypertension
+	- ventilation requirements
+	- associated cardiac anomalies.
+- If the infant is not already intubated, anaesthesia is induced with care to avoid gastric insufflation with bag valve mask ventilation and further lung compression.
+- A nasogastric tube is inserted to decompress the stomach. Invasive monitoring is required to allow serial blood gas measurement.
+- There is a risk of blood loss and a unit of packed red cells should be available.
+- In patients with significant pulmonary hypertension, having nitric oxide available in theatre may be critical for treatment of pulmonary hypertensive crises.
+- For those infants on ECMO or HFO, surgical repair of CDH is frequently performed in the neonatal intensive care unit (NICU).
+- GA in a critically ill newborn in a location outside the operating room presents a significant challenge and a detailed discussion is outside the scope of this review.
+	- However, critical elements in the anesthetic care of patients in NICU locations include:
+		- The unfamiliar environment
+		- Lack of space
+		- Poor lighting
+		- Availability of equipment
+		- Supplies and assistance
+		- Suboptimal access to the patients airway, lines and monitors
+		- Inability to deliver volatile anesthetic agents via convention neonatal ventilator systems.
+- The relative risks of providing care in the NICU should be balanced with those of transporting a sick neonate on ECMO or HFO to the operating room.
+- Anesthetic considerations in patients with CDH include:
+	- Avoidance of nitrous oxide because it will diffuse into the intestine, thus increasing the volume of the gut herniated in the thoracic cavity and compromising ventilation.
+	- Excessive ventilatory pressures following hernia reduction should not be used in an attempt to expand the hypoplastic atelectatic lung.
+		- This strategy may result in pneumothorax on the contralateral (good) side and will also contribute to iatrogenic lung injury.
+- The abdominal cavity in patients with CDH is underdeveloped.
+	- After reduction of the hernia, the abdomen may not be able to accommodate all the viscera.
+	- If excessive force is used to close the abdomen the resultant increase in intraabdominal pressure will:
+		- Displace the diaphragm cephalad
+			- Reduces FRC
+		- Compress the vena cava and reduce cardiac output.
+- The anesthesiologist should inform the surgeon if primary abdominal closure is felt to be causing significant cardiorespiratory compromise.
+- If the repair is performed while on ECMO there is increased potential for significant bleeding.
+- All equipment and supplies required to administer fluids and transfuse blood products must be immediately available.
+- These patients often suffer from chronic respiratory disease, gastro-oesophageal reflux disease and neurodevelopmental delay.
+
+![[Congenital Diaphragmatic Hernia.docx.pdf]]
+
+## Tracheo-oesophageal Fistula
+- TOF occurs in approximately 1:3000 live births.
+	- It arises during foetal development as a result of incomplete separation of the oesophagus from the laryngotracheal tube.
+	- It is classified based on the site and presence of the fistula and whether there is oesophageal atresia.
+	- There may be other associated VACTERL anomalies.
+
+![[849AB9AE-B29E-45AC-8CF7-2F15F7A7029F.jpeg]]
+
+- The most commonly encountered variety consists of a blind upper esophageal pouch and a fistula between the trachea and the lower esophageal segment.
+- Classically present within a few hours of birth with:
+	- frothy sputum as they are unable to swallow oral secretions
+	- delayed diagnosis is associated with episodes of coughing and choking associated with cyanosis, particularly if feeding is attempted.
+- There may be copious oral secretions and abdominal distension due to gastric insufflation via the fistula.
+	- Left untreated the neonate will develop aspiration pneumonia.
+- The diagnosis of oesophageal atresia is confirmed if it is not possible to pass a nasogastric tube and the chest Xray will show the nasogastric tube coiled in the proximal blind-ending oesophagus.
+	- There may be an absent gastric bubble in isolated oesophageal atresia without a tracheoesophageal fistula.
+
+![[D8B532DF-A33D-4561-BCE6-BBB09A5AFCF5.jpeg]]
+
+- Bronchscopic evaluation of infants with TEF reveals that nearly 90% of these infants have anomalies of the tracheobronchial system, such as tracheomalacia and tracheal stenosis.
+- Pulmonary aspiration of oropharyngeal secretions from the blind upper pouch or of gastric contents through the fistula may further worsen the infants respiratory status.
+- Between 30% and 40% of patients with TEF are premature and 22% have major cardiac anomalies:
+	- ventricular septal defect
+	- tetralogy of Fallot
+	- atrial septal defect
+	- coarctation of aorta
+- Improved perioperative and neonatal intensive care has contributed to nearly 100% survival in those infants with no associated anomalies and without pulmonary complications.
+- Those infants at highest risk of death weigh less than 1500 g at birth and have associated cardiac or chromosomal anomalies.
+- The goals of pre-operative management are to:
+	- stabilise the child
+	- minimise respiratory embarrassment
+	- assess for timing of surgery.
+- A nasogastric tube is inserted into the upper oesophageal pouch to drain secretions.
+- The patient must be nursed head up or on the side to minimise the risk of aspiration.
+- Intravenous fluids and prophylactic antibiotics should be commenced.
+	- This allows time for investigations such as an echocardiogram to exclude other associated congenital abnormalities.
+### Operative Management
+- Preferred surgical approach is ligation of the fistula and primary anastomosis of the esophageal segments.
+- Increased risk in:
+	- Prematurity
+	- Significant comorbidity
+	- Pneumonitis
+- Increased risk may dictate a staged approach with initial gastrostomy under local anesthesia.
+- Definitive repair is carried out later after improvement of the pulmonary status and overall stabilization.
+- A long atretic esophageal segment can be particularly challenging and may require:
+	- a colonic or jejunal interposition graft
+	- gastric tube
+	- gastric transposition to bridge the two ends of the esophagus.
+### Anaesthetic Management
+- Management of the airway is a crucial:
+	- The objective is minimise the gas flow into the gastrointestinal (GI) tract while avoiding aspiration of gastric contents.
+	- Gastric inflation will:
+		- limit diaphragmatic excursion
+		- compromise ventilation
+		- increase intraabdominal pressure
+		- decrease cardiac output by decreasing venous return
+- Aspiration of gastric contents contributes significantly to perioperative morbidity and mortality.
+- Fistula typically located on the posterior wall of the mid-trachea.
+	- May enter at any point between the bronchi, carina, (appearing bronchoscopically as a trifurcated trachea), and the cervical region.
+- The endotracheal tube tip should be positioned above the carina, but below the fistula with the bevel of tracheal tube facing anteriorly.
+- Prior to repair the surgeons may perform flexible or rigid bronchoscopy to assess the level of the fistula and to see if there is a second or proximal fistula.
+	- Take note of the distance measured from the cords to the fistula to guide tracheal tube placement; the fistula is mid-tracheal in two thirds of cases, and located at level of the carina in one third of cases.
+- Awake intubation following preoxygenation is an attractive technique that avoids the use of positive pressure ventilation, thus avoiding gastric distension.
+	- Inhalational/IV induction of anesthesia, maintaining spontaneous ventilation, has also been employed with success, as has muscle relaxation before intubation.
+- Accurate positioning of the endotracheal tube can be accomplished by using an endotracheal tube without Murphy eye and deliberate endobronchial intubation.
+	- The tube is then withdrawn gradually until breath sounds are heard bilaterally.
+	- The tube should be rotated so that the bevel faces anteriorly.
+- Occasionally gas escape via the fistula cannot be prevented by careful tube position alone.
+	- Occlusion of the fistula with a Fogarty catheter, either with the aid of bronchoscopy or less commonly in a retrograde manner, via a gastrostomy, may be necessary to isolate the airway from the GI tract.
+- Avoid tension pneumothorax during bronchoscopy by limiting insufflation of oxygen via the bronchoscope.
+- The already small cross-sectional area of the trachea is significantly compromised by the simultaneous presence of an endotracheal tube and bronchoscope, markedly increasing expiratory resistance and significantly limiting escape of gas from the lungs.
+- Whatever technique is ultimately used to secure the airway, frequent auscultation of the chest is required to confirm appropriate tube position.
+- Fistula ligation and esophageal repair are performed via a right thoracotomy
+	- Entail significant lung retraction and compression with periods of difficult ventilation, hyoercapnoea and acidosis.
+		- Periods of manual ventilation may be required.
+		- ETT migration down the right mainstem bronchus during the thoracotomy will significantly compromise ventilation.
+		- Migration of the endotracheal tube into the fistula will cause:
+			- prompt desaturation
+			- a diminished or absent end-tidal carbon dioxide waveform
+			- loss of breath sounds.
+	- If gastric distension occurs prior to ligation of the fistula, the tracheal tube should be disconnected intermittently to decompress the stomach via the airway.
+	- An arterial line is useful to facilitate arterial blood gas measurement as end tidal CO2 measurement is unreliable.
+		- Alternatively, transcutaneous CO2 monitoring can be used.
+		- Hypercapnoea and acidosis is of particular importance in the presence of certain cardiac anomalies as the increased pulmonary vascular resistance can lead to right-to-left shunting and severe hypoxia.
+- Other pitfalls include ligation of the wrong structure, intubation of the fistula and endobronchial intubation.
+- A balanced anaesthetic should be given, with bolus fentanyl analgesia as required (1-2mcg.kg-1).
+- Blood loss should be minimal and Ringer’s lactate 10-20ml.kg-1 is usually all that is required.
+- The wound should be infiltrated with local anaesthetic at the end of surgery.
+- Some term infants born in good condition and with normal preoperative pulmonary function may be extubated at the end of surgery; most are likely to require post-operative ventilation and they should be transferred to a facility able to provide this level of care for their surgery.
+- Many patients will require serial dilatation of the oesophagus during infancy.
+### Postoperative Considerations
+- More aggressive approaches to postoperative pain control have included single-dose intrathecal morphine and epidural catheter techniques.
+	- The latter have been used with variable success via both the caudal and lumbar routes.
+	- The above techniques may facilitate early weaning and extubation, which is a desirable goal in most patients with TEF.
+	- In those infants with a large gap between the esophageal ends, the anastamosis may be constructed under tension.
+		- In these circumstances, postoperative ventilation, sedation, paralysis, and neck flexion may reduce the incidence of anastamotic leak.
+			- Evidence supporting this strategy is inconclusive.
+- Infants with TEF typically have deficient tracheal cartilage that occasionally results in tracheal collapse after extubation and may require immediate reintubation.
+
+![[Tracheo-Oesophageal Fistula, Oesophageal Atresia.docx.pdf]]
+
+## Gastroschisis and Exomphalos
+- Gastroschisis and exomphalos are both ventral wall defects resulting in herniation of abdominal viscera.
+- Diagnosis is ideally made on antenatal ultrasound scan.
+- Gastroschisis occurs in approximately 1:3000 live births.
+	- The herniated viscera are not covered by a sac.
+	- It is thought to occur secondary to an ischaemic insult during abdominal wall development or due to early rupture of the hernia of the umbilical cord.
+	- A relatively small percentage (10-20%) are associated with other congenital abnormalities and these predominantly involve the gastrointestinal tract.
+- Exomphalos occurs in approximately 1:5000 live births.
+	- Failure of normal embryological development results in the bowel remaining within the umbilical cord and not returning to the abdomen.
+	- The herniated viscera is covered by a sac.
+	- There is a high incidence of associated congenital abnormalities including cardiac anomalies.
+	- Specific chromosomal associations include trisomies 13, 15, 18 and 21 and it can be associated with Beckwith-Wiedemann syndrome.
+- To avoid bowel injury the baby is delivered by caesarean section.
+- The operating theatre should be warmed, the baby dried, any exposed bowel covered with plastic and a nasogastric tube is inserted to decompress the stomach.
+- Fluid resuscitation is commenced, a urinary catheter inserted and broad spectrum antibiotics started.
+- Co-existing congenital abnormalities, especially cardiac, should be assessed.
+- A renal or cranial ultrasound may also be indicated.
+- Surgery is more urgent in gastroschisis due to the ongoing fluid losses and electrolyte and metabolic derangement.
+- If primary closure is not possible then a ‘silo’ is placed over the exposed bowel, which may require a general anaesthetic if the defect needs extending to fit the device.
+- The silo is suspended above the patient postoperatively, and the bowel is gradually reduced into the abdominal cavity under gravity over the ensuing few days in the NICU.
+- When the patient is stable and spontaneous reduction of the bowel has reached a plateau, then surgery for reduction and closure of hernia is performed.
+- Surgery for exomphalos is less urgent, unless the sac has ruptured.
+	- If the patient is stable and the defect is small a primary repair can usually be done.
+	- In large defects, if the sac has not ruptured, it may be treated with topical silver sulfadizine to allow epithelisation with definitive surgery at a later stage.
+- The neonate will require intubation and ventilation for surgery.
+- Expect significant ongoing fluid and heat losses due to the exposed viscera.
+- Peripheral intravenous access may be all that is required, but central venous pressure monitoring and an arterial line are useful to help guide fluid administration.
+- Avoid the femoral vessels as there is a risk of decreased perfusion with the increased abdominal pressures.
+- Placing the post-ductal oxygen saturation probe on either lower limb helps to give an indication if there is poor perfusion.
+- Muscle relaxants will assist the surgeons in reducing the abdominal contents. Reduction of the bowel may cause abdominal compartment syndrome, diaphragmatic splinting and high ventilation pressures.
+- If the intra gastric pressures are >20mmHg or the peak inspiratory pressures exceed 30cm H2O then a staged repair is indicated.
+- Unless there is a very small defect the infant will require postoperative ventilation and a generous opioid-based anaesthetic technique can be used (fentanyl 10-20mcg.kg-1).
+- These patients often require parenteral nutrition and a significant proportion present for further abdominal surgery.
+![[GAstroschisis and Exomphalos Mindmap.pdf]]
+# Neonatal Pain
+## Introduction
+- Effective and safe management of procedural and postoperative pain is important for:
+	- Humanitarian reasons
+	- Minimize acute physiological and behavioral distress
+	- Reducing pain can improve both acute and long-term outcomes
+- Neonates and infants are at increased risk of experiencing moderate to severe pain during hospital care.
+- Specific evidence is required to guide neonatal practice and reduce the need to extrapolate data from older age groups, but implementation of current best practice is also an ongoing challenge.
+## Pain Mechanisms in the Neonatal Period
+- Responses to painful stimuli can be demonstrated in nociceptive pathways from the periphery to the cortex in neonates
+	- The degree and nature of response change with age.
+- Peripheral pain receptors (nociceptors) respond to mechanical, thermal and chemical stimuli following birth
+- Peripheral sensitization or primary hyperalgesia (reduced threshold and enhanced response to previously painful stimuli) develops within areas of tissue injury.
+- Spinal cord is an important site for the modulation of nociceptive input but is characterized in early development by a relative excess of excitation and delayed development of local and descending inhibition.
+- There are anatomical changes in the distribution of incoming sensory fibers in early developmeant:
+	- A-beta myelinated fibers (that respond to light touch and are restricted to laminae III-IV of the adult dorsal horn) extend into superficial laminae I-II and overlap with A-delta thin myelinated and unmyelinated C-fibers that respond to noxious stimuli.
+	- As a result, neonatal spinal reflex responses are more generalized, and the threshold is lower (a reflex response is evoked by a less intense stimulus).
+- Stimulus–response relationships are still evident in human neonates, as noxious heel lance produces a greater reflex withdrawal response than touch.
+- Neonatal tissue injury, such as repeated heel lance or inflammation, reduces threshold (i.e., increases sensitivity), but these effects may be minimized by analgesia.
+- Pain signals reach the somatosensory cortex in preterm and term neonates.
+	- Near-infrared spectroscopy (NIRS) and electroencephalogram recordings demonstrate alterations in cortical activity following heel lance for blood sampling.
+- Factors that can influence the pattern, degree, and latency of response:
+	- Postnatal age
+	- Sleep state
+	- Opioid analgesia
+	- Previous experience
+## Acute Effects and Assessment of Neonatal Pain
+- Pain produces a range of physiological and behavioral responses in neonates that can be utilized in clinical assessment tools to quantify pain severity and evaluate analgesic efficacy.
+- A range of validated tools are available for use in different practice settings:
+
+![[5B847F05-3C28-42F7-ADD8-B0385CC8EDBC.jpeg]]
+
+- Additional measures, such as changes in stress hormones and measures of cortical activity, have been utilized in research settings.
+- The adverse impact of inadequate analgesia/anesthesia on acute morbidity following neonatal surgery has long been recognized.
+## Long-term Effects of Neonatal Pain
+- Changing levels of neural activity can alter the normal development of the central nervous system (CNS).
+	- There is increasing awareness of the need to:
+		- Reduce acute behavioral responses to neonatal pain
+		- Protect from persistent sensitization of pain pathways and potential damaging effects of excess activity on brain development.
+	- Sucrose effectively reduces the acute behavioral response to painful procedures but does not:
+		- Reduce spinal reflex response or cortical activity
+		- Prevent hyperalgesia and therefore may not prevent adverse effects of repeated procedures.
+- Neonatal surgery has been associated with alterations in future pain response:
+	- Following neonatal circumcision without analgesia, the behavioral response to immunization many months later is enhanced.
+	- Increased perioperative analgesic requirements were noted in infants who had also required surgery as neonates.
+	- More persistent changes in sensory processing were found in children 8–12 years following neonatal intensive care
+		- the degree of change was more marked in those who also required surgery during the neonatal period.
+- Age-dependent changes in response to neonatal injury have been demonstrated, with longterm alterations in sensory function that are not seen when the same injury is performed at older ages.
+- Studies in postnatal rodents allow evaluation of the effects of pain and injury at different stages of mammalian development.
+	- Altering sensory input into the spinal cord during the neonatal period impairs normal development of both excitatory and inhibitory synaptic function.
+	- Plantar hindpaw incision, an established model of postoperative pain demonstrates differences in the acute and long-term impact of neonatal surgical injury.
+	- Prior neonatal incision effects both excitatory and inhibitory synaptic function and increased microglial reactivity in the spinal cord contributes to an enhanced degree and duration of hyperalgesia following subsequent injury.
+	- Peripheral nerve block modulates these effects
+- Adverse neurodevelopmental outcomes following neonatal intensive care are well documented.
+- Increased exposure to procedural pain has been associated with:
+	- Poorer cognitive and motor scores
+	- Impairments of growth
+	- Reduced white matter and subcortical gray matter maturation
+	- Altered corticospinal tract structure
+- In addition, poorer neurodevelopmental outcomes have been reported in surgical vs nonsurgical groups following preterm birth and with surgical vs medical management of patent ductus arteriosus (PDA) and necrotizing enterocolitis.
+## Opioid Analgesia
+### Pharmacokinetics and Mechanisms
+- IV opioid requirements during intensive care management and the postoperative period are lower in neonates than in infants and children.
+- Pharmacokinetic parameters are influenced by:
+	- Age
+	- Clinical state, with decreased clearance in neonates
+	- Additional variability following cardiac surgery
+	- Changes in organ function and blood flow (e.g., reduced hepatic blood flow and morphine clearance with positive pressure ventilation)
+- Laboratory studies document ageand dose-dependent changes following systemic, epidural, or intrathecal administration and allow evaluation of associated pharmacodynamic changes.
+- Altered opioid receptor distribution and density in the dorsal root ganglion and spinal cord contribute to increased sensitivity and are not solely related to changes in blood–brain barrier permeability for morphine
+	- Increased effect for the same CNS tissue concentration is present at younger ages
+### Analgesic Efficacy
+- Intravenous opioid infusions have an established role for perioperative analgesia in neonates.
+- Protocols vary:
+	- Continuous infusions
+	- Intermittent bolus doses
+	- Nurse-controlled analgesia (NCA)
+		- delivered via the same type of pump as patient-controlled analgesia, with a prescribed bolus and dose interval
+		- addition of background infusions in opioid-naıve neonates may increase the risk of respiratory depression
+- Examples of local NCA protocols can be found at www.gosh.nhs.uk/health-pro fessionals/clinical-specialties/pain-control-service-inform ation-for-health-professionals/download-documentation/.
+- Protocols need to be sufficiently flexible to allow for interindividual variability and titration against individual response.
+- Regular assessment of:
+	- pain score
+	- efficacy
+	- side-effects
+- Morphine and fentanyl are most often used.
+- There is limited specific data to guide remifentanil dosing in neonates
+	- Use in NICU for analgesia and sedation, perioperative analgesia, and intubation has been reported
+	- The short duration of action may be advantageous for procedural pain management in NICU.
+### Side Effects
+- Fear of side effects, particularly respiratory depression, has contributed to inadequate use of opioids in neonates.
+- Audits have demonstrated higher rates of opioid-induced respiratory depression in neonates than in older children (2.5% vs 0.27%), but long-term sequelae are rare with appropriate monitoring and management.
+	- Overall, doses did not differ between neonates with or without respiratory depression, but risk was increased by preterm birth and intercurrent comorbid conditions.
+- Opioid withdrawal in neonates is a significant problem following maternal opioid use during pregnancy (neonatal abstinence syndrome)
+	- Associated with significant neurodevelopmental impairment.
+- Iatrogenic opioid tolerance and withdrawal symptoms also occur in neonates, particularly with:
+	- prolonged use
+	- continuous rather than intermittent administration
+	- shorter acting agents such as fentanyl
+### Long-term Effects of Neonatal Opioids
+- Following NICU, greater overall exposure to intravenous morphine was associated with poorer motor development at 8 months, but not at 18 months.
+- Associations between routine use of morphine for sedation during mechanical ventilation and poor neurodevelopmental outcome have not been confirmed in all analyses
+	- there is often limited data on indication (e.g., sedation, procedural, or postoperative pain)
+	- variability in dose and duration of therapy.
+- Initial follow-up of mechanically ventilated neonates at 5 years of age suggested an impairment on one component (visual analysis) of the IQ test, but subsequent evaluation of neuropsychological outcomes in the same population at 8–9 years reported no impairment related to neonatal morphine use.
+- Associations between exposure to general anesthesia in early life, increased levels of neuronal apoptosis (programmed cell death), and impaired neurodevelopmental outcomes have been demonstrated in a number of mammalian species.
+- Subcutaneous morphine 0.3–1.0 mg/kg1 produces analgesia in neonatal rats.
+- When tolerance is induced by subcutaneous morphine 10 mg/kg1 bd from postnatal day P1 to P7 (90), neuronal apoptosis is increased in the cortex and amygdala, but not in regions important for memory (hippocampus) or nociceptive processing (periaqueductal gray, PAG) (91). In adult rats, repeated intrathecal morphine (0.03 mg/kgbd for 7 days) produces tolerance and increases apoptosis in the spinal cord.
+	- In neonatal rodents, single doses of morphine up to 3 mg/kg(300 times the analgesic dose of 0.01 mgkg1 at this age) did not increase apoptosis or produce any long-term impairment of spinal function, measured by sensory reflex thresholds and gait analysis.
+	- General anesthesia for 4 h with isoflurane, nitrous oxide, and midazolam increased cortical apoptosis in the neonatal piglet and guinea pig, no significant increase was seen in sham control groups given fentanyl (30 mcg/kg bolus and 4 h infusion 15 mcg/kg/h).
+	- Daily subcutaneous morphine 0.5 mg/kgfrom P1 to P3 or P1 to P5 did not alter levels of apoptosis in the brain.
+	- When combined with a pain stimulus (daily paw injection of formalin), this analgesic dose of morphine reduced injury-related apoptosis in the P1–P3 group, but not in the more prolonged pain group (P1–P5 formalin plus morphine).
+## Paracetamol
+### Pharmacokinetics and Mechanisms
+- The pharmacokinetic profile of paracetamol in neonates has been evaluated following rectal, intravenous and repeat IV dosing over 4 days.
+- Clearance is related predominantly to weight and age between postmenstrual age 28–44 weeks has minimal effect.
+- A 20 mg/kg loading and 10 mg/kgIV dose every 6 h was predicted to achieve a serum concentration of 11 mg/L in neonates (32–44 weeks PMA), although it was noted that safety data for this dose and drug are limited in neonates.
+- Different mechanisms contribute to the analgesic effect of paracetamol:
+	- 1) Prostaglandin-mediated effects
+		- despite limited peripheral anti-inflammatory action compared with NSAIDs, central effects may relate to interaction with different cyclo-oxygenase sites.
+	- 2) The metabolite N-arachydonylphenolamine (AM404) is a ligand for the cannabinoid CB1 receptor and an uptake inhibitor of anandamide (an endogenous cannabinoid).
+	- 3) Interaction with serotonergic mechanisms enhances inhibitory pathways descending from the brainstem to the spinal cord.
+	- 4) Effects on the spinal neurotransmitter nitric oxide.
+- Dose-dependent analgesic efficacy and specific spinal cord-mediated effects have been demonstrated in adult animal models, but further evaluation of dose response and mechanisms during postnatal development is warranted.
+### Analgesic Efficacy
+- Analgesic efficacy of paracetamol is influenced by:
+	- dose
+	- route of administration
+	- type of pain stimulus.
+- Oral paracetamol 20 mg/kgin neonates did not reduce the behavioral response to heel prick.
+- Intravenous paracetamol (20 mg/kgloading, 5–10 mg/kg6-h, and 20–40 mg/kgper 24 h maximum) was effective for moderate pain in neonates in NICU, producing a significant trend to lower pain scores at 30 min, with a slight decrease in effect by 5–6 h.
+- Multimodal analgesia with addition of paracetamol to opioid regimes can reduce opioid requirements and/or improve analgesia.
+- Rectal paracetamol (30–40 mg/kgloading and 20 mg/kg6–8 h) did not reduce NCA opioid requirements in neonates and infants following major surgery, although marked variability in plasma concentration following rectal dosing was noted.
+- Current recommended doses for intravenous paracetamol in term neonates are 7.5 mg/kg6-h with a maximum daily dose of 30 mgkg1 (1) (www.rcoa.ac.uk/system/files/intravenousparacetamol.pdf).
+- Recent case series have reported an association between use of IV paracetamol 60 mg/kg/d1 for 3–6days and PDA closure in preterm neonates.
+- Although significant morbidity may be associated with the alternative treatment (indomethacin/ibuprofen or surgical closure), caution with these high doses of paracetamol is also warranted, and there is no confirmed mechanism for this effect of paracetamol that allows prediction of the appropriate dose.
+### Side Effects
+- In preterm and term neonates undergoing procedures in NICU, IV paracetamol 10 or 20 mg/kgproduced statistically significant but modest reductions in heart rate (average 7bpm at 30–120 min) and blood pressure (3 mmHg at 60 min).
+	- Changes were more marked in neonates with preexisting hypotension, suggesting impaired hemodynamics may be a relative contraindication to IV paracetamol.
+- Paracetamol overdose and hepatotoxicity has been reported in neonates and infants.
+- Awareness of the risk of accidental administration of milliliter rather than milligram resulting in a 10x overdose, and use of smaller IV paracetamol vials for neonates, has been highlighted by The UK Medicines and Healthcare Products Regulatory Agency (MHRA; www.mhra.gov.uk/Safetyinformation/DrugSafetyUpdate/CON088171).
+- Oxidative metabolism of paracetamol (normally 5–10% vs. 50–60% glucuronidation and 25–30% sulfation) results in formation of the intermediate N-acetyl-p-benzoquinone imine (NAPQI).
+	- Although usually conjugated to glutathione and excreted in the bile, paracetamol overdose or glutathione lack results in accumulation of NAPQI and toxicity due to apoptosis and necrosis of hepatocytes.
+	- Although a reduced rate of oxidation and increased ability to replete glutathione may be protective for neonates:
+		- there is little data on relationships between paracetamol dose and NAPQI levels, or capacity for NAPQI detoxification in neonates
+		- immaturity of hepatic transporters or poor nutritional status may increase susceptibility.
+### Long-term Effects
+- An epidemiologic link has been reported between paracetamol use in early life and increased risk of asthma in childhood.
+	- Others have reported that an increased number of respiratory infections, rather than paracetamol per se, is the important contributing factor.
+	- Differentiating association and causation is also difficult as the proportion of infants and children who receive paracetamol is high: 51% by 12 weeks of age and 97% by 2 years in a cohort with a family history of allergy; and over 1% before 8 weeks age and almost 95% by 4.5 years in a UK cohort.
+## Regional Analgesia
+### Techniques and Efficacy
+- Dorsal penile nerve block was more effective than topical local anesthetic for circumcision performed in awake neonates.
+- Ilioinguinal and rectus sheath blocks are the commonest intraoperative regional blocks for neonates, transversus abdominus plane (TAP) blocks are feasible, and local anesthetic wound infiltration is commonly performed, but additional larger studies are required to confirm benefit.
+- Additional benefit may be gained if long-acting local anesthetic preparations are shown to be effective and safe in neonates.
+- Spinal/intrathecal, epidural, and caudal routes are utilized for neuraxial anesthesia and/or analgesia in neonates.
+- Potential advantages include:
+	- reducing general anesthetic and opioid requirements.
+	- case series report a reduction in the need for postoperative mechanical ventilation and specific benefit for neonates susceptible to respiratory complications.
+### Complications
+- Low complication rates following neuraxial analgesia in children
+	- rates are higher for central vs peripheral blocks.
+- In early series, neonates were at greater risk and also had worse outcomes.
+- Recent series have also reported higher complication rates and more pump programming errors in neonates, thus emphasizing the need for careful monitoring and follow-up.
+- Prolonged GA in neonatal rodents increases apoptosis in the spinal cord as well as the brain.
+	- This, plus the lack of systematic data evaluating spinal analgesic toxicity in early development has emphasized the need for preclinical evaluation of spinally administered drugs.
+	- No histological injury or increased apoptosis was found following spinal anesthesia with bupivacaine or levobupivacaine in neonatal rodents.
+- Maximum tolerated doses of intrathecal morphine and clonidine (up to 300 times the analgesic dose) did not alter spinal cord histology or function.
+- By contrast, analgesic doses of intrathecal ketamine increased apoptosis and altered long-term sensory function.
+- Although no adverse effects directly related to caudal additives have been reported, there has been limited follow-up in clinical trials.
+	- As a result of adverse histological effects in both neonatal and adult animals following neuraxial delivery, clinical use of caudal ketamine has reduced.
+# Reducing the risk in Neonatal Anaesthesia
+## Introduction
+- Risks in neonatal anaesthesia:
+	- Prematurity
+	- Presence of congenital lesions or syndromes
+	- Disease processes particular to neonates
+		- Necrotizing enterocolitis
+		- Patent ductus arteriosus
+	- A narrow margin for error
+		- drug administration and dilution
+		- correct placement of the endotracheal tube
+	- Difficulty with vascular access.
+- Infants of <1 month of age are well recognized as having the highest incidence of adverse events, both in the operating room and in recovery.
+
+![[71540AD5-3867-450A-B4A5-1E3F0D74F3B4.jpeg]]
+
+## Pharmaceuticals for the Neonate
+- Medications used off-label due to paucity in neonatal safety profile data
+	- most medications for this age group are prescribed in this way.
+- Clinical trials are increasingly difficult to perform, and most clinicians rely on case reports and expert opinion for guidance in neonatal prescribing.
+- Off-label use may include:
+	- using the agent for an unregistered indication
+	- route of administration
+	- dose
+	- and/or age group of the patient.
+- For most anesthesiologists in clinical practice, it is a relief to know that ‘Off-label pharmacological use is ubiquitous, legal and ethical’.
+- In critical incidents relevant to pediatric anesthesia, medication issues predominated
+	- Duplication of dosing between the operating room and the wards most common issue.
+	- Emphasizes the need for good documentation and communication between these two areas of perioperative care.
+- Drug substitution and dosage errors in pediatric anesthesia in general have been found to be more common than in adulys.
+- Further errors include:
+	- The administration of incorrect:
+		- medications
+		- dose
+		- schedule
+		- and infusions rates
+	- Factors that compound the problem:
+		- failure to follow protocols
+		- inattention
+		- poor communication
+	- These risks can be reduced by:
+		- ensuring that ampoules do not look similar or have the same writing
+		- that pharmacy be tasked with preparing dilutions
+		- by the use of calculators for working out minute pediatric doses
+		- cross-checking drugs and doses with colleagues or nursing personnel
+		- using international color-coded labels for groups of drug
+		- use of computer-generated drug charts for certain specialties
+			- example:cardiac anesthesia.
+- Administer potent opoids via dedicated lines and flush these lines prior to discharge from theatre
+	- This avoids late-onset re-sedation in recovery or the ward
+- Possibility and probability of opioid withdrawal in neonates when critically ill children have received continuous infusions for a prolonged period.
+	- Pain in these babies has, for many years, been ignored, but increasingly, in both the perioperative and intensive care settings, practitioners are providing good pain relief.
+	- With the use of ultra-short acting medication such as remifentanil or fentanyl, as well as the traditional longer acting opioid morphine, the need for weaning patients off these medications should be factored into their treatment regimen.
+	- Monitoring for signs and symptoms of withdrawal, and anticipating the onset of these, will allow for timeous management strategies to be employed.
+## Syndromes and Congenital Anomalies
+- Syndromes, chromosomal anomalies, and congenital disorders are frequently exposed in the neonatal period.
+- A syndrome is a group of symptoms that consistently occur together or is a condition characterized by a set of associated symptoms.
+- A symptom is a physical or mental feature regarded as indicating a condition or disease.
+- Congenital heart disease is the commonest congenital anomaly
+	- 1: 125 live births.
+- These are often associated with some form of airway abnormality.
+- Dysmorphic features may provide an external indication of internal anomalies, and a cardiological consultation, with preoperative echocardiography, may be warranted.
+- In our unit, the following babies would be echoed prior to anesthesia:
+	- any cyanosed infant
+	- one with a murmur
+	- those with well-recognized associations, for example duodenal atresia and Down’s syndrome
+	- those patients with airway or ear abnormalities.
+		- because of the common association with cardiac anomalies
+- Metabolic abnormalities, more commonly referred to as ‘Inborn errors of metabolism’, in this age group are individually rare but collectively much more common.
+- Mass screening of the following occurs in many countries:
+	- hypothyroidism
+	- hyperphenylalaninemia
+	- galactosemia
+	- maple syrup urine disease.
+- An inborn error of metabolism should be in the differential diagnosis of any critically ill neonate—whether or not he/she requires surgery.
+- Hypocalcemia may be part of syndromes, for example Di George syndrome, or occur after the administration of citrated blood products.
+- Hypoglycemia, if not diagnosed timeously, may have catastrophic immediate and long-term consequences.
+- Although not routine for mass screening in the neonatal period, the following may have implications for the pediatric anesthetist
+	- glucose-6-PD deficiency
+	- genetic muscle disorders, for example Duchenne’s muscular dystrophy
+	- hemoglobinopathies
+	- adrenogenital syndrome
+	- cystic fibrosis.
+- Risk of morbidity and mortality is highest in children:
+	- under 1 year of age
+	- those with comorbidities
+	- those undergoing emergency surgery
+- Surgery performed on neonates is often emergency surgery.
+- Those with anomalies of a covert nature, a critical event in the perioperative period may be the first indication of that pathology.
+- Anesthetic concerns relate mostly to the airway and cardiovascular systems, but some of the metabolic and neuromuscular disorders may have life-threatening reactions with anesthetic agents.
+- Negative anesthetic information (i.e., no known anesthetic implication) is as valuable as a list of anticipated problems.
+![[BA41902A-DEA1-424E-AB46-D2103451E9E9_4_5005_c 1.jpeg]]
+
+## Transitional Circulation
+- In utero, the pulmonary vascular resistance is high and there is very little blood flow to the lungs as the placenta is the source of gas exchange.
+- After birth as the neonate takes the first few breaths, a chain of events is set in place that results in the transition from the foetal circulation to the neonatal circulation with closure of the foetal shunts (foramen ovale, ductus venosus and ductus arteriosus).
+- During the first few weeks of life the pulmonary vasculature is highly reactive:
+	- an increase in pulmonary vascular resistance can lead to reopening of the foetal shunts, in particular the arterial duct between the pulmonary artery and the aorta.
+	- As a result there is right-toleft shunting from the pulmonary artery (deoxygenated blood) to the aorta, causing profound hypoxia.
+	- The oxygen saturation measured in the right hand may be normal (‘pre-ductal’); the oxygen saturation in the other limbs (‘post-ductal’) will be low.
+- During the perioperative period it is important to prevent factors that increase pulmonary vascular resistance:
+	- sepsis
+	- hypoxia
+	- acidosis
+	- hypercapnoea
+	- pain
+	- hypothermia
+- When post-ductal oxygen saturations drop in relation to preductal oxygen saturations it may indicate a return to a foetal circulation
+- Neonatal circulation is a dynamic state which may revert to a transitional circulation at any time.
+- In the first weeks of life, the pulmonary circulation remains very sensitive to:
+	- PaO2
+	- PaCO2
+	- asphyxia
+	- acidosis
+	- hypothermia
+	- hypoor hyperglycemia
+	- hypocalcemia
+	- sepsis
+- Any of these may cause an increase in pulmonary vascular resistance (PVR), thus re-opening any of the transitional circulation shunts (except obviously not the placenta as it is no longer there) resulting in persistent pulmonary hypertension of the neonate (PPHN).
+- Other conditions that predispose to PPHN include:
+	- meconium aspiration
+	- asphyxia
+	- hypoxia
+	- sepsis
+	- congenital diaphragmatic hernia
+- In the perioperative period of a sick neonate, any one or more of these factors may be present.
+- During anesthesia, difficulty in maintaining the airway, with consequent hypoxia, hypercarbia, and acidosis, may cause the patient to revert to a transitional circulation, and it may take time for this to revert back to normal.
+- Monitoring oxygen saturations on the right arm (preductal saturations) as well as on either leg (postductal) may provide the diagnosis as, with reverting to a transitional circulation, the preducal saturation will be higher than the postductal measurement.
+- Incidence of patent ductus arteriosus (PDA) in premature infants is common.
+- The PDAs of prems do not close that easily because:
+	- they have less ductal muscle
+	- the subendothelial cushions that obliterate the lumen when the ductus constricts are absent
+	- the internal elastic lamina is intact
+- Patency in these babies is more likely to be due to the relaxing effects of the endogenous prostaglandins than to a lack of response to the contracting influence of oxygen.
+- The impact of anaesthetic agents on the reactivity of the PDA may cause a significant drop in diastolic pressure, causing ST-segment depression.
+## Prematurity
+
+![[Prem Neonate issues Mindmap.pdf]]
+
+- High risk anaesthesia due to:
+	- Small size
+	- immature organ systems
+	- congenital anomalies
+	- fragility with handling
+	- increased oxygen, and glucose requirements
+- Regardless of the gestational age, a neonate is defined as a baby in the first 28 days of life.
+- Perioperative risk factors for premature infants include the following:
+	- apnea (central, obstructive, mixed, or respiratory muscle fatigue)
+	- anemia
+	- respiratory distress syndrome
+	- chronic lung disease
+	- retinopathy of prematurity
+	- bronchopulmonary dysplasia
+	- sepsis
+	- hypoglycemia
+	- increased sensitivity to pain
+- Each of the risk factors for neonates is compounded by decreasing gestational age.
+- Apnea of prematurity is a recognised complication in the postoperative period.
+	- It's made worse:
+		- sepsis
+		- anemia
+		- hypoxia
+		- metabolic abnormalities
+		- hyper-or hypothermia
+		- hypoglycemia
+		- intracranial hemorrhage
+		- heart failure
+		- vagal dominance
+		- medications
+			- opioids
+			- prostaglandins
+	- Treatment options include:
+		- stimulation
+		- bag-mask ventilation
+		- nasal CPAP
+		- ventilation
+		- use of respirogenic agents
+			- caffeine
+			- aminophylline
+- Babies with congenital heart disease (CHD) may be:
+	- pink (normal oxygenation)
+	- blue (cyanosed)
+	- gray (shocked)
+	- may present with well-recognized signs and symptoms of heart failure
+	- may present the diagnostic dilemma of a baby with myocarditis or an abnormal left coronary artery off the pulmonary artery (ALCAPA).
+- Many of these will require anesthesia for interventions of a palliative or curative nature.
+- The neonatal myocardium has many significant differences from the older child and adult which are of a cyto-architectural, physiological or functional, and biochemical nature.
+	- This immature myocardium has:
+		- fewer contractile elements with fewer mitochondria in a relatively disorganized pattern.
+		- Less sarcoplasmic reticulum (SR) with poorly formed T-tubules compares unfavorably with well-developed SR and T-tubules in adults.
+		- The neonatal myocardium depends on extracellular calcium for contractility.
+		- Different cellular source of energy
+			- Adult myocardial cells rely on free fatty acids for their energy, whereas immature cells use carbohydrates.
+			- This provides better tolerance to ischemia, with rapid recovery of function.
+	- The consequence of this, for anesthetists, is:
+		- the immature myocardium is less compliant
+		- shows limited cardiac output improvement with increased preload
+		- It does not tolerate a high afterload
+		- requires normal serum levels of calcium
+		- is sensitive to calcium channel blockers.
+- The parasympathetic system predominates until about 6 months of age, and neonates develop global rather than focal ischemia
+	- unless the coronaries are involved in the pathology, for example ALCAPA.
+
+![[911530F1-C6BB-4A1D-9BAD-DC2B24824B23.jpeg]]
+
+- Pulmonary hypertension (PHT) is a major risk factor for neonatal surgery.
+	- its presence requires meticulous preoperative planning and treatment.
+- Persistent pulmonary hypertension is a significant cause of morbidity and mortality in neonates, especially in premature infants.
+	- This is a reversible condition but, uncontrolled, may cause:
+		- severe and unrelenting respiratory failure
+		- right ventricular dysfunction
+	- Prevention of pulmonary hypertension is key to successful intraoperative management.
+	- Successful treatment involves strategies to decrease PVR and provide inotropic support for the right ventricle.
+- Top tips for anesthetizing extreme premature infants
+	- Minimal handling: use fingertips gently, not your whole hand
+	- Meticulous attention to pressure complications:
+		- blood pressure cuff
+		- saturation probes
+		- the back of the head and heels
+		- nasogastric tube traction on the nose
+	- Meticulous drug administration: choice of medication, dilutions, fluid flushes
+	- Minimize FiO2: aim for saturation of 88–95%
+	- Near infrared spectroscopy (NIRS) is a useful for monitoring:
+		- cerebral or visceral organ perfusion
+		- oxygenation
+		- ventilation
+		- hemoglobin
+	- Balance risk of invasive monitoring with the risk of a compromised limb.
+		- Sympathectomy of a limb with critical ischemia from an arterial line, using a local anesthesia block, may be beneficial
+	- Good pain control: neonates in pain and distress will not grow, not to mention the long-term consequences of untreated pain
+	- Ventilation intraoperatively: minimum FiO2, minimal peak inspiratory pressure, 3–5 cms PEEP, i:e ratio of 1: 1,40–60 breaths per minute, permissive hypercapnia
+	- Postoperative ventilation: very ill infant, high-dose opioid anesthetic, muscle weakness
+	- Patience with vascular access
+	- Be fully prepared with all consumables and equipment that may be needed
+	- Neonatal anesthesia is best provided by two anesthetists working together.
+## Airway, Breathing and Oxygenation
+- A difficult airway may be evident from the initial attempts to hold the head for induction, with the large occiput, especially in prems, causing the head to roll from side to side.
+	- increases head and neck flexion which, together with an anterior larynx, makes intubation more difficult.
+- Good positioning may be all that is needed to improve visibility.
+- Face masks may be ill-fitting, making bag-mask ventilation problematic.
+- The presence of a nasogastric or nasojejunal tube compounds the problem.
+- Except in the moribund baby, intubation should always be performed with analgesia sedation or general anesthesia.
+- Awake intubation is not advised as this may result in:
+	- raised intracranial pressure
+	- raised blood pressure
+	- apnea
+	- desaturation
+	- airway trauma.
+- Laryngeal mask airways may not seat well and are frequently the source of laryngospasm and loss of the airway during surgery.
+	- useful in the neonate with a difficult airway.
+- Rapid sequence induction (or that all-encompassing term ‘modified rapid sequence’) for premature infants and neonates is potentially problematic.
+	- Cricoid pressure is difficult to apply.
+		- It distorts the anatomy
+		- Exactly how much pressure should be applied, and when to apply it is uncertain
+- Changing endotracheal tubes requires precision and care, as adverse events are common at this time.
+	- If a bougie has been used, and the baby decompensates immediately thereafter, a pneumothorax should be suspected.
+- Firm securement of the endotracheal tube may be difficult
+	- many strapping materials cause damage to the fragile skin of the face.
+- Laryngospasm is a common adverse event in pediatric anesthesia
+	- It is a cause of major morbidity,but it is not a reported cause of death
+	- It should never be underestimated
+- Traditionally, more oxygen was better, but this is no longer true.
+	- Impact of excessive oxygen:
+		- Brain (increased incidence of periventricular hemorrhages and adverse neurological outcomes)
+		- Eyes (retinopathy of prematurity)
+		- Lungs (bronchopulmonary dysplasia).
+	- High oxygen levels affect intraand extracardiac shunting by altering pulmonary vascular pressures
+		- This can be used to manipulate flow
+		- Left to right shunt flow will be increased, and with an abnormal left coronary artery from the pulmonary artery (ALCAPA), coronary steal may occur.
+		- For babies with cyanotic CHD, increased levels of oxygen radicals are produced.
+	- Anesthetic management should aim at providing:
+		- minimal FiO2 to maintain oxygen saturation of 88–95%
+		- minimal peak inspiratory pressures
+		- positive end-expiratory pressures of 3–5 cm H2O
+		- inspiratory to expiratory ratio of 1: 1 at a rate of 60 breaths per minute
+		- allow permissive hypercapnia
+## Coagulation
+- Hemostatic mechanisms are immature but functionlly balanced in the healthy neonate, with no tendency toward coagulation or thrombosis.
+- Plasma clotting factors are inconsistently different from the older child or adult.
+- Vitamin K-dependent factors are low at birth
+	- preoperative vitamin K supplementation is necessary prior to surgery.
+	- Factors II, VII, IX, and X and the contact factors (XI and XII) are 50% lower than adult levels at birth.
+	- Factor VII rapidly increases after birth
+	- II and VII remain low for most of childhood
+	- IX can be as low as 15% of adult levels until 9 months of age.
+	- Fibrinogen, Factors V, VIII, and XIII are normal at birth
+	- Von Willebrand factor (VWF) levels are increased at birth and are normal at about 2–6 months of age.
+- All of these differences, plus any comorbidities present, for example congenital cyanotic heart disease or sepsis, require hematological investigations prior to any surgical procedure.
+	- different values between neonates and adults
+- Recent recommendations for standardization of all diagnostic laboratories testing for hemostasis in pediatrics have been published.
+	- Reference ranges should be specific for age, the type of analyzer, and the reagent.
+- Platelet number and volume are similar between neonates and adults.
+	- Neonatal platelets do not respond normally to agonists, and their fibrinogen binding sites are not fully developed.
+	- This continues for the first 2–4 week of life.
+	- Despite this, conventional tests do not show platelet dysfunction, probably due to high VWF levels and a higher hematocrit.
+- Neonatal bleeding may be due to:
+	- congenital bleeding disorders
+	- asphyxiation
+	- cyanotic CHD
+	- disseminated intravascular coagulation
+	- sepsis
+	- Iatrogenic causes should be ruled out
+## Sepsis
+- Many pathophysiological responses of normal neonates are altered:
+	- cerebral autoregulation in sick neonates and prems is lost
+	- cerebral perfusion is directly related to arterial pressure
+- Increased risk of adverse events due to:
+	- Altered coagulation
+	- Depressed immunity
+	- Easily traumatized tissues
+	- Tendency to intraand periventricular hemorrhages
+	- Immature organs systems
+- Invasive monitoring may be preferred, but arterial and venous central lines are often difficult and run the risk of severe complications.
+- In the face of possible immune-compromise, strict aseptic techniques are essential.
+- Regional anesthetic options may be limited by coagulopathies
+	- thrombocytopenia is common
+- Electrolyte imbalances require correction, especially:
+	- hyponatremia
+	- hyperkalemia
+	- hypocalcemia
+- Early judicious use of inotropes may be necessary.
+- Near infrared spectrometry (NIRS) may act as a global indicator of the interventions that will influence cerebral oxygenation during anesthesia
+	- It is a very useful tool to detect the impact of:
+		- overventilation with hypocapnia
+		- anemia
+		- hypotension with poor cerebral perfusion
+		- vascular compression of vessels perfusing the brain.
+	- This is especially valuable in very small babies and where no invasive monitoring is possible.
+	- It is the practice in our unit to use NIRS with:
+		- all neonatal and cardiac anesthesia
+		- surgical procedures involving the neck, where obstruction of major vessels is reflected in a drop of the NIRS reading
+- The risks of transporting the hemodynamically unstable neonate with respiratory disease who is intubated and being ventilated need to be balanced against the benefits of surgery performed in the operating room.
+	- Whether the neonate is being transported from a peripheral hospital to a specialist center or transferred from the intensive care unit to the operating room, airway catastrophes and circulatory instability are possible.
+	- Risks of hypoglycemia, hypocalcemia, hypothermia, and fluid overload are a reality, with exposure to inappropriately high inspired oxygen almost certain.
+	- The risks of unplanned extubation at any stage of this journey are very high, especially so on transfer to and from the incubator and the operating table.
+	- After arrival in the operating room, a goal-directed check of the airway—especially of the endotracheal tube—is needed, with documentation of the findings.
+- The anesthetic choice, whether inhalational, total intravenous, or regional, will depend on:
+	- the hemodynamic stability of the baby
+	- the procedure planned
+	- the comorbidities that the baby has
+	- whether or not options exist for postoperative ventilation.
+## Technical Factors
+- The smaller the baby, the more technically difficult everything becomes:
+	- vascular access
+	- intubating conditions
+	- handling
+	- finding the correct-sized equipment for that infant.
+- Much of the equipment required for safe perioperative care is not suitable for tiny babies.
+	- In ICU, pressure sores from pulse oximetry probes necessitate regular changing of these sites.
+- Use of ultrasound for vascular access has made a significant difference to the ease, speed, and safety of acquiring venous access in these patients.
+- Surgical central venous catheters are placed under ultrasound guidance.
+- In many of the bigger units, interventional radiologists, anesthetists, and surgeons team up to provide a vascular access service.
+- Hypothermia is a well-recognized risk factor in neonatal anesthesia.
+	- Its prevention is mandatory, and in transporting the baby to the operating room, measures such as the use of incubators or kangaroo care by the mother are successful tools.
+	- A warm, dry baby will reduce the possibility of hypothermia.
+## Types of Surgery Performed
+- Abdominal:
+	- Necrotizing enterocolitis (NEC)
+	- Intestinal atresias
+	- Bowel obstruction
+	- Bowel perforations
+	- Strangulated inguinal hernia
+	- Malrotation or midgut volvulus
+	- Tracheaesophageal fistula or esophageal atresia
+	- Congenital diaphragmatic hernia
+	- Anorectal anomalies
+	- Omphalocoele
+	- Gastroschisis
+- Airway:
+	- Ear nose and throat (ENT)
+		- choanal atresia
+		- obstructed airway (congenital or acquired)
+		- vocal cord palsy
+		- foreign body
+		- masses
+			- cystic hygroma.
+- Cardiac:
+	- open heart surgery (e.g., obstructed total anomalous pulmonary venous drainage)
+	- placement of a systemic to pulmonary shunt
+	- coarctation of the aorta.
+- Neurosurgery
+	- myelomeningocele
+	- congenital hydrocephalus
+	- tumors
+- Urological:
+	- extrophy of the bladder
+	- pelviureteric junction obstruction with hydronephrosis
+	- cloaca.
+- Laparotomy for NEC encompasses many of the challenges faced during most surgeries for neonates and premature infants.
+	- Usually premature babies
+	- Often extremely ill
+	- Coagulopathic
+	- Septic.
+	- Raised intra-abdominal pressure will impact negatively on renal function, and bowel and lower limb perfusion.
+- Inhalational anesthetic agents may result in a drop in blood pressure, especially once the baby is being ventilated.
+- Despite the concerns about the long-term neurocognitive consequences of ketamine in this age group, this may be a safer option in providing more stable hemodynamics.
+- If postoperative ventilation is available, high-dose opioid anesthesia is a consideration.
+- In the very ill, coagulopathic baby, neuraxial regional anesthesia may not be possible, but local anesthetic wound infiltration, or wound catheter infusion is possible.
+## Warning Signs and Solutions
+- Signs of impending doom:
+	- poor perfusion
+	- ‘monitor failure’-abnormal oxygen saturations
+	- blood pressure measurement failure
+	- drop in endtidal CO2
+	- cyanosis
+	- bradycardia
+- Solutions:
+	- knowledge
+	- high index of suspicion
+	- monitoring
+	- protocols, for example for laryngospasm and insertion of central vascular lines
+	- meticulous attention to detail
+- The use of oxygen saturation monitors and capnography and the discontinuation of the use of halothane have had an impact on morbidity and mortality in neonatal anesthesia.
+
+# Neonatal Anaesthesia with Limited Resources
+## Introduction
+- Neonates are the most vulnerable age group in terms of anesthetic risk and perioperative mortality, especially in the developing world.
+- Even in the developed world where access to advanced medical care, sophisticated medical equipment, and healthcare providers are readily available, neonatal anesthesia is challenging.
+- Excluding surgery, an estimated 10 million children die annually before their 5th birthday worldwide; that is, one of every six children born in Africa or one of every 12 children born in South Asia.
+- Approximately 50% of these deaths occur in neonatal period.
+- Major causes include:
+	- birth asphyxia
+	- prematurity
+	- sepsis
+	- HIV
+	- neonatal tetanus
+- The developing world can be defined in many ways.
+	- Economists use national income, expressed as per capita gross national product where the lower the gross national product is, the poorer the health of the nation.
+	- Countries are also defined according to the Human Development Index (HDI), which ranks the average human development in each country on the basis of:
+		- life expectancy
+		- literacy
+		- gross domestic product, that is, measures of health and quality of life
+	- The developing world thus defined falls into the medium and low categories of human development.
+- In terms of anesthesia practice, particularly neonatal anesthesia, one could argue that the divide is not as clear-cut. The reason being that even in some remote rural areas in some high HDI affluent countries, the provision of anesthesia for neonates may fall well below the level expected in some institutions of the developing world.
+- International standards for safe practice of anesthesia, adopted by the World Federation of Societies of Anesthesiologists (WFSA) in 1992, are seldom met in developing countries.
+- It is not surprising that perioperative mortality and morbidity are high by developed world standards; local expectations as a consequence are commensurate with the facilities and quality of the care available.
+## The Problems
+- Perinatal mortality in some parts of the developing world is ten times greater than those in developed countries.
+- Common contributors to poor neonatal outcome include:
+	- early childbearing
+	- poor maternal health
+	- fear
+	- poor understanding
+	- lack of education
+	- above all, the lack of appropriate and quality medical services
+- In addition, well-meaning traditional healers have often contributed to a poor outcome by exposing the neonate to additional risk caused by potions that may be hepatic or renal toxic, or enemas that may perforate the bowel.
+- One-third of women still have no access to medical services during pregnancy, and almost 50% do not have access to medical services for childbirth.
+- The majority of parturients still prefer to deliver at home or are delivered in rural health centers, where basic neonatal resuscitation equipment may be deficient or nonexistent.
+- Delayed presentation occurs when the new parturient has to undertake long journeys to reach regional health centers.
+- An initial misdiagnosis may lead to further delay in referral to a tertiary and referrals are usually only made when complications arise.
+	- Vomiting and diarrhea are common problems in populations who do not have access to fresh running water.
+	- As a consequence, intestinal atresia/obstruction would not initially be considered the likely cause of vomiting.
+	- Inadequate radiological or laboratory facilities make accurate diagnosis difficult
+- Delays in presentation add to the anesthetic risk.
+- Birth trauma from a precipitous delivery or complications of a prolonged labor add to the difficulty.
+- An asphyxiated neonate may have:
+	- significant cerebral edema or seizure disorder
+	- hypoglycemia
+	- hypocalcaemia
+	- coagulation defects.
+- Failure to administer vitamin K at birth will further compound the coagulopathy.
+- Electrolyte disturbances can be extreme resulting in a mixed metabolic picture in some situations.
+- Resuscitation can be difficult and may be compounded by lack of appropriate resuscitation fluid.
+- Some examples of the sort of issue providers face in the lowto middle-income countries include:
+	- upper intestinal obstructions that are likely to present with significant metabolic disturbance that may need days to correct without access to parenteral nutrition:
+		- duodenal atresia
+		- pyloric stenosis
+		- ileal atresia
+	- Anorectal malformations, one of the more common neonatal malformation
+	- Colonic atresia presents with massive distension that causes splinting of the diaphragm and significant respiratory compromise.
+- Neonates with esophageal atresia almost inevitably present with right upper lobe pneumonia following aspiration.
+- Neonates with gastroschisis are at risk of overwhelming sepsis with every hour of bowel exposure.
+	- In addition, the exposed bowel becomes thickened and more distended.
+- Unless primary exposure can be achieved, the chances of survival are small without access to ventilators or intravenous nutrition.
+- Minimal intervention therapy without anesthesia has been suggested as a solution.
+- Severe forms of congenital diaphragmatic hernia are unlikely to survive simply because initial resuscitation failed or the capability to maintain oxygenation is not available.
+- Sophisticated ventilatory techniques are simply not available.
+- Little or no attention is paid to the prevention, let alone the treatment for congenital anomalies of CNS.
+- Very little elective neonatal surgery is carried out in low-income countries.
+- Inguinal hernia repair is usually carried out soon after diagnosis in developed countries.
+- With little chance of elective surgery in developing countries, many present with incarceration or intestinal obstruction adding to the anesthetic risk.
+## Anaesthetic Challenges
+- Until relatively recently, in some countries, neonates were still not considered candidates for surgery because ‘they always die’, whereas in others, they undergo surgery without anesthesia because ‘it is safer’ and because some still believe that neonates do not feel pain.
+- When surgery is performed, particularly in emergency situations, there are challenges such as:
+	- lack of appropriately sized equipment
+	- Need for improvisation due to lack of supplies
+		- plastic sheeting and overhead lamps can go a long way in maintaining normothermia even in relatively cool climates without the need to resort to expensive warmers that require disposable equipment to function.
+- In a recent survey, only 13% of anesthesiologists were able to provide safe anesthesia for children, let alone neonates.
+- In this survey, the minimal requirements for anesthesia were the following:
+	- an oxygen supply
+	- suction apparatus
+	- pulse oximeter
+	- tilting table
+	- pediatric breathing circuit
+	- laryngoscope
+	- face masks
+	- endotracheal tubes
+	- oropharyngeal airways
+	- intravenous cannulae suitable for use in children
+- Even neonates who have skillful anesthesia and surgery may die because of inadequate postoperative care.
+- Development of highly specialized neonatal anesthetic and surgical services, essential for a good outcome after neonatal surgery, is a low priority in many lowto middle-income countries.
+![[723A3721-B3D8-4D68-A6B1-D9AE28E439C9.jpeg]]
+- Lack of trained nursing staff and auxiliary personnel, lack of simple ventilators, and other essential equipment is prevalent.
+- Main causes of morbidity and mortality:
+	- Overwhelming infection
+	- Sepsis
+	- Respiratory insufficiency
+	- Surgical complications are the main causes of morbidity and mortality
+![[378D3326-1A5C-4ABD-AC25-015F3ADA1622.jpeg]]
+## HIV-AIDS
+- HIV remains an important healthcare problem, even for neonates, in sub-Saharan Africa, South-East Asia, and many parts of the developing world.
+- Vertical transmission:
+	- in utero
+	- during labor and delivery
+	- postnatally.
+- Risk factors:
+	- maternal plasma viral load
+	- breastfeeding
+- Mixed feeding (breastfeeding with other oral foods and liquids) is associated with the greatest risk of transmission.
+- Perinatal transmission rates have been dramatically reduced by single-dose antiretroviral treatment
+	- this protects only about 50% of infants.
+- In developed areas of the world, triple antiretroviral therapy has reduced perinatal transmission by more than 90%.
+- Differentiating those infants who are infected by vertical transmission from those who are not infected presents a difficult dilemma
+	- one cannot easily differentiate between actively or passively acquired antibodies.
+- All children born to HIV-positive mothers will have acquired HIV antibody for the first 6–18 months.
+- Only 30–40% of those infants, who are actually infected, may go on to develop AIDS.
+- The presence of HIV antibody is therefore not a reliable indicator of infection.
+- More sophisticated expensive tests have been developed
+	- not widely available where it is needed most.
+- All children born to HIV-positive mothers should be considered potentially infected; if antibody persists beyond 15 months, infection can be assumed.
+- Progression of the disease depends on:
+	- the mode of transmission
+		- vertically acquired infection is more aggressive.
+- 20-30% of HIV-infected children will develop profound immune deficiency and AIDS-defining illnesses within a year
+	- 2/3 will have a slowly progressive disease.
+- The course of the disease depends on:
+	- timing of infection in utero
+	- the viral load
+	- mother’s stage of the disease.
+- Universal precautions should be strictly applied for all anesthetic procedures.
+- Extra care should be taken when anesthetizing an infected newborn.
+- Precautions to prevent contamination of the anesthetic circuits should also be taken.
+	- Disposable equipment
+	- Bacterial filters
+	- Disposable circuits are recommended
+		- cost for most institutions in developing countries limits the use of disposables.
+	- Reusable equipment should be cleaned, sterilized, and decontaminated according to the manufacturer’s instructions but this all costs money.
+		- Fortunately, the HIV virus is sensitive to a range of disinfectants (45).
+## Pain
+- Providing safe pain relief in the face of limited resources, a limited spectrum of analgesics, if any, and inadequately trained staff is a challenge.
+- Factors that add to complexity of the problem:
+	- Illiteracy
+	- malnutrition
+	- poor cognitive development
+	- differing coping strategies
+	- pharmacogenetic differences
+	- cultural and language differences
+- Children of the developing world learn to cope with vastly different problems.
+	- Their attitude toward pain, and tolerance thereof, is different.
+	- Children from an impoverished background seem more stoical and indifferent to even severe pain.
+	- This attitude seems to be instilled at an early age, perhaps even as babies, by parents are incredibly stoical.
+## Drugs and Equipment
+- Drugs and equipment essential to provide safe anesthe-sia for children and particularly neonates are often lacking.
+- The supply of anesthetic gases and drugs is erratic and unreliable.
+- The cost of many drugs has risen above and beyond the reach of most health budgets.
+- Anesthesiologists in developing countries have to use cheaper agents or generics.
+- Ether or halothane remains the mainstay of anesthesia in many countries.
+	- Ether is cheaper and probably safer than halothane
+		- its use is limited by its flammability
+	- This extreme flammability limits its transportability and therefore its availability in remote areas.
+- Ketamine is probably the most commonly used anesthetic agent in rural settings:
+	- it is simple to use
+	- provides anesthesia
+	- analgesia
+	- cardiovascular stability
+	- some preservation of the airway reflexes
+- In many countries, anesthesia for neonates remains largely ketamine based even when halothane or ether is available.
+	- Dictated by:
+		- ease of use
+		- lack of airway equipment such as tracheal tubes, facemasks, or breathing circuits
+		- perception that intravenous access is not necessary or that intravenous cannulae of appropriate size are simply not available
+- Other basic modern drugs are seldom available.
+	- These include:
+		- induction agents (propofol)
+		- neuromuscular blocking agents
+		- analgesics (morphine, pethidine)
+		- reversal agents (neostigmine, naloxone)
+		- long-acting local anesthetics (bupivacaine, ropivacaine).
+	- Morphine or other opioids may not be permitted in some cultures.
+	- The ability to deal with complications, such as malignant hyperthermia, is virtually impossible because dantrolene is prohibitively expensive.
+- Regional anesthesia has many potential benefits:
+	- in terms of safety
+	- cost saving
+	- avoiding the need for postoperative ventilation
+	- need for immediate postoperative analgesia
+- Generally, children in developing countries are very accepting of this form of analgesia.
+	- there seems to be a general reluctance to perform regional anesthesia in children, let alone neonates, even in some institutions in the developed world.
+	- Possible reasons for this include:
+		- lack of training or expertise
+		- fear of failure
+		- unavailability of drugs, disposables, and other ancillary equipment.
+- Electrical supplies are unreliable in many hospitals in the developing world.
+	- In some, particularly in rural areas, neither mains electricity nor a functional generator can be relied upon.
+- General facilities for infection control, such as running water, disinfectants, or gloves, are inconsistent even though the reuse of disposable equipment such as endotracheal tubes is considered normal practice.
+- Monitoring is basic–a precordial stethoscope and a finger on the pulse.
+	- EKG monitoring is used when available
+		- use is dependent on a constant electricity supply and proper maintenance.
+	- Appropriately sized blood pressure cuffs are scarce.
+	- Pulse oximetry has been shown to be the most useful monitor and should be available in all centers where pediatric surgery is performed.
+	- Unfortunately, this ideal is far from reality despite the efforts of the WFSA’s Lifebox project.
+- A suitable (ideal) anesthetic machine should be:
+	- inexpensive
+	- versatile
+	- robust and able to withstand extreme climatic condition
+	- able to function even if the supply of cylinders or electricity is interrupted
+	- easy to understand and operate by those with limited training
+	- economical to use
+	- easily maintained by locally available skills.
+- Generally, anesthetic machines fall into two categories:
+	- modern sophisticated machines
+	- simple low-maintenance equipment
+- Modern electronic machines, provided by wellmeaning donors, have a poor track record in austere environments.
+	- Sophisticated equipment needs to be understood and require maintenance but individuals trained to repair this equipment are seldom available
+	- These machines are invariably discarded when the first fault occurs because guarantees are unlikely to be honored and faults are considered too expensive to repair.
+	- Poorly maintained equipment becomes hazardous and even life threatening in untrained hands.
+- Availability of equipement:
+	- Neonatal/ pediatric ventilators are virtually nonexistent outside the main centers.
+	- Small intravenous cannulae are scarce.
+	- Laryngoscopes, both metal and plastic, are usually available but generally not well maintained.
+	- Laryngeal mask airways in pediatric sizes are less freely available.
+	- Intravenous fluids, if not manufactured locally, are expensive.
+		- Many developing countries do not have any local production facilities.
+	- Syringe pumps and other control devices are impractical where electricity supply is erratic.
+	- Closed or semiclosed anesthetic systems are considered dangerous in an environment where the oxygen supply is erratic and agent monitors are not available.
+		- The erratic supply of soda lime and compressed gas cylinders further limits it use.
+		- The potential benefits and cost savings of low-flow anesthesia are lost, and scavenging is a low priority.
+## Human Resources
+- Anesthesia does not enjoy a high profile and lacks the voice to demand access to resources in developing countries.
+- Anesthesia is frequently delivered by non-physicians
+- Countries, such as Nigeria, Kenya and India, have trained significant numbers of physician anesthetists who tend to practice in large hospitals in urban areas and not in rural districts.
+- The majority of anesthetics in rural communities are still provided by nurses or unqualified personnel, with little medical background, who are ‘trained on the job’.
+- In many African and Asian countries, the doctor/patient ratio is so low that the ideal of employing a physician specifically to provide anesthesia is often out of the question.
+- Salaries are insufficient to attract suitably trained and qualified practitioners for more than short periods.
+- Emigration of scarce, trained personnel to developed countries in search of better salaries, and an improved lifestyle exacerbates these human resource difficulties.
+- Anesthesia is still not perceived as an attractive career for many undergraduates, who receive little, if any, exposure to the specialty.
+	- Very few developing countries can afford specialist anesthesiologists, except possibly in the principal hospitals.
+	- Supervision of ‘non-physician anesthetists’ is invariably inadequate and access to textbooks, journals, or other medical literature is limited.
+	- Internet access, considered the norm in the developed world, is limited given that electrical supplies and telecommunication networks are unreliable, although this situation is changing rapidly.
+- Despite erratic electrical supplies, inconsistent oxygen delivery, paucity of up-to-date drugs, and equipment, many provide lifesaving anesthesia.
+	- Few have received formal training in pediatric or neonatal anesthesia because, even when physician anesthetists are trained, the training is very adult orientated and few ever feel confident anesthetizing children let alone neonates.
+
+![[Newborn life support flowchart.pdf]]
+
+# Links
+- [[Paediatric Anaesthesia for Prematurity]]
+- [[Paediatric anatomy and physiology]]
+
+---
+
+---
+**References:**
+
+1. FRCA Mind Maps. (2024). Retrieved June 5, 2024, from https://www.frcamindmaps.org/
+2. Anesthesia Considerations. (2024). Retrieved June 5, 2024, from https://www.anesthesiaconsiderations.com/
+3. Disma, N., Engelhardt, T., Hansen, T. G., Graaff, J. C. d., Virág, K., & Habre, W. (2022). Neonates undergoing pyloric stenosis repair are at increased risk of difficult airway management: secondary analysis of the neonate and children audit of anaesthesia practice in europe. British Journal of Anaesthesia, 129(5), 734-739. https://doi.org/10.1016/j.bja.2022.07.041
+4. Gormley, S. and Crean, P. (2001). Basic principles of anaesthesia for neonates and infants. BJA CEPD Reviews, 1(5), 130-133. https://doi.org/10.1093/bjacepd/1.5.130
+5. Chandrashekhar, S., Davis, L., & Challands, J. (2015). Anaesthesia for neonatal emergency laparotomy. BJA Education, 15(4), 194-198. https://doi.org/10.1093/bjaceaccp/mku031
+6. MacRae, J. I., Ng, E., & Whyte, H. (2021). Anaesthesia for premature infants. BJA Education, 21(9), 355-363. https://doi.org/10.1016/j.bjae.2021.03.007
+**Summary or mindmap:**
+[Neonatal anaesthesia](https://frcamindmaps.org/mindmaps/paediatrics/basicprinciplesinneonatesandinfants/basicprinciplesinneonatesandinfants.html)
+[Pyloric stenosis](https://frcamindmaps.org/mindmaps/paediatrics/pyloricstenosis/pyloricstenosis.html)
+[TOF](https://frcamindmaps.org/mindmaps/paediatrics/poaatof/poaatof.html)
+[Prem-infant](https://www.anesthesiaconsiderations.com/premature-infant-)
+[Tracheoesophageal fistula](https://www.anesthesiaconsiderations.com/tracheoesophageal-fistula-)
+[Bronchopulmonary dysplasia](https://www.anesthesiaconsiderations.com/bronchopulmonary-dysplasia)
+[VACTERL](https://www.anesthesiaconsiderations.com/vacterl-considerations)
+[Basic principles of anaesthesia for neonates and infants](https://frcamindmaps.org/mindmaps/paediatrics/basicprinciplesinneonatesandinfants/basicprinciplesinneonatesandinfants.html)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+**Copyright**
+© 2022 Francois Uys. All Rights Reserved.
