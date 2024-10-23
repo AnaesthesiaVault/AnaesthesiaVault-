@@ -7,27 +7,19 @@ Subdomain:
 Date: 2024-10-23
 tags: []
 ---
-### Anaesthesia for Interventional Pulmonology: EBUS, Cryobiopsy, and More
+# Anaesthesia for Interventional Pulmonology: EBUS, Cryobiopsy, and More
 
 Prof. Ross Hofmeyr  
 Department of Anaesthesia & Perioperative Medicine, University of Cape Town
-
----
-
-### **Introduction**
+## **Introduction**
 
 Bronchoscopy is a crucial tool for thoracic surgeons, pulmonologists, intensivists, and anaesthesiologists, utilized for both diagnostic and therapeutic purposes. It can be divided into **rigid bronchoscopy** and **flexible bronchoscopy**, each with distinct procedural indications and anaesthetic considerations.
 
 - **Rigid Bronchoscopy**: Primarily used for **airway management** in cases of **external compression**, **internal obstruction**, or **lesion removal** (e.g., tracheal stenosis, foreign bodies). This often requires **deep general anaesthesia** (GA) and advanced ventilatory techniques such as **manual ventilation** or **high-frequency jet ventilation (HFJV)**.
     
 - **Flexible Bronchoscopy**: Has broader indications and allows greater flexibility in **procedure location**, **airway management**, and **ventilatory techniques**. It is commonly used for **diagnostic purposes** under **analgosedation** with **topical anaesthesia**, but with the increasing scope of **Interventional Pulmonology (IP)**, more procedures are performed under **deep sedation** or **GA**.
-    
 
-As anaesthetists and pulmonologists share the airway during these procedures, understanding the procedural requirements and their anaesthetic implications is crucial to ensuring patient safety.
-
----
-
-### **Setting and Patients**
+## **Setting and Patients**
 
 **Interventional Pulmonology Procedures** are commonly performed outside the traditional operating theatre, typically in **bronchoscopy suites**. This necessitates planning and precautions for **remote site anaesthesia**:
 
@@ -56,9 +48,6 @@ Patients undergoing IP procedures may present with a variety of underlying pulmo
 - **Radiological Review**: Always review radiological investigations to check for **mass lesions** or other relevant findings.
     
 - **Bronchospasm and Paraneoplastic Syndromes**: Be aware of the potential for **bronchospasm** or rare **paraneoplastic syndromes**. Ensure that appropriate **emergency drugs** (e.g., bronchodilators, corticosteroids) are readily available in case of airway reactivity or other complications.
-    
-
----
 
 ### **Anaesthesia for Common Interventional Pulmonology Procedures**
 
