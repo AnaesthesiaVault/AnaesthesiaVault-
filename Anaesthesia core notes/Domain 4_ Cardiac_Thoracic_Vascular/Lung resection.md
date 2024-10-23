@@ -294,20 +294,16 @@ Preoperative lung function testing assesses **respiratory mechanics** and **lung
 ### Postoperative Care
 
 1. **Extubation**:
-    
     - The patient should be extubated awake, warm, and comfortable before transfer to a **postoperative care unit**.
 2. **Pain Management and Monitoring**:
-    
     - Adequate analgesia (epidural/paravertebral) is essential for effective coughing and secretion clearance.
     - **Invasive monitoring** for blood pressure allows for titration of **vasoconstrictors**.
     - Early detection and treatment of complications such as haemorrhage, PPO, and cardiac arrhythmias are crucial.
 3. **Chest Drain Management**:
-    
     - The drain is clamped at the end of surgery and opened briefly every hour to check for bleeding.
     - Prolonged drain opening can cause **mediastinal shift** and cardiovascular instability.
     - The drain is usually removed on postoperative day 1, allowing the hemithorax to accumulate serous fluid.
 4. **Ward Transfer and Recovery**:
-    
     - Uncomplicated patients typically step down to a **thoracic surgical ward** by day 2 and are discharged within 7–10 days.
     - **Physiotherapy** and **incentive spirometry** help reduce postoperative pulmonary complications.
 
