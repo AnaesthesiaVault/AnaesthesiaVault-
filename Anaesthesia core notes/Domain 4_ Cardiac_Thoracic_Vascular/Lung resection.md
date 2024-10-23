@@ -4,7 +4,7 @@ Subdomain:
   - Thoracic Anaesthesia
 Date: 2024-03-18
 tags: [Thoracics/Lung-resection, Lung-resection]
-Date modified: Friday, October 4th 2024, 4:57:34 pm
+Date modified: Wednesday, October 23rd 2024, 2:58:01 pm
 ---
 
 # Lung Resection
@@ -109,14 +109,14 @@ Cardiac complications include myocardial infarction, pulmonary oedema, ventricul
 - *FEV1 in litres*
 #### Example
 - **Preoperative values**:
-    - Preoperative FEV1: 2.5 liters
-    - Predicted normal FEV1 for the patient (based on age, sex, height): 3.0 L
-    - Surgery involves resection of the right lower lobe (which contains 5 segments).
-    - After resection, the remaining lung segments are 14 out of 19.
+	- Preoperative FEV1: 2.5 liters
+	- Predicted normal FEV1 for the patient (based on age, sex, height): 3.0 L
+	- Surgery involves resection of the right lower lobe (which contains 5 segments).
+	- After resection, the remaining lung segments are 14 out of 19.
 - **Calculate ppoFEV1**:
-    - ppoFEV1 = 2.5 liters × (14 / 19) = 1.84 liters
+	- ppoFEV1 = 2.5 liters × (14 / 19) = 1.84 liters
 - **Calculate ppoFEV1 as a percentage**:
-    - ppoFEV1% = (1.84 liters / 3.0 liters) × 100 = 61.3%
+	- ppoFEV1% = (1.84 liters / 3.0 liters) × 100 = 61.3%
 
 **Risk Categories**:
 - Low risk: ≥40% ppoFEV1
@@ -129,11 +129,13 @@ Cardiac complications include myocardial infarction, pulmonary oedema, ventricul
 - Consider V/Q scanning for all pneumonectomies &/or if ppoFEV1 < 40%
 
 ## Conduct of Anaesthesia for Lung Resection
+
 ![[Pasted image 20241023145135.png]]
 
 [View or edit this diagram in Whimsical.](https://whimsical.com/conduct-of-anaesthesia-for-lung-resection-GiCZGWRFR74vnX1r9NL1Ts?ref=chatgpt)
 
 # ERAS for Lung Resections
+
 ![[Pasted image 20241023145203.png]]
 
 [View or edit this diagram in Whimsical.](https://whimsical.com/eras-for-lung-resection-59t8kzPm37ScCkwNMqnRqe?ref=chatgpt)
@@ -146,14 +148,12 @@ Cardiac complications include myocardial infarction, pulmonary oedema, ventricul
 - [[Thoracic pre-op assessment]]
 - [[Anaesthesia and cancer surgery]]
 
-
 ---
 **References:**
-
-1. [Anaesthesia considerations for lung resection. Wits refresher 2018 Hlongwane]
+1. Hackett, S. F., Jones, R., & Kapila, R. (2019). Anaesthesia for pneumonectomy. BJA Education, 19(9), 297-304. https://doi.org/10.1016/j.bjae.2019.04.004
+2. [Anaesthesia considerations for lung resection. Wits refresher 2018 Hlongwane]
 **Summary or mindmap:**
 [Pulmonary end arterectomy-video](https://www.youtube.com/watch?v=WnDUvM6p56M&embeds_referring_euri=https%3A%2F%2Fcardiothoracicanaesthesia.com%2F&source_ve_path=Mjg2NjY)
-
 
 ---
 

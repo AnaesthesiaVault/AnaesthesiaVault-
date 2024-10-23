@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Lung resection"
             }
+          },
+          {
+            "id": "c6c06acea71a2854",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 491.504695892334,
-    "collapsed": true
+    "width": 491.504695892334
   },
   "right": {
     "id": "1979b41a22d2702e",
@@ -225,8 +235,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "47c25392653720dd",
+  "active": "c6c06acea71a2854",
   "lastOpenFiles": [
+    "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Lung resection.md",
     "Archive/Images/Pasted image 20241023145203.png",
     "Archive/Images/Pasted image 20241023145135.png",
     "Fixes for wordpress.md",
@@ -274,7 +285,6 @@
     "Archive/Images/Pasted image 20241016163834.png",
     "Archive/Images/Pasted image 20241016163808.png",
     "Archive/Images/Pasted image 20241016112635.png",
-    "Archive/Images/Pasted image 20241016112428.png",
     "Index.canvas"
   ]
 }
