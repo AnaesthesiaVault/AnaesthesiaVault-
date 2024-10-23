@@ -132,6 +132,38 @@ According to the **British Thoracic Society (BTS)**, preoperative risk assessmen
 - Patients with **active cardiac conditions** (e.g., unstable angina, heart failure, arrhythmias) should consult a cardiologist for medical optimization.
 - In patients without active cardiac conditions, use the **Revised Cardiac Risk Index (RCRI)**. If RCRI ≥ 3 or poor functional capacity is noted, refer for **exercise stress testing** and cardiology review.
 - **Transthoracic echocardiography (TTE)** is recommended for all patients undergoing pneumonectomy, especially for those with **unexplained dyspnoea** or **audible heart murmur**. **Pulmonary hypertension** is a relative contraindication, particularly for **right pneumonectomy** due to the increase in pulmonary vascular resistance.
+##### Revised Cardiac Risk Index (RCRI)
+- **Number of Factors and Risk of Major Cardiac Complication**:
+  - 0: 0.4%
+  - 1: 1%
+  - 2: 7%
+  - ≥3: 11%
+- **Risk Factors**:
+  - High-risk type of surgery (includes all thoracic surgery)
+  - Ischaemic heart disease
+  - History of congestive cardiac failure
+  - History of cerebrovascular disease
+  - Insulin therapy for diabetes
+  - Preoperative serum creatinine > 177 μmol/L
+
+Cardiac complications include myocardial infarction, pulmonary oedema, ventricular fibrillation, primary cardiac arrest, and complete heart block.
+##### Thoracic Revised Cardiac Risk Index (ThRCRI)
+- **ThRCRI and Major Cardiac Complications (%)**:
+  - 0: 1.5%
+  - 1–1.5: 5.8%
+  - 2–2.5: 19%
+  - more than 2.5: 23%
+- **Criteria**:
+  - Serum creatinine > 180 μmol/L (1 point)
+  - Cerebrovascular disease (1.5 points)
+  - Cardiac ischemia (1.5 points)
+  - Pneumonectomy (1.5 points)
+
+**Surgical Options**:
+- Lobectomy or pneumonectomy usually not recommended if <35% or <10 ml/kg/min
+- Consider other options if risk is high
+
+(Source: ERS, European Respiratory Society; ESTS, European Society of Thoracic Surgeons)
 #### Postoperative Dyspnoea
 Preoperative lung function testing assesses **respiratory mechanics** and **lung parenchymal function**:
 - **Respiratory Mechanics (ppo FEV1)**: Predicted postoperative forced expiratory volume in 1 second (ppo FEV1) can be calculated using the formula:
@@ -139,15 +171,50 @@ Preoperative lung function testing assesses **respiratory mechanics** and **lung
 - Scintigraphy can be used in borderline cases to estimate lung function based on perfusion data
 	- % ppo FEV1 = preop FEV1 × (100 - % perfusion to lung to be resected) / predicted FEV1
 - **Lung Parenchymal Function (DLCO)**: Measures gas transfer effectiveness at the alveolar-capillary unit. A **ppo DLCO** < 30% predicts increased risk of postoperative complications and should prompt further testing such as **cardiopulmonary exercise testing (CPET)**.
-#### Functional Assessment of Cardiopulmonary Interaction
+##### Segment Methods for Predicting Postoperative Pulmonary Function
+
+**Ppo is predicted by**:
+- Calculating the portion of all bronchopulmonary segments (BPS) that will remain after resection.
+- Multiplying this portion by the preoperative lung function value.
+
+**Segments**:
+- Total pulmonary segments: 19
+  - Right lung: 10 segments (3/2/5): 55%
+  - Left lung: 9 segments (3 upper, 2 lingula, 4 lower): 45%
+
+**Calculate Predicted Postoperative FEV1 (ppoFEV1):**
+- ppoFEV1=Preoperative FEV1×(Number of Remaining Lung Segments/Total Number of Lung Segments)
+- ppoFEV1%= (ppoFEV1/Predicted Normal FEV1​)×100
+- *FEV1 in litres*
+###### Example
+- **Preoperative values**:
+	- Preoperative FEV1: 2.5 liters
+	- Predicted normal FEV1 for the patient (based on age, sex, height): 3.0 L
+	- Surgery involves resection of the right lower lobe (which contains 5 segments).
+	- After resection, the remaining lung segments are 14 out of 19.
+- **Calculate ppoFEV1**:
+	- ppoFEV1 = 2.5 liters × (14 / 19) = 1.84 liters
+- **Calculate ppoFEV1 as a percentage**:
+	- ppoFEV1% = (1.84 liters / 3.0 liters) × 100 = 61.3%
+
+**Risk Categories**:
+- Low risk: ≥40% ppoFEV1
+- Moderate risk: 30% to 40% ppoFEV1
+- High risk: <30% ppoFEV1
+##### Functional Assessment of Cardiopulmonary Interaction
 - **Shuttle Walk Test**: Patients walk between two 10 m spaced cones at an increasing pace. A distance >400 m correlates with a **peak oxygen consumption (VO2 peak)** > 15 mL O₂/kg/min. Patients covering <400 m should be referred for **CPET**.
 - **Cardiopulmonary Exercise Testing (CPET)**: The most critical measure is **V_O2 peak**:
     - **VO2 peak >20 mL O₂/kg/min**: Suitable for pneumonectomy.
     - **VO2 peak <10 mL O₂/kg/min**: Contraindication for surgery.
 
-## Risk Assessment
+#### Determine Physiological Suitability for Procedure by Assessing Predicted Postpneumonectomy Pulmonary Function
+- ppoFEV1 > 40%
+- ppoDLCO > 40%
+- VO2 max > 15 mL/kg/min (> 4 METS)
+- Consider V/Q scanning for all pneumonectomies &/or if ppoFEV1 < 40%
 
-![](Pasted%20image%2020240529102657.png)
+
+## Risk Assessment Summary 
 
 ### The "3-Legged" Stool of Pre-thoracotomy Respiratory Assessment
 
@@ -163,79 +230,8 @@ Preoperative lung function testing assesses **respiratory mechanics** and **lung
    - **DLCO**: ppo > 40%
    - PaO2 > 60, PaCO2 < 45
 
-### Revised Cardiac Risk Index (RCRI)
+![](Pasted%20image%2020240529102657.png)
 
-- **Number of Factors and Risk of Major Cardiac Complication**:
-  - 0: 0.4%
-  - 1: 1%
-  - 2: 7%
-  - ≥3: 11%
-- **Risk Factors**:
-  - High-risk type of surgery (includes all thoracic surgery)
-  - Ischaemic heart disease
-  - History of congestive cardiac failure
-  - History of cerebrovascular disease
-  - Insulin therapy for diabetes
-  - Preoperative serum creatinine > 177 μmol/L
-
-Cardiac complications include myocardial infarction, pulmonary oedema, ventricular fibrillation, primary cardiac arrest, and complete heart block.
-### Thoracic Revised Cardiac Risk Index (ThRCRI)
-
-- **ThRCRI and Major Cardiac Complications (%)**:
-  - 0: 1.5%
-  - 1–1.5: 5.8%
-  - 2–2.5: 19%
-  - more than 2.5: 23%
-- **Criteria**:
-  - Serum creatinine > 180 μmol/L (1 point)
-  - Cerebrovascular disease (1.5 points)
-  - Cardiac ischemia (1.5 points)
-  - Pneumonectomy (1.5 points)
-
-### Cardiopulmonary Assessment
-
-**Surgical Options**:
-- Lobectomy or pneumonectomy usually not recommended if <35% or <10 ml/kg/min
-- Consider other options if risk is high
-
-(Source: ERS, European Respiratory Society; ESTS, European Society of Thoracic Surgeons)
-
-### Segment Methods for Predicting Postoperative Pulmonary Function
-
-**Ppo is predicted by**:
-- Calculating the portion of all bronchopulmonary segments (BPS) that will remain after resection.
-- Multiplying this portion by the preoperative lung function value.
-
-**Segments**:
-- Total pulmonary segments: 19
-  - Right lung: 10 segments (3/2/5): 55%
-  - Left lung: 9 segments (3 upper, 2 lingula, 4 lower): 45%
-
-**Calculate Predicted Postoperative FEV1 (ppoFEV1):**
-- ppoFEV1=Preoperative FEV1×(Number of Remaining Lung Segments/Total Number of Lung Segments)
-- ppoFEV1%= (ppoFEV1/Predicted Normal FEV1​)×100
-- *FEV1 in litres*
-#### Example
-- **Preoperative values**:
-	- Preoperative FEV1: 2.5 liters
-	- Predicted normal FEV1 for the patient (based on age, sex, height): 3.0 L
-	- Surgery involves resection of the right lower lobe (which contains 5 segments).
-	- After resection, the remaining lung segments are 14 out of 19.
-- **Calculate ppoFEV1**:
-	- ppoFEV1 = 2.5 liters × (14 / 19) = 1.84 liters
-- **Calculate ppoFEV1 as a percentage**:
-	- ppoFEV1% = (1.84 liters / 3.0 liters) × 100 = 61.3%
-
-**Risk Categories**:
-- Low risk: ≥40% ppoFEV1
-- Moderate risk: 30% to 40% ppoFEV1
-- High risk: <30% ppoFEV1
-
-### Determine Physiological Suitability for Procedure by Assessing Predicted Postpneumonectomy Pulmonary Function
-- ppoFEV1 > 40%
-- ppoDLCO > 40%
-- VO2 max > 15 mL/kg/min (> 4 METS)
-- Consider V/Q scanning for all pneumonectomies &/or if ppoFEV1 < 40%
 
 ## Conduct of Anaesthesia for Lung Resection
 
