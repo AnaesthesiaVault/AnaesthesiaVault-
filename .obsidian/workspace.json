@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 491.504695892334,
-    "collapsed": true
+    "width": 491.504695892334
   },
   "right": {
     "id": "1979b41a22d2702e",
@@ -199,14 +198,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "ca3bf6e2b9c78fac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {

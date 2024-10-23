@@ -231,6 +231,7 @@ Cardiac complications include myocardial infarction, pulmonary oedema, ventricul
 - Low risk: ≥40% ppoFEV1
 - Moderate risk: 30% to 40% ppoFEV1
 - High risk: <30% ppoFEV1
+
 ### Determine Physiological Suitability for Procedure by Assessing Predicted Postpneumonectomy Pulmonary Function
 - ppoFEV1 > 40%
 - ppoDLCO > 40%
@@ -238,6 +239,82 @@ Cardiac complications include myocardial infarction, pulmonary oedema, ventricul
 - Consider V/Q scanning for all pneumonectomies &/or if ppoFEV1 < 40%
 
 ## Conduct of Anaesthesia for Lung Resection
+
+### Surgical Approach
+
+1. **Preoperative Rigid Bronchoscopy**:
+    
+    - Performed after induction of anesthesia to confirm sufficient bronchus length free of tumor, ensuring the feasibility of the procedure.
+    - **Sleeve lobectomy** is considered if a portion of the bronchus or pulmonary artery is involved, eliminating the need for pneumonectomy by excising the affected lobe and bronchus/artery with anastomosis of the remaining structures.
+2. **Common Surgical Approach**:
+    
+    - The most common access is a **posterolateral thoracotomy** at the fifth intercostal space, sometimes requiring excision of the fifth rib for exposure.
+    - Alternatively, **video-assisted thoracoscopic surgery (VATS)** can be used.
+    - The chest is explored for **pleural effusions** and **metastatic deposits** on the pleura or diaphragm before continuing.
+    - Once confirmed, the lung is retracted, and the superior and inferior pulmonary veins and pulmonary artery are sequentially ligated and divided.
+    - The **bronchus** is stapled and cut, with the patency tested by filling the thorax with warm saline and performing a leak test.
+    - A **thoracostomy tube** is placed in the postpneumonectomy space.
+
+### Anaesthesia
+1. **Induction**:
+    
+    - Confirm availability of a **level 2 postoperative care bed** and crossmatch two units of blood.
+    - Postoperative analgesia options include **midthoracic epidural** or **paravertebral catheter**.
+    - **Invasive arterial pressure monitoring** and **central venous catheterisation** are recommended for fluid and vasopressor management.
+    - **Temperature probes** and **urinary catheter** should be placed.
+    - **Antibiotics** are administered per local guidelines.
+    - Anesthesia maintenance may use a **volatile agent** or **total intravenous anesthesia (TIVA)**, especially during rigid bronchoscopy.
+2. **Position**:
+    
+    - The patient is positioned in **lateral decubitus** with careful attention to eye protection, pressure points, and neck alignment.
+    - **Venous thromboembolism (VTE) prophylaxis** is provided using graduated compression stockings, and **normothermia** is maintained with a warming blanket and fluid warmer.
+3. **Lung Isolation**:
+    
+    - The operative lung is collapsed, typically with a **double lumen tube (DLT)**, or alternatively a **bronchial blocker** if DLT placement is difficult.
+    - **Fibreoptic bronchoscopy** is used to confirm positioning, with particular attention to the **right upper lobe** in right-sided DLTs.
+    - **One-lung ventilation (OLV)** should begin before thoracotomy. Lung-protective strategies during OLV include low tidal volumes and sufficient PEEP.
+    
+    **Suggested OLV ventilatory targets**:
+    
+    - Tidal volume: 5–6 mL/kg (ideal body weight)
+    - Peak airway pressure: <35 cm H₂O
+    - Plateau airway pressure: <25 cm H₂O
+    - PEEP: 5 cm H₂O
+    - Maintain oxygen saturation at 94–98% (avoid hyperoxia)
+
+### Haemodynamic Management
+
+- **Clamping of the pulmonary artery** causes the entire pulmonary circulation to divert through the remaining lung. **Fluid management** is crucial to avoid both hypovolemia and excessive fluid, which increases the risk of post-pneumonectomy pulmonary oedema (PPO). Fluid restriction targets include:
+    - Positive fluid balance within 24 hours not exceeding 20 mL/kg
+    - Urine output ≥0.5 mL/kg/h should be accepted
+    - Intraoperative fluid restricted to the previous hour's urine output plus 20 mL/h
+    - Hypotension due to **epidural** should be treated with **vasoactive drugs**, not fluids.
+
+### Pulmonary Artery Clamping Test
+
+- **Final test** for suitability for pneumonectomy is clamping of the ipsilateral pulmonary artery.
+    - Significant **cardiovascular collapse** or elevated **central venous pressure (CVP)** indicates right ventricular failure and a high risk of postoperative cardiac complications.
+    - If physiological deterioration occurs and other causes (e.g., surgical compression) are excluded, the surgical team must reconsider continuing the procedure.
+
+### Postoperative Care
+
+1. **Extubation**:
+    
+    - The patient should be extubated awake, warm, and comfortable before transfer to a **postoperative care unit**.
+2. **Pain Management and Monitoring**:
+    
+    - Adequate analgesia (epidural/paravertebral) is essential for effective coughing and secretion clearance.
+    - **Invasive monitoring** for blood pressure allows for titration of **vasoconstrictors**.
+    - Early detection and treatment of complications such as haemorrhage, PPO, and cardiac arrhythmias are crucial.
+3. **Chest Drain Management**:
+    
+    - The drain is clamped at the end of surgery and opened briefly every hour to check for bleeding.
+    - Prolonged drain opening can cause **mediastinal shift** and cardiovascular instability.
+    - The drain is usually removed on postoperative day 1, allowing the hemithorax to accumulate serous fluid.
+4. **Ward Transfer and Recovery**:
+    
+    - Uncomplicated patients typically step down to a **thoracic surgical ward** by day 2 and are discharged within 7–10 days.
+    - **Physiotherapy** and **incentive spirometry** help reduce postoperative pulmonary complications.
 
 ![[Pasted image 20241023145135.png]]
 
