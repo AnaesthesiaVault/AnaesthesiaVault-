@@ -179,7 +179,6 @@ Preoperative lung function testing assesses **respiratory mechanics** and **lung
   - Preoperative serum creatinine > 177 μmol/L
 
 Cardiac complications include myocardial infarction, pulmonary oedema, ventricular fibrillation, primary cardiac arrest, and complete heart block.
-
 ### Thoracic Revised Cardiac Risk Index (ThRCRI)
 
 - **ThRCRI and Major Cardiac Complications (%)**:
