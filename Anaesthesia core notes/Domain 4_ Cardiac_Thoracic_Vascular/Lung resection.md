@@ -103,28 +103,25 @@ Cardiac complications include myocardial infarction, pulmonary oedema, ventricul
   - Right lung: 10 segments (3/2/5): 55%
   - Left lung: 9 segments (3 upper, 2 lingula, 4 lower): 45%
 
-**Ppo Calculation**:
-- PpoFEV1 = preopFEV1 x (remaining segments/19)
-- Example: 
-- Right upper lobe lobectomy with pre-op FEV1 of 1.6L:
-  - 3 segments to be removed in a patient with 80% predicted normal:
-	- PpoFEV1 = 1.6L x 16/19 = 1.35L
-	- PpoFEV1% = 80% x 16/19 = 67%
-
-**Formula for ppoFEV1%**:
-- ppoFEV1% = preoperative FEV1% x (1 - %tissue removed/100)
+**Calculate Predicted Postoperative FEV1 (ppoFEV1):**
+- ppoFEV1=Preoperative FEV1×(Number of Remaining Lung Segments/Total Number of Lung Segments)
+- ppoFEV1%= (ppoFEV1/Predicted Normal FEV1​)×100
+- *FEV1 in litres*
+#### Example
+- **Preoperative values**:
+    - Preoperative FEV1: 2.5 liters
+    - Predicted normal FEV1 for the patient (based on age, sex, height): 3.0 L
+    - Surgery involves resection of the right lower lobe (which contains 5 segments).
+    - After resection, the remaining lung segments are 14 out of 19.
+- **Calculate ppoFEV1**:
+    - ppoFEV1 = 2.5 liters × (14 / 19) = 1.84 liters
+- **Calculate ppoFEV1 as a percentage**:
+    - ppoFEV1% = (1.84 liters / 3.0 liters) × 100 = 61.3%
 
 **Risk Categories**:
 - Low risk: ≥40% ppoFEV1
 - Moderate risk: 30% to 40% ppoFEV1
 - High risk: <30% ppoFEV1
-
-**Functional Calculation**:
-- Total lung segments: 19
-- O= Number of obstructed segments by imaging; T= Number of preop functional segments; R= Remaining number of post-op segments
-  - T = 19 − O
-  - R = T − segments to be resected
-  - ppo value = (preoperative value / T) × R
 ### Determine Physiological Suitability for Procedure by Assessing Predicted Postpneumonectomy Pulmonary Function
 - ppoFEV1 > 40%
 - ppoDLCO > 40%
@@ -132,14 +129,12 @@ Cardiac complications include myocardial infarction, pulmonary oedema, ventricul
 - Consider V/Q scanning for all pneumonectomies &/or if ppoFEV1 < 40%
 
 ## Conduct of Anaesthesia for Lung Resection
-
-![](Pasted%20image%2020240701191202.png)
+![[Pasted image 20241023145135.png]]
 
 [View or edit this diagram in Whimsical.](https://whimsical.com/conduct-of-anaesthesia-for-lung-resection-GiCZGWRFR74vnX1r9NL1Ts?ref=chatgpt)
 
 # ERAS for Lung Resections
-
-![](Pasted%20image%2020240701191224.png)
+![[Pasted image 20241023145203.png]]
 
 [View or edit this diagram in Whimsical.](https://whimsical.com/eras-for-lung-resection-59t8kzPm37ScCkwNMqnRqe?ref=chatgpt)
 
@@ -151,15 +146,13 @@ Cardiac complications include myocardial infarction, pulmonary oedema, ventricul
 - [[Thoracic pre-op assessment]]
 - [[Anaesthesia and cancer surgery]]
 
----
 
 ---
 **References:**
 
-1. [Anaesthesia considerations for lung resectionWits refresher 2018Hlongwane]
+1. [Anaesthesia considerations for lung resection. Wits refresher 2018 Hlongwane]
 **Summary or mindmap:**
-[Pulmonary end arterectomy-video](https://www.youtube.com/watch?v=WnDUvM6p56M&embeds_referring_euri=https%3A%2F%2Fcardiothoracicanaesthesia.com%2F&source_ve_path=Mjg2NjY)\
----------------------------------------------------------------------------------------------
+[Pulmonary end arterectomy-video](https://www.youtube.com/watch?v=WnDUvM6p56M&embeds_referring_euri=https%3A%2F%2Fcardiothoracicanaesthesia.com%2F&source_ve_path=Mjg2NjY)
 
 
 ---
