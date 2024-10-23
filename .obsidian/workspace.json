@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anaesthesia for Interventional Pulmonology.md",
+                "file": "Fixes for wordpress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anaesthesia for Interventional Pulmonology"
+              "title": "Fixes for wordpress"
             }
           }
         ]
@@ -226,9 +226,10 @@
   },
   "active": "47c25392653720dd",
   "lastOpenFiles": [
+    "Index/6. Airway, ENT, Ophthalmology, Plastics and dental.md",
+    "The Brain (all notes).md",
+    "Anaesthesia core notes/6. ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Anaesthesia for Interventional Pulmonology.md",
     "Anaesthesia Vault.md",
-    "Anaesthesia for Interventional Pulmonology.md",
-    "The Brain (all notes)-DESKTOP-RV2U39R.md",
     "Anaesthesia Vault-DESKTOP-RV2U39R.md",
     "Anaesthesia core notes/6. ENT_Eyes_Dental_MaxFax_Head and neck_Airway/ENT surgery and emergencies.md",
     "Anaesthesia core notes/6. ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Head and neck surgery.md",
@@ -253,7 +254,6 @@
     "Anaesthesia core notes/Domain 8_ ICU/Pancreatitis.md",
     "Anaesthesia core notes/Domain 8_ ICU/Nutrition.md",
     "Anaesthesia core notes/Domain 8_ ICU/Lactate.md",
-    "Anaesthesia core notes/Domain 8_ ICU/Infection and antibiotics.md",
     "Anaesthesia core notes/Domain 8_ ICU",
     "Anaesthesia core notes/Domain 9_ Pain",
     "Anaesthesia core notes/Domain 7_Paediatric anaesthesia",

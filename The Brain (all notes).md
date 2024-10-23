@@ -1,5 +1,5 @@
 ---
-Date modified: Saturday, October 19th 2024, 9:41:32 am
+Date modified: Wednesday, October 23rd 2024, 11:59:14 am
 ---
 # 1. Fundamentals
 ## Physiology
@@ -76,7 +76,7 @@ Date modified: Saturday, October 19th 2024, 9:41:32 am
 - [[Airway guidelines]]
 ## Conditions and Procedures
 ### Medical
-- [[Anaesthesia core notes/Domain 5_Neurosurgery/Connective tissue and autoimmune disease]]
+- [[Anaesthesia core notes/5. Neurosurgery/Connective tissue and autoimmune disease]]
 - [[Endocrine and Metabolic]]
 - [[Neuromuscular disorders]]
 - [Diabetes Mellitus](Diabetes%20Mellitus.md)
@@ -109,7 +109,7 @@ Date modified: Saturday, October 19th 2024, 9:41:32 am
 - [[Airway equipment and techniques]]
 - [[Breathing systems]]
 ### Monitoring and Procedures
-- [[Arterial blood gas (ABG)]]
+- [[Arterial line and blood gas (ABG)]]
 - [[Bispectral Index (BIS)]]
 - [[Central venous pressure (CVP)]]
 - [[Chest X-ray (CXR)]]
@@ -316,7 +316,7 @@ Date modified: Saturday, October 19th 2024, 9:41:32 am
 ### Procedural and Surgical Topics
 - [[Awake craniotomy]]
 - [[HCP and VP shunt]]
-- [[Posterior fossa surgery]] \
+- [[Posterior fossa surgery]]
 - [[Pituitary surgery]]
 - [[Transsphenoidal surgery]]
 - [[Electroconvulsive therapy (ECT)]]
@@ -340,6 +340,7 @@ Date modified: Saturday, October 19th 2024, 9:41:32 am
 - [[ENT surgery and emergencies]]
 - [[Laser surgery]]
 - [[Shared airway]]
+- [[Anaesthesia for Interventional Pulmonology]]
 ## Maxillofacial
 - [[Maxillofacial]]
 - [[Head and neck surgery]]
@@ -405,14 +406,14 @@ Date modified: Saturday, October 19th 2024, 9:41:32 am
 # 8. Intensive Care Medicine (ICU)
 ## General Considerations
 - [[General ICU]]
-- [[Anaesthesia core notes/Domain 8_ ICU/Surgical site infection]]
+- [[Anaesthesia core notes/8. ICU/Surgical site infection]]
 - [[Infection and antibiotics]]  
 - [[Toxicology]]
 - [[Nutrition]]
 - [[Analgesia in ICU]]
 ## Physiology and Pharmacology
 - [[CVS support and shock ]]
-- [[Fluids and volume status]]
+- [[Fluid, volume and Monitoring]]
 - [[Electrolytes]]
 - [[Lactate]]
 - [[Acid base]]
@@ -447,7 +448,7 @@ Date modified: Saturday, October 19th 2024, 9:41:32 am
 - [[Pain measurement]]
 - [[Pain regional blocks]]
 # 10. Non Operating Room Anaesthesia (NORA)
-- [[Endoscopic Retrograde Cholangiopancreatography (ERCP)]]
+- [[Endoscopic Retrograde Cholangiopancreatography (ERCP) and Obstructive Jaundice]]
 - [[Gastroscopy and colonoscopy]]
 - [[CT and MRI]]
 - [[Neuroradiology]]
@@ -482,7 +483,7 @@ Date modified: Saturday, October 19th 2024, 9:41:32 am
 - [[Triage]]
 - [[Anaesthetist substance abuse]]
 # 14. Data Interpretation
-- [[Arterial blood gas (ABG)]]
+- [[Arterial line and blood gas (ABG)]]
 - [[Bispectral Index (BIS)]]
 - [[Central venous pressure (CVP)]]
 - [[Chest X-ray (CXR)]]
@@ -503,8 +504,6 @@ Date modified: Saturday, October 19th 2024, 9:41:32 am
 - [Neuraxial Ultrasound](Neuraxial%20Ultrasound.md)
 - [Echocardiography](Echocardiography.md)
 - [Transoesophageal ultrasound (TOE)](Transoesophageal%20ultrasound%20(TOE).md)
-
 ---
-
 **Copyright**
 © 2022 Francois Uys. All Rights Reserved.
