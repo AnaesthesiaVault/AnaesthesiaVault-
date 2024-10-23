@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Lung resection"
             }
-          },
-          {
-            "id": "c6c06acea71a2854",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 491.504695892334
+    "width": 491.504695892334,
+    "collapsed": true
   },
   "right": {
     "id": "1979b41a22d2702e",
@@ -235,15 +225,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c6c06acea71a2854",
+  "active": "47c25392653720dd",
   "lastOpenFiles": [
+    "Anaesthesia core notes/6. ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Anaesthesia for Interventional Pulmonology.md",
+    "The Brain (all notes).md",
     "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Lung resection.md",
     "Archive/Images/Pasted image 20241023145203.png",
     "Archive/Images/Pasted image 20241023145135.png",
     "Fixes for wordpress.md",
     "Index/6. Airway, ENT, Ophthalmology, Plastics and dental.md",
-    "The Brain (all notes).md",
-    "Anaesthesia core notes/6. ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Anaesthesia for Interventional Pulmonology.md",
     "Anaesthesia Vault.md",
     "Anaesthesia Vault-DESKTOP-RV2U39R.md",
     "Anaesthesia core notes/6. ENT_Eyes_Dental_MaxFax_Head and neck_Airway/ENT surgery and emergencies.md",
