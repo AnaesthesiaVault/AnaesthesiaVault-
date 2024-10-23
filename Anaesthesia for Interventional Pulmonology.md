@@ -35,7 +35,7 @@ Bronchoscopy is a crucial tool for thoracic surgeons, pulmonologists, intensivis
 - These rooms are typically **smaller** than operating theatres and often not ergonomically designed for the **complexity and equipment needs** of modern IP procedures. The setup may require **bronchoscopic stacks**, **ultrasound**, **cytology**, and **fluoroscopy** equipment, and may involve multiple team members.
 - **Preoperative Planning**: An early arrival is beneficial to anticipate space and equipment needs and ensure everything is in place.
 
-### **Patient Considerations**
+## **Patient Considerations**
 
 Patients undergoing IP procedures may present with a variety of underlying pulmonary conditions, including **lung cancer**, **tuberculosis**, **sarcoidosis**, **lymphoma**, and **chronic lung diseases** (e.g., COPD, reactive, and interstitial lung diseases). Specific considerations include:
 
@@ -49,7 +49,7 @@ Patients undergoing IP procedures may present with a variety of underlying pulmo
     
 - **Bronchospasm and Paraneoplastic Syndromes**: Be aware of the potential for **bronchospasm** or rare **paraneoplastic syndromes**. Ensure that appropriate **emergency drugs** (e.g., bronchodilators, corticosteroids) are readily available in case of airway reactivity or other complications.
 
-### **Anaesthesia for Common Interventional Pulmonology Procedures**
+## **Anaesthesia for Common Interventional Pulmonology Procedures**
 
 1. **Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA)**:
     
@@ -63,9 +63,9 @@ Patients undergoing IP procedures may present with a variety of underlying pulmo
     
     - Used for obtaining lung tissue samples, cryobiopsy is particularly useful in diagnosing **interstitial lung diseases**. The procedure involves freezing lung tissue, which is then removed for analysis.
     - **Anaesthetic considerations**: The risk of **bleeding** and **pneumothorax** is higher compared to conventional biopsy techniques. Patients may need **deep sedation** or **GA** with good access to the airway to manage complications. Immediate access to suction and haemostatic agents is recommended.
-### Common Interventional Pulmonology Procedures
+## Common Interventional Pulmonology Procedures
 
-#### **1. Bronchoscopy**
+### **1. Bronchoscopy**
 
 - **Overview**: Bronchoscopy involves passing a **flexible endoscope** down the bronchial tree for diagnostic and therapeutic purposes.
     
@@ -78,21 +78,21 @@ Patients undergoing IP procedures may present with a variety of underlying pulmo
     - Can be performed with only **topical anaesthesia**, but moderate sedation to **general anaesthesia (GA)** is often required.
     - For GA, **total intravenous anaesthesia (TIVA)** with **target-controlled infusion (TCI)** and a **supraglottic airway (SGA)** is ideal.
 
-#### **2. Foreign Body Removal**
+### **2. Foreign Body Removal**
 
 - **Overview**: Removal of foreign bodies (e.g., peanuts, bones) via flexible bronchoscopy with **grasping forceps** or **wire baskets**.
 - **Anaesthetic Considerations**:
     - Often requires **deep sedation** or **GA** due to the stimulating nature of the procedure.
     - If flexible bronchoscopy is unsuccessful, **rigid bronchoscopy** under GA may be required, often performed in the operating theatre.
 
-#### **3. Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA)**
+### **3. Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA)**
 
 - **Overview**: EBUS involves using a **bronchoscope with an ultrasound probe** at the distal end for navigating and biopsying **lesions** or **lymph nodes**. A **biopsy needle** is passed through the working channel to perform **multiple aspirations** under **real-time ultrasound guidance**.
 - **Anaesthetic Considerations**:
     - Performed under **GA** to ensure patient immobility, with **SGA** preferred to provide access to the entire trachea and bronchial tree.
     - Procedure duration ranges from **20-60 minutes**.
 
-#### **4. Thermoablation and Bronchial Thermoplasty**
+### **4. Thermoablation and Bronchial Thermoplasty**
 
 - **Thermoablation**: Used to treat **advanced emphysema** by delivering **steam** via a catheter to specific lung segments, causing **local inflammation** and **atelectasis**.
     
@@ -102,7 +102,7 @@ Patients undergoing IP procedures may present with a variety of underlying pulmo
     
     - Both procedures require meticulous **anatomical orientation** and **control of coughing**, making **GA** preferable.
 
-#### **5. Cryobiopsy**
+### **5. Cryobiopsy**
 
 - **Overview**: Involves freezing tissue with a **cryoprobe** and retracting it sharply to obtain lung tissue samples, typically for diagnosing **interstitial lung diseases**.
     
@@ -111,7 +111,7 @@ Patients undergoing IP procedures may present with a variety of underlying pulmo
     - Cryobiopsy has a higher risk of **bleeding** and **pneumothorax** compared to conventional biopsy techniques.
     - Performed under **deep sedation** or **GA** with immediate access to **suction** and haemostatic measures.
 
-#### **6. Cryoadhesion and Cryoablation**
+### **6. Cryoadhesion and Cryoablation**
 
 - **Cryoadhesion**: Freezing a **foreign body** (e.g., food particles or blood clots) using a cryoprobe to allow easy removal.
     
@@ -121,7 +121,7 @@ Patients undergoing IP procedures may present with a variety of underlying pulmo
     
     - **GA** is preferred for procedures involving large airways or peripheral lung parenchymal tissue due to the need for precise control.
 
-#### **7. Medical Thoracoscopy (Pleuroscopy)**
+### **7. Medical Thoracoscopy (Pleuroscopy)**
 
 - **Overview**: Similar to **video-assisted thoracic surgery (VATS)**, but performed with a **single-port approach** using a **rigid endoscope** to inspect or biopsy the pleura, drain effusions, or perform pleurodesis.
     
@@ -129,7 +129,7 @@ Patients undergoing IP procedures may present with a variety of underlying pulmo
     
     - Typically done under **sedation** and **local anaesthesia** with **spontaneous breathing**, without the need for GA or lung isolation.
 
-#### **8. Lung Volume Reduction Procedures**
+### **8. Lung Volume Reduction Procedures**
 
 - **Overview**: These procedures aim to reduce the volume of hyperinflated lungs, particularly in patients with **emphysema**:
     
@@ -138,15 +138,15 @@ Patients undergoing IP procedures may present with a variety of underlying pulmo
     
     **Anaesthetic Considerations**:
     - **GA** is recommended to ensure accurate **fluoroscopic positioning** and to control ventilation.
-### Anaesthesia for Interventional Pulmonology Procedures
+## Anaesthesia for Interventional Pulmonology Procedures
 
-#### **General Considerations**
+### **General Considerations**
 
 - **Simple diagnostic bronchoscopy**: Often performed under **sedation** with **topical anaesthesia**.
     - **Supplemental oxygen**: Administered via nasal cannulae, with a **warmed and humidified system** being ideal where available.
     - **Anaesthesia preference**: Many patients and pulmonologists prefer **general anaesthesia (GA)** when an anaesthetist is involved, particularly for complex procedures like **EBUS** or **cryobiopsy**.
 
-#### **Airway Management**
+### **Airway Management**
 
 - **Optimal strategy**: Use of a well-fitting, second-generation **supraglottic airway (SGA)** is recommended.
     - **Benefits**: Maintains airway patency, protects against bronchoscope bites, facilitates oxygenation/ventilation, and provides access to the entire trachea and bronchial tree.
