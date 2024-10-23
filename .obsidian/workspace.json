@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fixes for wordpress.md",
+                "file": "Anaesthesia core notes/Domain 4_ Cardiac_Thoracic_Vascular/Lung resection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fixes for wordpress"
+              "title": "Lung resection"
             }
           }
         ]
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 491.504695892334
+    "width": 491.504695892334,
+    "collapsed": true
   },
   "right": {
     "id": "1979b41a22d2702e",
@@ -226,6 +227,7 @@
   },
   "active": "47c25392653720dd",
   "lastOpenFiles": [
+    "Fixes for wordpress.md",
     "Index/6. Airway, ENT, Ophthalmology, Plastics and dental.md",
     "The Brain (all notes).md",
     "Anaesthesia core notes/6. ENT_Eyes_Dental_MaxFax_Head and neck_Airway/Anaesthesia for Interventional Pulmonology.md",
@@ -253,7 +255,6 @@
     "Anaesthesia core notes/Domain 8_ ICU/Renal replacement therapy.md",
     "Anaesthesia core notes/Domain 8_ ICU/Pancreatitis.md",
     "Anaesthesia core notes/Domain 8_ ICU/Nutrition.md",
-    "Anaesthesia core notes/Domain 8_ ICU/Lactate.md",
     "Anaesthesia core notes/Domain 8_ ICU",
     "Anaesthesia core notes/Domain 9_ Pain",
     "Anaesthesia core notes/Domain 7_Paediatric anaesthesia",

@@ -105,7 +105,8 @@ Cardiac complications include myocardial infarction, pulmonary oedema, ventricul
 
 **Ppo Calculation**:
 - PpoFEV1 = preopFEV1 x (remaining segments/19)
-- Example: Right upper lobe lobectomy with pre-op FEV1 of 1.6L:
+- Example: 
+- Right upper lobe lobectomy with pre-op FEV1 of 1.6L:
   - 3 segments to be removed in a patient with 80% predicted normal:
 	- PpoFEV1 = 1.6L x 16/19 = 1.35L
 	- PpoFEV1% = 80% x 16/19 = 67%
